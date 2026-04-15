@@ -1,0 +1,1470 @@
+fid,id,Site,dbh_2025,height2025,Species,Comments,lat,lon,Source,Measured_height,Measured_DBH
+"1",,VANI-1,"1.4",2.2,(ACRU),,,,Soverdi,true,true
+"2",,VANI-1,"1.3",2.3,(QUAL),,,,Soverdi,true,true
+"3",,VANI-1,"3",3.5,(BEPA),,,,Soverdi,true,true
+"4",,VANI-1,"1.2",2.1,(ACPE),,,,Soverdi,true,true
+"5",,VANI-1,"2.1",2.7,(CEOC),,,,Soverdi,true,true
+"6",,VANI-1,"1.9",2.25,(ACRU),,,,Soverdi,true,true
+"7",,VANI-1,"1.6",2.7,(PODE),,,,Soverdi,true,true
+"8",,VANI-1,"2.7",3,(CAOV),,,,Soverdi,true,true
+"9",,VANI-1,"1.7",3.1,(BEPA),,,,Soverdi,true,true
+"10",,VANI-1,"1.3",2.28,(ACRU),Sick leaves,,,Soverdi,true,true
+"11",,VANI-1,"1.3",2.5,(PRVI),,,,Soverdi,true,true
+"12",,VANI-1,"1",2.04,(Pine sp),Prickly!,,,Soverdi,true,false
+"13",,VANI-1,"1.5",2.7,(PRVI),,,,Soverdi,true,true
+"14",,VANI-1,"1.9",2.4,(CEOC),,,,Soverdi,true,true
+"15",,VANI-1,"2.3",3.2,(BEPA),,,,Soverdi,true,true
+"16",,VANI-1,"1.5",2.04,(Pine sp),,,,Soverdi,true,true
+"17",,VANI-1,"1",2,Sorbus aucuparia,Unhealthy leaves,,,Soverdi,,
+"18",,VANI-1,"2.9",2.7,(PRSE),,,,Soverdi,true,true
+"19",,VANI-1,"1.8",2.6,(PODE),,,,Soverdi,true,true
+"20",,VANI-1,"1.9",2.9,(PODE),,,,Soverdi,true,true
+"21",,VANI-1,"1",2.74,Sorbus aucuparia,Sad leaves,,,Soverdi,true,true
+"22",,VANI-1,"1.2",2,(QUAL),,,,Soverdi,true,true
+"23",,VANI-1,"1.4",2.16,(CEOC),,,,Soverdi,true,true
+"24",,VANI-1,"1.5",2.6,(PRVI),,,,Soverdi,true,true
+"25",,VANI-1,"1.6,1",2.98,(PODE),,,,Soverdi,true,true
+"26",,VANI-1,"2.7",3.1,(PRSE),,,,Soverdi,true,true
+"27",,VANI-1,"1",2.1,Sorbus aucuparia,,,,Soverdi,true,true
+"28",,VANI-1,"1",2.1,Sorbus aucuparia,,,,Soverdi,true,true
+"29",,VANI-1,"1.4",2.64,(PODE),,,,Soverdi,true,true
+"30",,VANI-1,"2.2",3.2,(BEPA),,,,Soverdi,true,true
+"31",,VANI-1,"1.8",3,(PRVI),,,,Soverdi,true,true
+"32",,VANI-1,"1.5",2.66,(CEOC),,,,Soverdi,true,true
+"33",,VANI-1,"1.7",2.08,(ACRU),,,,Soverdi,true,true
+"34",,VANI-1,"2.2",2.5,(CAOV),,,,Soverdi,true,true
+"35",,VANI-1,"1.5,1,0.5,0.5",2.94,(PODE),,,,Soverdi,,
+"36",,VANI-1,"1,0.5",2.16,Sorbus aucuparia,,,,Soverdi,true,true
+"37",,VANI-1,"1.9",3.04,(PRVI),,,,Soverdi,true,true
+"38",,VANI-1,"1.2",2.4,(ACPE),,,,Soverdi,true,true
+"39",,VANI-1,"2.1",3.4,(BEPA),,,,Soverdi,true,true
+"40",,VANI-1,"1.5",2.05,(PIBA),,,,Soverdi,true,true
+"41",,VANI-1,"2.2",3,(Prunes sp),,,,Soverdi,true,true
+"42",,VANI-1,"1.8",2.74,(CEOC),,,,Soverdi,true,true
+"43",,VANI-1,"1.4",2.06,(CACA),,,,Soverdi,true,true
+"44",,VANI-1,"1",2.26,Sorbus aucuparia,Sad leaves,,,Soverdi,true,true
+"45",,VANI-1,"1.9",2,(QUBI),,,,Soverdi,true,true
+"46",,VANI-1,"2.5",3.4,(BEPA),Sad leaves,,,Soverdi,true,true
+"47",,VANI-1,"1.9",3.02,(PRVI),,,,Soverdi,true,true
+"48",,VANI-1,"1.3",2.06,(QUAL),,,,Soverdi,true,true
+"49",,VANI-1,"1.7",3.2,(PRVI),,,,Soverdi,true,true
+"50",,VANI-1,"1.2",2.2,(ACPE),,,,Soverdi,true,true
+"51",,VANI-1,"2.5,0.7",3.04,(BEPA),,,,Soverdi,true,true
+"52",,VANI-1,"1.7",2.64,(PRVI),,,,Soverdi,true,true
+"53",,VANI-1,"4.2",5,(PODE),,,,Soverdi,true,true
+"54",,VANI-1,"1",2.2,Sorbus aucuparia,,,,Soverdi,true,true
+"55",,VANI-1,"2.3",3.1,(CEOC),,,,Soverdi,true,true
+"56",,VANI-1,"2.7,0.5,0.7",3.9,(BEPA),,,,Soverdi,true,true
+"57",,VANI-1,"1.5",2.85,(PRVI),,,,Soverdi,true,true
+"58",,VANI-1,"3.7,1,1,1",5,(PODE),,,,Soverdi,true,true
+"59",,VANI-1,"1",2,(PIBA),,,,Soverdi,true,true
+"60",,VANI-1,"3.6",5,(PODE),,,,Soverdi,true,true
+"61",,VANI-1,"1.6, 1, 0.7, 0.7",2.2,(ACRU),,,,Soverdi,,
+"62",,VANI-1,"1",2.38,(QUBI),,,,Soverdi,true,true
+"63",,VANI-1,"1",2.16,(PIBA),,,,Soverdi,true,true
+"64",,VANI-1,"0.5,0.7,0.7",2.15,Sorbus aucuparia,,,,Soverdi,true,true
+"65",,VANI-1,"2.5",2.45,(CAOV),,,,Soverdi,true,true
+"66",,VANI-1,"1.8",2.4,(CAOV),,,,Soverdi,true,true
+"67",,VANI-1,"1.65",3.04,(PRVI),,,,Soverdi,true,true
+"68",,VANI-1,"3.3,1,1,1",4.3,(PODE),,,,Soverdi,true,true
+"69",,VANI-1,"1.1, 0.7,0.7,0.5",2.04,(ACRU),Sad leaves ,,,Soverdi,true,true
+"70",,VANI-1,"1.3",2.3,(QUBI),,,,Soverdi,true,true
+"71",,VANI-1,"3.4,0.5,0.5,1.3",4.8,(PODE),,,,Soverdi,true,true
+"72",,VANI-1,"1.3",2.08,(ACPE),,,,Soverdi,true,true
+"73",,VANI-1,"2.4",3.04,(BEPA),Sad leaves,,,Soverdi,true,true
+"74",,VANI-1,"1",2.2,(ACPE),,,,Soverdi,true,true
+"75",,VANI-1,"1",2.5,Sorbus aucuparia,,,,Soverdi,true,true
+"76",,VANI-1,"3,1.3,1.3,0.8,1,1",5,(PODE),,,,Soverdi,true,true
+"77",,VANI-1,"2.6",3.04,(PRSE),,,,Soverdi,true,true
+"78",,VANI-1,"1.5",2.3,(CEOC),,,,Soverdi,true,true
+"79",,VANI-1,"1.8",2.28,(ACRU),,,,Soverdi,true,true
+"80",,VANI-1,"1.6,0.9,0.9",2.55,(CEOC),,,,Soverdi,true,true
+"81",,VANI-1,"2.5,1.3,1.3,1,1",3.2,(BEPA),,,,Soverdi,true,true
+"82",,VANI-1,"0.8,0.4",2.1,Sorbus aucuparia,,,,Soverdi,true,true
+"83",,VANI-1,"2.5",3.05,(BEPA),,,,Soverdi,,
+"84",,VANI-1,"2.65",2.75,(PRSE),,,,Soverdi,true,true
+"85",,VANI-1,"0.8",2.02,(OSVI),,,,Soverdi,true,true
+"86",,VANI-1,"1.4",2.15,(ACRU),,,,Soverdi,true,true
+"87",,VANI-1,"0.8",2.05,(CACA),,,,Soverdi,true,true
+"88",,VANI-1,"2.2",2.7,(CEOC),,,,Soverdi,true,true
+"89",,LOYO-2,"78.5",34.2,Acer saccharinum,City tree (?),,,Unknown,true,true
+"90",,LOYO-2,"10.5",5.8,(Ulmus pumila ),Not in city inventory,,,Unknown,true,true
+"91",,LOYO-2,"10",4.5,Acer negundo,,,,Unknown,false,false
+"92",,LOYO-2,,,Acer negundo,Estimated DBH but not height ,,,Unknown,true,false
+"94",,LOYO-1,"5",2,(Celtics occidentalis),,,,Soverdi,true,true
+"95",,LOYO-1,"8.1, 2.6",5.7,(Populous deltoides),,,,Soverdi,true,true
+"96",,LOYO-1,"3",2,Quercus rubra,,,,Soverdi,true,true
+"99",,LOYO-1,"1.5,1.5",2.2,Gymnocladus dioicus,,,,Soverdi,true,true
+"100",,LOYO-1,"1.2",2.98,(Betula allegheniensis),,,,Soverdi,true,true
+"101",,LOYO-1,"2.5",2.9,(Sugar maple),,,,Soverdi,true,true
+"102",,LOYO-1,"1.4,1",3.1,Amelanchier canadensis,,,,Soverdi,true,true
+"103",,LOYO-1,"1.2,1.2",2.64,(Cretagus crus-galli ),,,,Soverdi,true,true
+"104",,LOYO-1,"1.3",2.8,Tilia americana,Looking bad,,,Soverdi,true,true
+"105",,LOYO-1,"1.1",2.3,Quercus bicolor,,,,Soverdi,true,true
+"106",,LOYO-1,"1.2",2.6,Ostrya virginiana,,,,Soverdi,true,true
+"107",,LOYO-1,"1.2",2.56,Sorbus americana,,,,Soverdi,true,true
+"108",,LOYO-1,"0.6",2.1,Ulmus americana,,,,Soverdi,true,true
+"109",,LOYO-1,"2.3",2.9,Amelanchier canadensis,,,,Soverdi,true,true
+"110",,LOYO-1,"2.3",2.4,Carpinus caroliniana,,,,Soverdi,true,true
+"111",,LOYO-1,"1.2",2.5,(Striped maple),,,,Soverdi,true,true
+"112",,LOYO-1,"2.3",3.1,(Sugar maple),,,,Soverdi,true,true
+"113",,LOYO-1,"2.1",3.1,Carpinus caroliniana,,,,Soverdi,true,true
+"114",,LOYO-1,"2.3",3.1,Quercus rubra,,,,Soverdi,true,true
+"115",,LOYO-1,"2.1",2.8,(Sugar maple),Looks bad,,,Soverdi,true,true
+"116",,LOYO-1,"1.1",2.4,Crataegus crus-galli,,,,Soverdi,true,true
+"117",,LOYO-1,"1.4",2.5,Sorbus americana,Very bad,,,Soverdi,true,true
+"118",,LOYO-1,"1.3",2.45,Tilia americana,,,,Soverdi,true,true
+"119",,LOYO-1,"1.2",2.1,(Carya cordiformis ),,,,Soverdi,true,true
+"120",,LOYO-1,"1.0",2.7,(Betulah alleghensis ),,,,Soverdi,true,true
+"121",,LOYO-1,"1.5",2.8,Quercus rubra,,,,Soverdi,true,true
+"122",,LOYO-1,"1.5",3.1,Carpinus caroliniana,,,,Soverdi,true,true
+"123",,LOYO-1,"1.3",2.9,Sorbus americana,,,,Soverdi,true,true
+"124",,LOYO-1,"1.4",2.55,Tilia americana,,,,Soverdi,true,true
+"125",,LOYO-1,"0.8",2.1,(Cretagus crus-galli),,,,Soverdi,true,true
+"126",,LOYO-1,"0.8",2.4,Ulmus americana,,,,Soverdi,true,true
+"127",,LOYO-1,"0.8",2.2,Carya cordiformis,,,,Soverdi,true,true
+"128",,LOYO-1,"1.6",3,Sorbus americana,,,,Soverdi,true,true
+"129",,LOYO-1,"1.6",3,Carpinus caroliniana,,,,Soverdi,true,true
+"130",,LOYO-1,"1.7",3,Carpinus caroliniana,,,,Soverdi,true,true
+"131",,LOYO-1,"1.6",2.3,Quercus rubra,,,,Soverdi,true,true
+"132",,LOYO-1,"1.3",3,Sorbus americana,,,,Soverdi,true,true
+"133",,LOYO-1,"1.4",2.45,(Tilia americana ),,,,Soverdi,true,true
+"134",,LOYO-1,"1.0",2.4,Tilia americana,,,,Soverdi,true,true
+"135",,LOYO-1,"0.9,1.2",2.3,(Cretagus crus-galli),,,,Soverdi,true,true
+"136",,LOYO-1,"0.8",2.4,Ulmus americana,,,,Soverdi,true,true
+"137",,LOYO-1,"0.8",2.1,(Striped maple),,,,Soverdi,true,
+"138",,LOYO-1,"1.7",2.8,Carpinus caroliniana,,,,Soverdi,true,true
+"139",,LOYO-1,"1.1",2.5,Amelanchier canadensis,,,,Soverdi,true,true
+"140",,LOYO-1,"1.2",2.9,Sorbus americana,,,,Soverdi,true,true
+"141",,LOYO-1,"1.5",2.8,Carpinus caroliniana,,,,Soverdi,true,true
+"142",,LOYO-1,"1.5",2.9,Amelanchier canadensis,,,,Soverdi,true,true
+"143",,LOYO-1,"1.8",3.2,Sorbus americana,,,,Soverdi,true,true
+"144",,LOYO-1,"0.9,0.8",2.35,(Populus tremuloides ),,,,Soverdi,true,true
+"145",,LOYO-1,"1.1",2.5,Tilia americana,,,,Soverdi,true,true
+"146",,LOYO-1,"1.9",3,Sorbus americana,,,,Soverdi,true,true
+"147",,LOYO-1,"2.4",3.1,Liriodendron tulipifera,,,,Soverdi,true,true
+"148",,LOYO-1,"1",2.4,(Acer pensylvanica),,,,Soverdi,true,true
+"149",,LOYO-1,"1.5",2.8,Carpinus caroliniana,,,,Soverdi,true,true
+"150",,LOYO-1,"1.7",2.1,(Quercus rubra ),,,,Soverdi,true,true
+"151",,LOYO-1,"2",2.6,(Amelanchier canadensis ),,,,Soverdi,true,true
+"152",,LOYO-1,"1.7",2.8,Quercus rubra,,,,Soverdi,true,true
+"153",,LOYO-1,"1.1",2.7,(Acer pensylvanica),,,,Soverdi,true,true
+"154",,LOYO-1,"1.5",2.7,Carpinus caroliniana,,,,Soverdi,true,true
+"155",,LOYO-1,"1.9",2.9,Liriodendron tulipifera,,,,Soverdi,true,true
+"156",,LOYO-1,"1.6",2.4,(Cretagus crus-galli ),,,,Soverdi,true,true
+"157",,LOYO-1,"1.6",2.7,Sorbus americana,,,,Soverdi,true,
+"158",,LOYO-1,"1.4",2.3,(Cretagus crus-galli ),,,,Soverdi,true,true
+"159",,LOYO-1,"1.9",3.1,Quercus bicolor,,,,Soverdi,true,true
+"160",,LOYO-1,"1.4",2.7,(Amelanchier canadensis ),,,,Soverdi,true,true
+"161",,LOYO-1,"1.6",2.65,Carpinus caroliniana,,,,Soverdi,true,true
+"162",,LOYO-1,"0.7",2.4,(Ulmus americana ),Dead,,,Soverdi,true,true
+"163",,LOYO-1,"1.1",2.2,(Tilia americana ),Dead,,,Soverdi,true,true
+"164",,LOYO-1,"1.3",2.3,(Carya cordiformis ),,,,Soverdi,true,true
+"165",,LOYO-1,"1.6",2.9,(Sorbus americana ),,,,Soverdi,true,true
+"166",,LOYO-1,"1.2",2.45,(Cretagus crus-galli ),,,,Soverdi,true,true
+"167",,LOYO-1,"1.7",2.4,Populus tremuloides,,,,Soverdi,true,true
+"168",,LOYO-1,"1.6",2.9,(Sorbus americana ),,,,Soverdi,true,true
+"169",,LOYO-1,"1.9",2.4,Quercus bicolor,,,,Soverdi,true,true
+"170",,LOYO-1,"1.5",2.7,(Amelanchier canadensis ),,,,Soverdi,true,true
+"171",,LOYO-1,"1.4",2.3,Gymnocladus dioicus,,,,Soverdi,true,true
+"172",,LOYO-1,"1.3",2.7,(Betula alleghensis ),,,,Soverdi,true,true
+"173",,LOYO-1,"1.7",2.9,Carpinus caroliniana,,,,Soverdi,true,true
+"174",,LOYO-1,"1.6",2.5,(Quercus rubra ),,,,Soverdi,true,true
+"175",,LOYO-1,"1.7",3,Carpinus caroliniana,,,,Soverdi,true,true
+"176",,LOYO-1,"2.3",3.75,Quercus rubra,,,,Soverdi,true,true
+"177",,LOYO-1,"1.4",2.2,(Populus tremuloides ),,,,Soverdi,true,true
+"178",,LOYO-1,"1.5",2.7,(Amelanchier canadensis ),,,,Soverdi,true,true
+"179",,LOYO-1,"1.6",2.7,(Amelanchier canadensis ),,,,Soverdi,true,true
+"180",,LOYO-1,"4.1",4.7,Betula papyrifera,,,,Soverdi,true,true
+"181",,LOYO-1,"2.2",2.8,(Carpinus caroliniana ),,,,Soverdi,true,true
+"182",,LOYO-1,"1.2",2.3,(Tsuga canadensis ),,,,Soverdi,true,true
+"183",,LOYO-1,"77.5",,(Silver maple),,,,Unknown ,,true
+"184",,LOYO-1,"37",11.7,Acer platanoides,,,,Unknown,true,true
+"185",,LOYO-1,"64.9",19.5,Acer saccharinum,,,,Unknown ,true,true
+"186",,LOYO-1,"65.6",16.5,Acer saccharinum,,,,Unknown,true,true
+"187",,LOYO-1,"47.6",10.2,Acer platanoides,,,,Unknown,true,true
+"188",,LOYO-1,"60",19.9,Acer saccharinum,,,,Unknown,true,true
+"189",,,"88.2",10.9,Acer negundo,,,,Unknown,true,true
+"190",,,"16.1",11.3,Gleditsia triacanthos,,,,,true,true
+"191",,,"16.8",11,Gleditsia triacanthos,,,,,false,true
+"192",,,"15.8",11,Gleditsia triacanthos,,,,,,true
+"193",,,"20.7",11,Gleditsia triacanthos,,,,,false,true
+"194",,,"3, 5,5,2,3,2,1,1,5",3.5,Thuja occidentalis,,,,,true,false
+"195",,,"24.2",12.2,Gleditsia triacanthos,,,,,true,true
+"196",,,"5",2.7,Pinus nigra,,,,Unknown ,true,true
+"197",,,"5",2.7,Pinus nigra,,,,Unknown,,true
+"198",,,"3",2.5,Amelanchier canadensis,Confirm species ,,,Unknown ,,true
+"199",,,"100",21.8,Populus deltoides,,,,,true,
+"200",,,"50",8.7,Acer platanoides,,,,,true,
+"201",,,"60,20,20,20",22.7,Populus deltoides,,,,,true,
+"202",,,"75",12,Acer saccharinum,,,,Unknown ,,
+"203",,,"90",20,Acer saccharinum,,,,,false,
+"204",,,"100",20,Acer saccharinum,,,,,,
+"205",,,"60",20,Acer saccharinum,,,,,,
+"206",,,"5,5,2,2,1",2.5,Thuja occidentalis,,,,,true,
+"207",,,"5,5,2,3,3",2.5,Thuja occidentalis,,,,,,
+"208",,,"5,5,2,2",2.5,Thuja occidentalis,,,,,,
+"209",,,"5,5,2",2.5,Thuja occidentalis,,,,,,
+"210",,,"5,3,2,1,1,3,2,1",2.5,Thuja occidentalis,,,,,false,
+"211",,,"6",3.7,Thuja occidentalis,,,,,true,
+"212",,,"6,4,2,2",2.7,Thuja occidentalis,,,,,false,
+"213",,,"7,7,1",2.7,Thuja occidentalis,,,,,,
+"214",,,"4,4,5,5,2",2.7,Thuja occidentalis,,,,,,
+"215",,,"5,7,6",2.7,Thuja occidentalis,,,,,,true
+"216",,,"5,5,2",2.7,Thuja occidentalis,,,,,false,
+"217",,,"5,5,2,2,1,1,3",4.2,Thuja occidentalis,,,,,true,
+"218",,,"5,5,5,2,2,1",4.2,Thuja occidentalis,,,,,,
+"219",,,"15.9",,Thuja occidentalis,Get height,,,Unknown ,false,true
+"220",,,"14.8",,Thuja occidentalis,Get height,,,Unknown ,,true
+"221",,,"2.5",,Thuja occidentalis,Get height ,,,Unknown ,false,true
+"222",,,"18",,Thuja occidentalis,Get height ,,,,,true
+"223",,,"13",,Thuja occidentalis,Get height,,,,,true
+"224",,,"2",,Thuja occidentalis,Get 3,,,,,
+"225",,,"6",,Thuja occidentalis,Get height ,,,Unknown ,,true
+"226",,,"14",,Thuja occidentalis,Get height ,,,,,true
+"227",,,"14.3",,Thuja occidentalis,Get height ,,,,,true
+"228",,,"2,4",2,Leave comment,Common buckthorn ,,,,,true
+"229",,,"15",6,Thuja occidentalis,,,,Unknown ,,true
+"230",,,"11.4",6,Thuja occidentalis,,,,Unknown ,,true
+"231",,,"14.3",6,Thuja occidentalis,,,,Unknown ,,true
+"232",,,"11,13.3",10,Thuja occidentalis,,,,,,true
+"233",,,"13.2",10,Thuja occidentalis,,,,Unknown ,,
+"234",,,"2,3,3,2,4,3,2",5,Leave comment,Common buckthorn ,,,,,
+"235",,,"13",10,Thuja occidentalis,,,,Unknown ,,true
+"236",,,"15.4",10,Thuja occidentalis,,,,Unknown ,,true
+"237",,,"13",10,Thuja occidentalis,,,,,,true
+"238",,,"13.3",7,Thuja occidentalis,,,,,,true
+"239",,,"11.2",8,Thuja occidentalis,,,,Unknown ,,true
+"240",,,"7.8,6",7,Thuja occidentalis,,,,Unknown ,,true
+"241",,,"5.6",4,Thuja occidentalis,,,,,,true
+"242",,,"8.5,6.9",6,Thuja occidentalis,,,,Unknown ,,true
+"243",,,"5.1,4",4,Thuja occidentalis,,,,,,
+"244",,,"16.7",8,Thuja occidentalis,,,,Unknown ,,true
+"245",,,"10.3,4.5,8.8",6.3,Thuja occidentalis,,,,Unknown ,true,true
+"246",,,"5.9",4,Thuja occidentalis,,,,Unknown ,false,true
+"247",,,"13",5.2,Thuja occidentalis,,,,Unknown ,,true
+"248",,,"15.5",6,Leave comment,Aesculus hippocastanum,,,Unknown,true,true
+"249",,,"8, 5, 6, 5, 4",4,Leave comment,Thuya occidentalis ,,,,false,false
+"250",,,"8, 8, 5",3.8,Leave comment,Thuya occidentalis,,,Unknown,false,false
+"251",,,"10,4,4,6,5",4,Leave comment,Thuya occidentalis,,,Unknown,false,false
+"252",,,"2,4,5,8,4,8",4,Leave comment,Thuya occidentalis ,,,Unknown ,false,false
+"253",,,"2,2,5,5,7",4,Leave comment,Thuya occidentalis,,,Unknown ,false,false
+"254",,,"7,7,5,2",4,Leave comment,Thuya occidentalis,,,Unknown,false,false
+"255",,,"3,1,3,4,3,3,3",2.65,Leave comment,Hydrangea paniculata,,,Unknown ,false,true
+"256",,,"4,3,2,2,4,2",3,Leave comment,Hydrangea paniculatum,,,Unknown ,false,true
+"257",,,"3,2,3,3,4,2,3,2,2,2",3,Leave comment,Hydrangea paniculatum,,,Unknown,false,true
+"258",,,"3,2,3,5,2,2",3.2,,Hydrangea paniculatum ,,,,false,true
+"259",,,"4,2,4,5,2,3,2",3,Leave comment,Hydrangea paniculatum ,,,Unknown ,false,true
+"260",,,"3,2,3,4,2,3,2,5,3",3,,Hydrangea paniculatum ,,,,false,true
+"261",,,"2,1,2,3,2,2",2.5,Leave comment,Hydrangea paniculatum,,,Unknown ,false,true
+"262",,,"8,3,5,2,1,1",4,Thuja occidentalis,,,,Unknown ,false,false
+"263",,,"3,10,7,3,2",3.8,Thuja occidentalis,,,,Unknown ,false,false
+"264",,,"5,5,2,3",3.7,Thuja occidentalis,,,,Unknown ,false,false
+"265",,,"2,2,3,4,3",2,Leave comment,Hydrangea paniculatum ,,,Unknown ,false,false
+"266",,,"2,3,3,2",2.5,Leave comment,Hydrangea paniculatum ,,,Unknown ,false,false
+"267",,,"1,1,2,1,2,2",2.3,,Hydrangea paniculatum ,,,,false,false
+"268",,,"3,2,2,3,2",2.7,,Hydrangea paniculatum ,,,,false,false
+"269",,,"2,1,1,1,1,2",2.7,Leave comment,Hydrangea paniculatum ,,,Unknown ,false,false
+"270",,,"3,3,1,1,2",2.5,Leave comment,Hydrangea paniculatum ,,,,false,false
+"271",,,"1,1,1,1,1,1",2.3,Leave comment,Hydrangea paniculatum ,,,,false,false
+"272",,,"2,2,2,1,1,1,2",2.3,,Hydrangea paniculatum ,,,,false,false
+"273",,,"1,2,2",2,Leave comment,Hydrangea paniculatum ,,,Unknown ,false,false
+"274",,,"2,1,1,2,2,2,1",2,Leave comment,Hydrangea paniculatum ,,,Unknown ,false,false
+"275",,,"1,1,1,1,1",2,,Hydrangea paniculatum ,,,,false,false
+"276",,,"7.6",3.8,Quercus macrocarpa,,,,Unknown,true,true
+"277",,,"30,4,2,3,4,3,4,2,1,4,1,4,3,3,4,1,3,3,3,2,2,1,1,1,3",9.6,Quercus robur,,,,Unknown ,true,false
+"278",,,"10",11.5,Thuja occidentalis,,,,Unknown ,false,true
+"279",,,"7.9",11.5,Thuja occidentalis,,,,Unknown ,true,true
+"280",,,"12.3",,Thuja occidentalis,,,,Unknown,,true
+"281",,,"3",11.5,Thuja occidentalis,,,,Unknown ,false,true
+"282",,,"5.8",11.5,Thuja occidentalis,,,,Unknown ,false,true
+"283",,,"5",11.5,Thuja occidentalis,,,,Unknown,false,true
+"284",,,"13.3,2,2",11.5,Thuja occidentalis,,,,Unknown ,false,false
+"285",,,"8.9",11.5,Thuja occidentalis,,,,Unknown ,false,true
+"286",,,"7.8",11.5,Thuja occidentalis,,,,Unknown ,false,true
+"287",,,"14",11.5,Thuja occidentalis,,,,Unknown ,false,true
+"288",,,"21.8,1,1,1.5,1,0.5,2,0.5,0.5,2,2,1,1,1,3,2,2,1,3,1.5,0.5",9.6,Quercus bicolor,,,,,false,false
+"289",,,"5",4.1,Acer rubrum,,,,Unknown ,true,true
+"290",,,"18.8",7.9,Gymnocladus dioicus,,,,Unknown ,true,true
+"291",,,"38.9",19.9,Acer platanoides,,,,Campus,true,true
+"292",,,"29.3",21.7,Quercus rubra,,,,Campus,true,true
+"293",,,"36.2",14.5,Quercus rubra,,,,Campus,true,true
+"294",,,"38",18.4,Quercus rubra,Check sp diff from others,,,Campus,true,true
+"295",,,"49.75",12.9,Malus sp.,,,,Campus,true,true
+"296",,,"25.5",10.6,Acer platanoides,,,,Campus,true,true
+"297",,,"30.6",9.9,Acer platanoides,,,,Campus,true,true
+"298",,,"32.9",13.9,Acer platanoides,,,,Campus,true,true
+"299",,,"74.5",26,Acer saccharinum,,,,Campus,true,true
+"300",,,"45",14.3,Acer saccharinum,,,,Campus,true,true
+"301",,,"65",23,Acer saccharinum,,,,Campus,true,true
+"302",,,"35.7",18,Acer saccharinum,,,,Campus ,true,true
+"303",,,"53.9",33,Acer saccharinum,,,,Campus ,true,true
+"304",,,"47.4",24.2,Acer platanoides,,,,Campus ,true,true
+"305",,,"69.2",19.6,Acer saccharinum,,,,Campus ,true,true
+"306",,,"22.55",11,Acer platanoides,,,,Campus ,true,true
+"307",,,"124.5",31.2,Acer saccharinum,,,,Campus ,true,true
+"308",,,"69.5",20.7,Acer saccharinum,,,,Campus ,true,true
+"309",,,"86.9",15.3,Acer platanoides,,,,Campus ,true,true
+"310",,,"30",8,Malus baccata,,,,Campus ,false,false
+"311",,,"3,5,4,3,4,2",4,Leave comment,"Taxus cuspidata, hedge, x11",,,Campus ,false,false
+"312",,,"30",9,Leave comment,Malus huphensis,,,Campus,false,false
+"313",,,"68.6",13.1,Acer platanoides,,,,Campus,false,true
+"314",,,"10,10,5,5",8,Syringa vulgaris,Could ask Emma to double check sp,,,Unknown ,false,false
+"315",,,"60",13.1,Gleditsia triacanthos,,,,Unknown ,false,false
+"316",,WILF-1,"10",5,Thuja occidentalis,,,,Unknown,false,false
+"317",,WILF-1,"8",5,Thuja occidentalis,,,,Unknown,false,false
+"318",,WILF-1,"8,6",5,Thuja occidentalis,,,,Unknown,false,false
+"319",,WILF-1,"10",5,Thuja occidentalis,,,,Unknown,false,false
+"320",,WILF-1,"5",3.3,Thuja occidentalis,,,,Unknown,false,true
+"321",,WILF-1,"6",4,Thuja occidentalis,,,,Unknown,false,false
+"322",,WILF-1,"10",5,Thuja occidentalis,,,,Unknown,false,false
+"323",,WILF-1,"8",4.5,Thuja occidentalis,,,,Unknown,false,false
+"324",,WILF-1,"8",10,Thuja occidentalis,,,,Unknown,false,false
+"325",,WILF-1,"8",10,Thuja occidentalis,,,,Unknown,false,false
+"326",,MARQ-1,"10",7.2,Ulmus sp.,,,,Unknown ,true,false
+"327",,MARQ-2,"3.5",3,Quercus bicolor,,,,Unknown ,true,true
+"328",,ZOTI-1,"5, 3, 2, 2, 3, 2 5, 4, 3, 3",3.5,Leave comment,Lonicera spp.,,,Unknown,false,false
+"329",,ZOTI-2,"20, 20, 7",11.9,Leave comment,Dead standing,,,Unknown ,false,false
+"330",,ZOTI-2,"20, 10",10,Populus tremuloides,,,,Unknown ,false,false
+"331",,ZOTI-2,"15",8,Ulmus americana,,,,Unknown ,false,false
+"332",,ZOTI-2,"10",8,Ulmus americana,,,,Unknown ,false,false
+"333",,ZOTI-2,"17",14,Populus tremuloides,,,,Unknown ,false,false
+"334",,ZOTI-2,"10",10,Populus tremuloides,,,,Unknown ,false,false
+"335",,ZOTI-2,"3",3.7,Crataegus crus-galli,,,,Unknown ,true,true
+"336",,ZOTI-2,"3.5",3.7,Tilia americana,,,,Unknown ,true,true
+"337",,ZOTI-2,"3.5",3.7,Leave comment,Salixspp.,,,Unknown ,true,true
+"338",,ZOTI-2,"40, 30, 20",12,Acer saccharinum,,,,Unknown ,false,false
+"339",,ZOTI-2,"3, 1",3,Fraxinus pennsylvanica,,,,Unknown ,false,false
+"340",,ZOTI-2,"7, 7",3.5,Populus tremuloides,,,,Unknown ,false,false
+"341",,ZOTI-2,"2",2.75,Populus tremuloides,,,,Unknown ,false,false
+"342",,ZOTI-2,"2",2.75,Populus tremuloides,,,,Unknown ,false,false
+"343",,ZOTI-2,"2",2,Populus tremuloides,,,,Unknown ,false,false
+"344",,ZOTI-2,"4",2.2,Crataegus crus-galli,,,,Unknown ,false,true
+"345",,ZOTI-2,"7",7,Populus tremuloides,,,,Unknown ,false,false
+"346",,ZOTI-2,"3",3.5,Salix sp.,,,,Unknown ,false,false
+"347",,ZOTI-2,"4",3,Tilia americana,,,,Unknown ,false,false
+"348",,ZOTI-2,"5",3.5,Leave comment,Unknown species ,,,Unknown ,false,true
+"349",,ZOTI-2,"100",4,Leave comment,Dead standing (sculpture),,,Unknown ,true,false
+"350",,ZOTI-2,"18.2",10.2,Acer saccharinum,,,,Unknown ,true,true
+"351",,ZOTI-2,"5",3.6,Salix sp.,,,,Unknown ,true,true
+"352",,ZOTI-2,"5",7,Fraxinus sp.,,,,Unknown ,false,false
+"353",,ZOTI-2,"8",7,Prunus serotina,,,,Unknown ,false,false
+"354",,ZOTI-2,"6",3.75,Leave comment,Rhamnus cathartica,,,Unknown ,false,false
+"355",,ZOTI-2,"40",15,Leave comment,,,,Unknown ,false,false
+"356",,ZOTI-2,"13",10,Ulmus americana,,,,Unknown ,false,false
+"357",,ZOTI-2,"7",10,Leave comment,Dead standing ,,,Unknown ,false,true
+"358",,ZOTI-2,"40",15,Leave comment,Dead standing,,,Unknown ,false,false
+"359",,,,,,,,,,,
+"360",,ZOTI-2,"1.5",3,Leave comment,Rhamnus cathartica,,,Unknown ,false,false
+"361",,ZOTI-2,"5, 5, 3",5,Leave comment,Rhamnus cathartica,,,Unknown ,false,false
+"362",,ZOTI-2,"1.5, 1",2.5,Leave comment,Rhamnus cathartica,,,Unknown ,false,false
+"363",,ZOTI-2,"1",2,Prunus virginiana,,,,Unknown ,false,true
+"364",,ZOTI-2,"3",2.2,Leave comment,Dead standing,,,Unknown ,false,false
+"365",,ZOTI-2,"3",3.2,Prunus virginiana,,,,Unknown ,false,false
+"415",,,"46.5",25.3,Acer saccharinum,,,,Unknown ,true,true
+"416",,,,,,,,,,,
+"417",,,"53.3",28.2,Sorbus aucuparia,Check,,,Unknown ,true,true
+"418",,,"92",32.9,Populus sp.,,,,Unknown ,true,true
+"419",,,"74.9",32.9,Populus sp.,,,,Unknown ,false,true
+"420",,,"48.9",18.7,Acer saccharinum,,,,Unknown ,true,true
+"421",,,"41.8",16.4,Acer saccharinum,,,,Unknown ,true,true
+"422",,,"44",13.8,Acer platanoides,,,,Unknown ,true,true
+"423",,,"15.5,6.7,6.5",5.7,Acer rubrum,,,,Unknown ,true,true
+"424",,,"33.25",10.6,Acer saccharum,,,,Unknown ,true,true
+"425",,,"20.8,14.7,16.4",8.6,Tilia americana,Check tree species,,,Unknown ,true,true
+"426",,,"36.9",11.3,Acer saccharinum,,,,Unknown ,true,true
+"427",,,"40",22,Acer rubrum,,,,Unknown ,true,true
+"428",,,"95.1",25,Populus sp.,,,,Unknown ,false,true
+"429",,,"67.2",20,Populus deltoides,,,,Unknown ,false,true
+"430",,,"25.7",12.4,Acer saccharum,,,,Unknown ,true,true
+"431",,,"14.3",8.4,Acer saccharum,,,,Unknown ,true,true
+"432",,,"29.3",9.8,Tilia sp.,Check ,,,Unknown ,true,true
+"433",,,"35",17,Acer rubrum,,,,Unknown ,false,false
+"434",,,"3",2,Rhus typhina,,,,Unknown ,false,true
+"435",,,"3",2,Rhus typhina,,,,Unknown ,false,true
+"436",,,"5,8,3",4,Acer rubrum,Check species,,,Unknown ,false,true
+"437",,,,,,,,,,,
+"438",,,"8.1,9.3,5.5,6.6,8.5,5",6,Acer rubrum,Check sp ,,,Unknown ,false,true
+"439",,,"5.5",6,Rhus typhina,,,,Unknown ,false,true
+"440",,,"5,9.5",4.5,Rhus typhina,,,,Unknown ,false,true
+"441",,,"5.7,2",5,Acer saccharum,,,,Unknown ,false,true
+"442",,,"6.2,3",6,Fraxinus americana,,,,Unknown ,false,true
+"443",,,"3,",2.5,Rhus typhina,,,,Unknown ,false,true
+"444",,,"3",2.5,Rhus typhina,,,,Unknown ,true,true
+"445",,,"3",2.5,Rhus typhina,,,,Unknown ,false,true
+"446",,,"5,5,5,5,5,5,3,3",7,Acer negundo,,,,Unknown ,false,false
+"447",,,"12,10.9,11,5,4",6.5,Acer platanoides,,,,Unknown ,false,true
+"448",,,"5.1,4.9,4.4,2,2,3",5,Rhus typhina,,,,Unknown ,false,true
+"449",,,,,,,,,,,
+"450",,,"5",4.5,Rhus typhina,,,,Unknown ,false,true
+"451",,,"3,3",3.5,Rhus typhina,,,,Unknown ,false,true
+"452",,,"3,3",2.5,Rhus typhina,,,,Unknown ,false,true
+"453",,,"4",3,Rhus typhina,,,,Unknown ,false,true
+"454",,,"5.5",4,Rhus typhina,,,,Unknown ,false,true
+"455",,,"7.4,6.2,4.2,6,8",7,Acer tataricum,,,,Unknown ,false,false
+"456",,,"3,2,4,4",4.5,Acer negundo,,,,Unknown ,false,false
+"457",,,"4,5",4,Acer platanoides,,,,Unknown ,false,true
+"458",,ZOTI-1,"4",5,Acer platanoides,,,,Unknown ,false,false
+"459",,,"5",7,Ulmus americana,,,,,false,false
+"460",,,"6",7,Ulmus americana,,,,,false,true
+"461",,,"15",13,Ulmus americana,,,,,false,false
+"462",,,"25",15,Fraxinus sp.,,,,,false,false
+"463",,,"13",8,Leave comment,Dead,,,,false,false
+"464",,,"7.3",8,Leave comment,Rhamnus cathartica,,,,false,true
+"465",,,"2.5",3,Acer platanoides,,,,,false,true
+"466",,,"7.4, 5.3",7,Leave comment,Rhamnus catgartica ,,,,false,true
+"467",,,"35",10,Malus X,,,,,false,false
+"468",,,"18.4",15,Ulmus americana,,,,,false,true
+"469",,,"3",2.3,Ulmus americana,,,,,false,
+"470",,,"4",4,Leave comment,Dead,,,,false,true
+"471",,,"9.8",10,Leave comment,Rhamnus cathartica,,,,false,true
+"472",,,"3.8",5,Leave comment,Rhamnus cathartica,,,,false,true
+"473",,,"20.8",8,Fraxinus sp.,,,,,false,true
+"474",,,"15",10,Fraxinus sp.,,,,,false,false
+"475",,,"6.8",10,Leave comment,,,,,false,false
+"476",,,"4",5,Leave comment,Rhamnus cathartica,,,,false,true
+"477",,,"20.8",12,Acer negundo,,,,,false,true
+"478",,,"5.5",9,Fraxinus sp.,,,,,false,true
+"479",,,"18",15,Ulmus americana,,,,,false,true
+"480",,,"17.5",15,Ulmus americana,,,,,false,true
+"481",,,"3",6,Fraxinus pennsylvanica,,,,,false,true
+"482",,,"6.4",4,Leave comment,Rhamnus cathartica,,,,false,true
+"483",,,"11, 4.1",6,Acer negundo,,,,,false,true
+"484",,,"7.3",5,Acer negundo,,,,,false,true
+"485",,,"3",3,Leave comment,Dead,,,,false,true
+"486",,,"13.1, 12.3",8.5,Acer negundo,,,,,false,true
+"487",,,"22",7,Acer negundo,,,,,false,true
+"488",,,"10.1",2.5,Acer negundo,,,,,false,true
+"489",,,"15.2",12,Acer negundo,,,,,false,true
+"490",,,"4.8",7,Acer negundo,,,,,false,true
+"491",,,"13.2",9,Acer negundo,,,,,false,true
+"492",,,"9",9,Leave comment,Dead,,,,false,true
+"493",,,"4.8",8,Tilia americana,,,,,false,true
+"494",,,"2",2,Leave comment,Rhamnus cathartica,,,,false,true
+"495",,,"3.3",7,Fraxinus pennsylvanica,,,,,true,false
+"496",,,"7.1",9,Leave comment,Dead,,,,false,true
+"497",,,"3.1",6,Fraxinus pennsylvanica,,,,,false,true
+"498",,,"2",5,Fraxinus pennsylvanica,,,,,false,true
+"499",,,"2, 4",6,Ulmus americana,,,,,false,false
+"500",,,"13",15,Acer negundo,,,,,false,false
+"501",,,"3",3,Leave comment,Rhamnus cathartica,,,,false,true
+"502",,,"17.5, 20.8",15,Acer negundo,,,,,false,true
+"503",,,"15.3",13,Acer negundo,,,,,false,true
+"504",,,"2",3,Prunus virginiana,,,,,false,true
+"505",,,"7.6",13,Fraxinus pennsylvanica,,,,,false,true
+"506",,,"15.6",15,Acer negundo,,,,,false,true
+"507",,,"5.9",10,Fraxinus pennsylvanica,,,,,false,true
+"508",,,"3",4,Fraxinus pennsylvanica,,,,,false,true
+"509",,,"3, 2, 2",4.5,Leave comment,Rhamnus cathartica,,,,false,true
+"510",,,"2",2.5,Fraxinus pennsylvanica,,,,,false,true
+"511",,,"10.6",12,Fraxinus pennsylvanica,,,,,false,true
+"512",,,"4.4",9,Leave comment,Dead,,,,false,true
+"513",,,"10.3",15,Acer negundo,,,,,false,true
+"514",,,"14.6, 8.1, 6",13,Acer negundo,,,,,false,true
+"515",,,"7.9",10,Fraxinus pennsylvanica,,,,,false,true
+"516",,,"7",10,Leave comment,Rhamnus cathartica,,,,false,false
+"517",,,"15.2",12,Acer negundo,,,,,false,true
+"518",,,"7.1",8,Leave comment,Rhamnus cathartica,,,,false,true
+"519",,,"3",5,Ulmus americana,,,,,false,true
+"520",,,"6.1",7,Ulmus americana,,,,,false,true
+"521",,,"11.9, 20.3, 9.2",15,Acer negundo,,,,,false,true
+"522",,,"15.6",15,Leave comment,Dead,,,,false,true
+"523",,,"4, 7",12,Leave comment,Dead,,,,false,false
+"524",,,"21.5, 16.3, 15.4, 5",15,Acer negundo,,,,,false,true
+"525",,,"6.2",6,Acer negundo,,,,,false,true
+"526",,,"9.5",7,Leave comment,Dead,,,,false,true
+"527",,,"9, 16.8",15,Fraxinus pennsylvanica,,,,,false,true
+"528",,,"7.3",7,Leave comment,Dead,,,,false,true
+"529",,,"4, 4",4.5,Leave comment,Rhamnus cathartica,,,,false,true
+"530",,,"4",5,Leave comment,Rhamnus cathartica,,,,false,true
+"531",,,"4",5,Fraxinus pennsylvanica,,,,,false,true
+"532",,,"6, 3",3,Leave comment,Rhamnus cathartica,,,,false,true
+"533",,,"18.9",12,Acer negundo,,,,,false,true
+"534",,,"9.5, 5.5",7,Leave comment,Dead,,,,false,true
+"535",,,"20.3",15,Leave comment,Daed,,,,false,true
+"536",,,"12",12,Leave comment,Dead,,,,false,true
+"537",,,"3.3",6,Fraxinus pennsylvanica,,,,,false,true
+"538",,,"9",12,Fraxinus pennsylvanica,,,,,false,true
+"539",,,"3.4, 1, 0.5",6,Fraxinus pennsylvanica,,,,,false,true
+"540",,,"3, 3, 5",7,Leave comment,Rhamnus cathartica,,,,false,true
+"541",,,"4",5,Leave comment,Rhamnus cathartica,,,,false,true
+"542",,,"5",7,Leave comment,Rhamnus cathartica,,,,false,true
+"543",,,"5",7,Leave comment,Rhamnus cathartica,,,,false,false
+"544",,,"13",9,Leave comment,Dead,,,,false,false
+"545",,,"3",4.5,Leave comment,Rhamnus cathartica,,,,false,true
+"546",,,"24",15,Leave comment,Dead,,,,false,true
+"547",,,"3",6,Fraxinus pennsylvanica,,,,,false,true
+"548",,,"2",2.5,Leave comment,Rhamnus cathartica,,,,false,true
+"549",,,"3",4,Leave comment,Rhamnus cathartica,,,,false,true
+"550",,,"3, 1",3,Leave comment,Rahamnus cathartica,,,,false,true
+"551",,,"6.5",7,Leave comment,Rhamnus cathartica,,,,false,true
+"552",,,"2",3,Leave comment,Dead,,,,false,true
+"553",,,"3",4,Fraxinus pennsylvanica,,,,,false,true
+"554",,,"9",15,Fraxinus pennsylvanica,,,,,false,true
+"555",,,"5.7, 5.5",4,Leave comment,Daed,,,,false,true
+"556",,,"6",10,Fraxinus pennsylvanica,,,,,false,true
+"557",,,"4.1",8,Fraxinus pennsylvanica,,,,,false,true
+"558",,,"4.6",5,Leave comment,Rhamnus cathartica,,,,false,true
+"559",,,"3",6,Fraxinus pennsylvanica,,,,,false,true
+"560",,,"8",9,Leave comment,Dead,,,,false,true
+"561",,,"6.3",9,Fraxinus pennsylvanica,,,,,false,true
+"562",,,"2",3,Fraxinus pennsylvanica,,,,,false,true
+"563",,,"1",3,Leave comment,Dead,,,,false,true
+"564",,,"3",3,Leave comment,Dead,,,,false,true
+"565",,,"4",4.5,Fraxinus pennsylvanica,,,,,false,true
+"566",,,"6.6",12,Leave comment,Dead,,,,false,true
+"567",,,"7",10,Acer negundo,,,,,false,true
+"568",,,"3",3.5,Leave comment,Dead,,,,false,true
+"569",,,"3.3",6,Fraxinus pennsylvanica,,,,,false,true
+"570",,,"15.1",6,Acer negundo,,,,,false,true
+"571",,,"6.1, 2",6,Acer negundo,,,,,false,true
+"572",,,"7.5",8,Acer negundo,,,,,false,true
+"573",,,"6.6",7,Leave comment,Dead,,,,false,true
+"574",,,"17",10,Acer negundo,,,,,false,true
+"575",,,"12.7",15,Acer negundo,,,,,false,true
+"576",,,"15",2.5,Leave comment,Daed,,,,false,false
+"577",,,"5,2,2,3",2.3,Leave comment,DEd,,,,false,true
+"578",,,"6",7,Fraxinus pennsylvanica,,,,,false,true
+"579",,,"3",2.5,Acer platanoides,,,,,false,true
+"580",,,"6.9",8,Leave comment,Dead,,,,false,
+"581",,,"9.5",6,Leave comment,Rhamnus catharica,,,,false,true
+"582",,,"5, 2, 3",7,Fraxinus pennsylvanica,,,,,false,false
+"583",,,"9.1",12,Acer negundo,,,,,false,true
+"584",,,"4, 5",6,Leave comment,Rhamnus cathartica,,,,false,true
+"585",,,"3",6,Leave comment,Rhamnus cathartica,,,,false,true
+"586",,,"3",5,Leave comment,Dead,,,,false,true
+"587",,,"17.2",15,Acer negundo,,,,,false,true
+"588",,,"12.1",15,Leave comment,Dead,,,,false,true
+"589",,,"4, 5",6,Leave comment,Rhamnus cqthartica,,,,false,true
+"590",,,"5, 4, 4",8,Leave comment,Rhamnus cathartica,,,,false,true
+"591",,,"5.7",8,Leave comment,Rhamnus cathartica,,,,false,true
+"592",,,"9.1, 2, 5",9,Leave comment,Dead,,,,false,true
+"593",,,"2",3,Tilia americana,,,,,false,false
+"594",,,"27.6",17,Ulmus americana,,,,,false,true
+"595",,,"13.8",17,Acer negundo,,,,,false,true
+"596",,,"3",3,Ulmus americana,,,,,false,true
+"597",,,"5.8, 6.7",10,Leave comment,Dead,,,,false,true
+"598",,,"8.9, 4.7",10,Acer negundo,,,,,false,true
+"599",,,"5.3",5,Leave comment,Rhamnus cathartica,,,,false,true
+"600",,,"7.4",7,Acer negundo,,,,,false,true
+"601",,,"5.9",7,Leave comment,Dead,,,,false,true
+"602",,,"18.2",15,Acer negundo,,,,,false,true
+"603",,,"4",3,Leave comment,Rhamnus cathartica,,,,false,true
+"604",,,"14.2",16,Acer negundo,,,,,false,true
+"605",,,"1,1",2,Leave comment,Rhamnus cathartica,,,,false,true
+"606",,,"4.3",7,Acer negundo,,,,,false,true
+"607",,,"31, 16, 25",17,Acer negundo,,,,,false,true
+"608",,,"27.2",17,Acer negundo,,,,,false,true
+"609",,,"3",7,Leave comment,Rhamnus cathartica,,,,true,false
+"610",,,"5.2",6,Leave comment,Dead,,,,false,true
+"611",,,"24.5, 21.5, 40",15.5,Acer negundo,,,,,false,true
+"612",,,"7.25",8,Leave comment,Dead,,,,false,true
+"613",,,"8.2",10,Fraxinus pennsylvanica,,,,,false,true
+"614",,,"7.1, 3, 11",8,Acer negundo,,,,,false,true
+"615",,,"14",10,Acer negundo,,,,,false,false
+"616",,,"6",8,Leave comment,Rhamnhscathartica,,,,false,true
+"617",,,"2, 2",4,Leave comment,Rhamnus cathartica,,,,,
+"618",,,"2, 3",6,Fraxinus pennsylvanica,,,,,false,true
+"619",,,"10, 7",10,Acer negundo,,,,,false,false
+"620",,,"15",12,Acer negundo,,,,,false,false
+"621",,,"10",8,Acer negundo,,,,,false,false
+"622",,,"10",4,Acer negundo,,,,,false,false
+"623",,,"2",4,Acer negundo,,,,,false,false
+"624",,,"3",5,Leave comment,Rhamn7s cathartica,,,,false,true
+"625",,,"8",12,Acer negundo,,,,,false,false
+"626",,,"10, 15, 20",17,Acer negundo,,,,,false,false
+"627",,,"5",10,Ulmus americana,,,,,false,false
+"628",,,"1,2",4,Acer negundo,,,,,false,false
+"629",,,"2, 0.5",3,Acer negundo,,,,,false,true
+"630",,,"6.5",7,Leave comment,Dead,,,,false,true
+"631",,,"1, 2",4.5,Fraxinus pennsylvanica,,,,,false,true
+"632",,,"1",2.5,Leave comment,Rhamnus cathartica,,,,false,false
+"633",,,"1, 1.5",3,Acer negundo,,,,,false,false
+"634",,,"1",2.5,Acer negundo,,,,,false,false
+"635",,,"5",7,Leave comment,Dead,,,,false,true
+"636",,,Q,3.5,Leave comment,Rhamnus cathartica,,,,false,false
+"637",,,"2",2.2,Leave comment,Dead,,,,false,true
+"638",,,"1, 1",2,Leave comment,Rhamnus cathartica,,,,false,false
+"639",,,"1.5, 1",4.5,Prunus virginiana,,,,,false,true
+"640",,,"3",3.5,Prunus virginiana,,,,,false,true
+"641",,,"10.1",9,Acer negundo,,,,,false,true
+"642",,,"3",3,Fraxinus pennsylvanica,,,,,false,true
+"643",,,"7",6,Leave comment,Dead,,,,false,false
+"644",,,"4",8,Leave comment,Rhamnu cathartica,,,,false,true
+"645",,,"7, 8, 4, 2",7,Leave comment,Rhamnus cathartica,,,,false,true
+"646",,,"19.8",17,Acer negundo,,,,,false,true
+"647",,,"3",4,Amelanchier canadensis,,,,,false,true
+"648",,,"2,1",3,Amelanchier canadensis,,,,,false,true
+"649",,,"2",5,Amelanchier canadensis,,,,,false,true
+"650",,,"4",9,Leave comment,Rhamnus cathartica,,,,false,true
+"651",,,"4",8,Leave comment,Rhamnus cathartica,,,,false,true
+"652",,,"4",6,Leave comment,Rhamnus cathartica,,,,false,false
+"653",,,"4",5,Leave comment,Rhamnus cathartica,,,,false,false
+"654",,,"5",7,Leave comment,Rhamnus cathartica,,,,false,false
+"655",,,"2",4,Leave comment,Dead,,,,false,false
+"656",,,"80",17,Acer saccharum,,,,Unknown ,false,false
+"657",,,"4",6,Thuja occidentalis,,,,Unknown ,false,false
+"658",,,"2",6,Thuja occidentalis,,,,Unknown ,false,false
+"659",,,"3",6,Thuja occidentalis,,,,Unknown ,false,false
+"660",,,"3",6,Thuja occidentalis,,,,Unknown ,false,false
+"661",,,"1",3,Thuja occidentalis,,,,Unknown ,false,false
+"662",,,"3",4,Thuja occidentalis,,,,Unknown ,false,false
+"663",,,"80",17,Acer saccharum,,,,Unknown ,false,false
+"664",,,"1",2,Thuja occidentalis,,,,Unknown ,false,false
+"665",,,"1",2.5,Thuja occidentalis,,,,Unknown ,false,false
+"666",,,"1",2,Thuja occidentalis,,,,Unknown ,false,false
+"667",,,"3",6,Thuja occidentalis,,,,Unknown ,false,false
+"668",,,"1.5",2,Thuja occidentalis,,,,Unknown ,false,false
+"669",,,"3",2.5,Thuja occidentalis,,,,Unknown ,false,false
+"670",,,"2",2,Thuja occidentalis,,,,Unknown ,false,false
+"671",,,"4",5,Tilia americana,,,,Unknown ,false,true
+"672",,,"5",4,Thuja occidentalis,x69,,,Unknown ,false,false
+"673",,,"5",7,Leave comment,,,,Unkown ,false,false
+"674",,,"100",20,Populus deltoides,,,,Unknown ,false,false
+"675",,,"100",20,Populus deltoides,,,,Unknown ,false,false
+"676",,,"40",15,Acer platanoides,,,,Unknown ,false,false
+"677",,,"20",15,Acer platanoides,,,,Unknown ,false,false
+"678",,,"5.5",4,Prunus virginiana,,,,Unknown ,false,true
+"679",,,"4",4,Acer negundo,,,,Unknown ,false,true
+"680",,,"3",3.5,Acer platanoides,,,,Unknown ,false,false
+"681",,,"2,2",5,Thuja occidentalis,,,,Unknown ,false,false
+"682",,,"2,1",4.5,Thuja occidentalis,,,,Unknown ,false,false
+"683",,,"1,1,1,1,1,1,1,1,1,2",2,Leave comment,Rhamnus cathartica,,,Unknown ,false,false
+"684",,,"15,5,7,1,2,3",6.5,Acer negundo,,,,Unknown ,false,false
+"685",,,"9.5",44,Catalpa speciosa,,,,Unknown ,true,true
+"686",,,"6,5,5,5",7,Acer saccharum,,,,Unknown ,false,false
+"687",,,"6",5.5,Salix alba,,,,Soverdi,false,true
+"688",,,"4",4.5,Quercus bicolor,,,,Soverdi,false,true
+"689",,,"7",5.5,Acer freemanii,,,,Unknown ,false,true
+"690",,,"7",6.5,Acer freemanii,,,,Unknown ,false,true
+"691",,,"4",3.2,Gymnocladus dioicus,,,,Soverdi ,false,true
+"692",,,"8",8,Populus deltoides,,,,Soverdi ,false,true
+"693",,,"2",3,Leave comment,Betula pendula,,,Soverdi ,false,true
+"694",,,"4",4,Betula populifolia,,,,Soverdi ,false,true
+"695",,,"3",3.5,Leave comment,Standing dead,,,Soverdi ,false,true
+"696",,,"4",5,Salix sp.,,,,Soverdi ,false,true
+"697",,,"6",4.5,Gymnocladus dioicus,,,,Soverdi ,false,true
+"698",,,"2",4,Leave comment,Betula pendula,,,Soverdi ,false,true
+"699",,,"4",4.5,Salix sp.,,,,Soverdi ,false,true
+"700",,,"2",3.5,Leave comment,,,,Soverdi ,false,true
+"701",,,"2",3.2,Leave comment,Dead standing ,,,Soverdi ,false,true
+"782",,,"4",5,Acer rubrum,,,,Soverdi ,false,false
+"783",,,"4",4.8,Acer rubrum,,,,Soverdi ,false,false
+"784",,,"4",4.8,Acer rubrum,,,,Soverdi ,false,false
+"785",,,"3,1.5",5,Acer rubrum,,,,Soverdi ,false,false
+"786",,,"4",4.5,Salix alba,,,,Soverdi ,false,false
+"787",,,"4",5,Acer rubrum,,,,Soverdi ,false,false
+"788",,,"3.5",5,Acer rubrum,,,,Soverdi ,false,false
+"789",,,"4",3.5,Salix alba,,,,Soverdi ,false,false
+"790",,,"3",4.5,Acer rubrum,,,,Soverdi ,false,false
+"791",,,"3",4.5,Salix alba,,,,Soverdi ,false,false
+"792",,,"3",5,Acer rubrum,,,,Soverdi ,false,false
+"793",,,"4",4,Acer rubrum,,,,Soverdi ,false,false
+"794",,,"3",4,Acer rubrum,,,,Soverdi ,false,false
+"795",,,"4",5.5,Salix alba,,,,Soverdi ,false,false
+"796",,,"2",3.5,Betula nigra,,,,Soverdi ,false,false
+"797",,,"3",4.5,Acer rubrum,,,,Soverdi ,false,false
+"798",,,"2",3.5,Betula nigra,,,,Soverdi ,false,false
+"799",,,"4",5.5,Salix matsudana,,,,Soverdi ,false,false
+"800",,,"4",4.5,Salix alba,,,,Soverdi ,false,true
+"801",,,"3",4.5,Acer rubrum,,,,Soverdi ,false,false
+"802",,,"4",5,Acer rubrum,,,,Soverdi ,false,false
+"803",,,"3",4.5,Acer rubrum,,,,Soverdi ,false,false
+"804",,,"3",4,Acer rubrum,,,,Soverdi ,false,false
+"805",,,"2",4.5,Betula nigra,,,,Soverdi ,false,false
+"806",,,"3",4.5,Acer rubrum,,,,Soverdi ,false,false
+"807",,,"3",5,Acer rubrum,,,,Soverdi ,false,false
+"808",,,"3",4,Acer rubrum,,,,Soverdi ,false,true
+"809",,,"2",4.5,Betula nigra,,,,Soverdi ,false,false
+"810",,,"3",4.5,Acer rubrum,,,,Soverdi ,false,false
+"811",,,"3",5,Salix alba,,,,Soverdi ,false,false
+"812",,,"2",2.5,Populus sp.,,,,Soverdi ,false,false
+"813",,,"4",4.5,Salix alba,,,,Soverdi ,false,false
+"814",,,"3",4.5,Salix alba,,,,Soverdi ,false,false
+"815",,,"3",5,Populus sp.,,,,Soverdi ,false,false
+"816",,,"5",4.5,Acer freemanii,,,,Soverdi ,false,false
+"817",,,"2",3.5,Populus sp.,,,,Soverdi ,false,false
+"818",,,"3",3.2,Salix alba,,,,Soverdi ,false,false
+"819",,,"2",2.2,Populus sp.,,,,Soverdi ,false,false
+"820",,,"2",4,Betula nigra,,,,Soverdi ,false,false
+"821",,,"3.5",3,Juglans nigra,,,,Soverdi ,false,false
+"822",,,"3",4.5,Salix alba,,,,Soverdi ,false,false
+"823",,,"4",6,Acer freemanii,,,,Soverdi ,false,false
+"824",,,"3",4,Salix alba,,,,Soverdi ,false,false
+"825",,,"4",5,Salix alba,,,,Soverdi ,false,false
+"826",,,"3.5",4,Juglans nigra,,,,Soverdi ,false,true
+"827",,,"2",3.5,Leave comment,Betula pubescens,,,Soverdi ,false,false
+"828",,,"3",4.5,Salix alba,,,,Soverdi ,false,false
+"829",,,"2",3.75,Betula nigra,,,,Soverdi ,false,false
+"830",,,"4",6.5,Acer freemanii,,,,Soverdi ,false,false
+"831",,,"35,20",10,Populus deltoides,,,,Unknown ,false,false
+"832",,,"15",10,Populus deltoides,,,,Unknown ,false,false
+"833",,,"5",6,Ulmus americana,,,,Unknown ,false,false
+"834",,,"15,20",6,Populus deltoides,,,,Unknown ,false,false
+"835",,,"15",6,Populus deltoides,,,,Unknown ,false,false
+"836",,,"20.8",6.8,Gymnocladus dioicus,,,,Unknown ,true,true
+"837",,,"21.2",10,Gymnocladus dioicus,,,,Unknown ,true,true
+"838",,,"18.8",10,Acer freemanii,,,,Unknown ,true,true
+"839",,,"17.6",8,Acer freemanii,,,,Unknown ,true,true
+"840",,,"17.7",8,Acer freemanii,,,,Unknown ,false,true
+"841",,,"16.5",6.5,Celtis occidentalis,,,,Unknown ,true,true
+"842",,,"19.4",6,Celtis occidentalis,,,,Unknown ,true,true
+"843",,,"35,30",20,Populus deltoides,,,,Unknown ,false,false
+"844",,,"30",20,Populus deltoides,,,,Unknown ,false,false
+"845",,,"15",10,Populus deltoides,,,,Unknown ,false,false
+"846",,,"42.4",14,Tilia cordata,,,,Unknown ,true,true
+"847",,,"42",15,Tilia cordata,,,,Unknown ,true,true
+"848",,,"42.6",15,Acer platanoides,,,,Unknown ,true,true
+"849",,,"42.8",15,Acer platanoides,,,,Unknown ,false,true
+"850",,,"47",15,Acer platanoides,,,,,false,true
+"851",,,"39.6",15,Tilia cordata,,,,Unknown ,false,true
+"852",,,"33.3",15,Tilia cordata,,,,Unknown ,false,true
+"853",,,"28.7",8,Tilia cordata,,,,Unknown ,false,true
+"854",,,"34.6",15,Catalpa speciosa,,,,Unknown ,false,true
+"855",,,"42.4",13,Acer saccharinum,,,,Unknown ,false,true
+"856",,,"43.9",15,Tilia cordata,,,,Unknown ,false,true
+"857",,,"36.5",15,Tilia cordata,,,,Unknown ,false,true
+"858",,,"34.8",13,Acer platanoides,,,,Unknown ,false,true
+"859",,,"22",10,Acer platanoides,,,,Unknown ,false,false
+"860",,,"64.2",15,Acer saccharinum,,,,Unknown ,false,true
+"861",,,"28.3",15,Acer saccharinum,,,,Unknown ,false,true
+"862",,,"38.5",17,Acer saccharinum,,,,Unknown ,false,true
+"863",,,"51",17,Acer saccharinum,,,,Unknown ,false,false
+"864",,,"44.6",17,Acer saccharinum,,,,Unknown ,false,true
+"865",,,"45",17,Acer saccharinum,,,,Unknown ,false,true
+"866",,,"36",15,Acer saccharinum,,,,Unknown ,false,true
+"867",,,"62",17,Acer saccharinum,,,,Unknown ,false,true
+"868",,,"13",4,Celtis occidentalis,,,,Unknown ,true,true
+"869",,,"55.4",22.5,Acer saccharinum,,,,Unknown ,true,true
+"870",,,"41.2",15,Acer saccharinum,,,,Unknown ,false,true
+"871",,,"38",17,Acer saccharinum,,,,Unknown ,false,true
+"872",,,"52.5",17,Acer saccharinum,,,,,true,true
+"873",,,"42",17,Acer saccharinum,,,,Unknown ,false,true
+"874",,,"7",7,Leave comment,Dead standing ,,,Unknown ,false,false
+"875",,,"6",7,,,,,,false,true
+"876",,,"3",3,,,,,,false,false
+"877",,,"4",6,Rhus typhina,,,,,false,false
+"878",,,"2",3,Ulmus americana,,,,,false,false
+"879",,,"5",6,,,,,,false,false
+"880",,,"8",6,,,,,,false,false
+"881",,,"6",6,,,,,,false,false
+"882",,,"8",6,,,,,,false,false
+"883",,,"8",6,,,,,,false,false
+"884",,,"4",3,Ulmus americana,,,,,false,false
+"885",,,"3",3,Ulmus americana,,,,,false,false
+"886",,,"3",3,Ulmus americana,,,,,false,false
+"887",,,"3",3,Ulmus americana,,,,,false,false
+"888",,,"2",2,Ulmus americana,,,,,false,false
+"889",,,"3",4,Ulmus americana,,,,,false,false
+"890",,,"5",7,Ulmus americana,,,,,false,false
+"891",,,"3",3,Leave comment,Dead standing,,,,false,false
+"892",,,"5",4,Leave comment,Dead standing,,,,false,false
+"893",,,"5",4,Leave comment,Dead standing,,,,false,false
+"894",,,"3,2,2",2.5,Leave comment,Rhamnus cathartica,,,,false,false
+"895",,,"2",2,Leave comment,Rhamnus cathartica,,,,false,false
+"896",,,"3",3,Leave comment,Rhamnus cathartica,,,,false,false
+"897",,,"3,2",3,Leave comment,Rhamnus cathartica,,,,false,false
+"898",,,"5",4,Leave comment,Rhamnus cathartica,,,,false,false
+"899",,,"2",2,Leave comment,Rhamnus cathartica,,,,false,false
+"900",,,"40",25,Populus deltoides,,,,,false,false
+"901",,,"15",15,Populus deltoides,,,,,false,false
+"902",,,"3",5,Ulmus americana,,,,,false,false
+"903",,,"2",2,Ulmus americana,,,,,false,false
+"904",,,"2",3,Ulmus americana,,,,,false,false
+"905",,,"2",3,Ulmus americana,,,,,false,false
+"906",,,"2",3,Ulmus americana,,,,,false,false
+"907",,,"2",4,Ulmus americana,,,,,false,false
+"908",,,"2",4,Ulmus americana,,,,,false,false
+"909",,,"3",4,Rhus typhina,,,,,false,false
+"910",,,"2",3,Ulmus americana,,,,,false,false
+"911",,,"2",3,Ulmus americana,,,,,false,false
+"912",,,"2",3,Ulmus americana,,,,,false,false
+"913",,,"5",7,Leave comment,Dead standing,,,,false,false
+"914",,,"6",7,Leave comment,Dead standing,,,,false,false
+"915",,,"6",7,Leave comment,Dead standing,,,,false,false
+"916",,,"5",7,Leave comment,Dead standing,,,,false,false
+"917",,,"7",8,Ulmus americana,,,,,false,false
+"918",,,"1",2,Ulmus americana,,,,,false,false
+"919",,,"15,15",15,Acer saccharinum,,,,,false,false
+"920",,,"7",10,Fraxinus pennsylvanica,,,,,false,false
+"921",,,"3",3,Ulmus americana,,,,,false,false
+"922",,,"3",4,Ulmus americana,,,,,false,false
+"923",,,"4",4,Rhus typhina,,,,,false,false
+"924",,,"2",2,Leave comment,Dead standing,,,,false,false
+"925",,,"5",7,Acer saccharinum,,,,,false,false
+"926",,,"5",5,Acer saccharinum,,,,,false,false
+"927",,,"3",4,Alnus glutinosa,,,,,false,false
+"928",,,"5",7,Fraxinus pennsylvanica,,,,,false,false
+"929",,,"5",7,Ulmus americana,,,,,false,false
+"930",,,"2",2.5,Leave comment,Dead standing,,,,false,false
+"931",,,"4",7,Ulmus americana,,,,,false,false
+"932",,,"4",7,Leave comment,Dead standing,,,,false,false
+"933",,,"2",2,Leave comment,Dead standing,,,,false,false
+"934",,,"3",3,Ulmus americana,,,,,false,false
+"935",,,"8,4",6,Rhus typhina,,,,,false,false
+"936",,,"10",7,Leave comment,Dead standing,,,,false,false
+"937",,,"3",2,Leave comment,Dead standing,,,,false,false
+"938",,,"15,2",10,Acer saccharinum,,,,,false,false
+"939",,,"8",8,Acer saccharinum,,,,,false,false
+"940",,,"4",6,Acer saccharinum,,,,,false,false
+"941",,,"4",3,Fraxinus pennsylvanica,,,,,false,false
+"942",,,"2",3,Acer negundo,,,,,false,false
+"943",,,"2",2.5,Fraxinus pennsylvanica,,,,,false,false
+"944",,,"4",3,Catalpa speciosa,,,,,false,false
+"945",,,"5",7,Fraxinus pennsylvanica,,,,,false,false
+"946",,,"2",2,Leave comment,Rhamnus cathartica,,,,false,false
+"947",,,"6",7,Fraxinus pennsylvanica,,,,,false,false
+"948",,,"4,4,3",4,Leave comment,Rhamnus cathartica,,,,false,false
+"949",,,"5",5,Leave comment,Dead standing,,,,false,false
+"950",,,"20,20",20,Populus deltoides,,,,,false,false
+"951",,,"4",3,Leave comment,Rhamnus cathartica,,,,false,false
+"952",,,"2",2,Leave comment,Rhamnus cathartica,,,,false,false
+"953",,,"2",2,Leave comment,Rhamnus cathartica,,,,false,false
+"954",,,"2",2,Leave comment,Rhamnus cathartica,,,,false,false
+"955",,,"2",2,Leave comment,Rhamnus cathartica,,,,false,false
+"956",,,"2",2,Leave comment,Rhamnus cathartica,,,,false,false
+"957",,,"2",2,Leave comment,Rhamnus cathartica,,,,false,false
+"958",,,"1",2,Ulmus americana,,,,,false,false
+"959",,,"3",4,Acer saccharinum,,,,,false,false
+"960",,,"2",3,Acer saccharinum,,,,,false,false
+"961",,,"8",5,Leave comment,Dead standing,,,,false,false
+"962",,,"3",2,Fraxinus pennsylvanica,,,,,false,false
+"963",,,"1",2,Alnus glutinosa,,,,,false,false
+"964",,,"15",10,Populus deltoides,,,,,false,false
+"965",,,"2",2,Fraxinus pennsylvanica,,,,,false,false
+"966",,,"3",4,Fraxinus pennsylvanica,,,,,false,false
+"967",,,"8",6.5,Leave comment,Dead standing,,,,false,false
+"968",,,"2",2,Fraxinus pennsylvanica,,,,,false,false
+"969",,,"8",7,Acer negundo,,,,,false,false
+"970",,,"2",2,Fraxinus pennsylvanica,,,,,false,false
+"971",,,"2",2,Fraxinus pennsylvanica,,,,,false,false
+"972",,,"10",3,Tilia cordata,,,,,false,false
+"973",,,"4,3",4,Fraxinus pennsylvanica,,,,,false,false
+"974",,,"10",6,Fraxinus pennsylvanica,,,,,false,false
+"975",,,"4",4,Leave comment,Rhamnus cathartica,,,,false,false
+"976",,,"3",2,Leave comment,Rhamnus cathartica,,,,false,false
+"977",,,"3",2,Leave comment,Rhamnus cathartica,,,,false,false
+"978",,,"3",2,Leave comment,Rhamnus cathartica,,,,false,false
+"979",,,"10",5,Leave comment,Dead standing,,,,false,false
+"980",,,"5",4,Fraxinus pennsylvanica,,,,,false,false
+"981",,,"5",4,Fraxinus pennsylvanica,,,,,false,false
+"982",,,"5",3,Leave comment,Dead standing,,,,false,false
+"983",,,"7",3,Acer negundo,,,,,false,false
+"984",,,"3",3,Fraxinus pennsylvanica,,,,,false,false
+"985",,,"3",3,Fraxinus pennsylvanica,,,,,false,false
+"986",,,"3",3,Ulmus americana,,,,,false,false
+"987",,,"3",3,Acer negundo,,,,,false,false
+"988",,,"3",3,Fraxinus pennsylvanica,,,,,false,false
+"989",,,"2",2,Leave comment,Dead standing,,,,false,false
+"990",,,"2",2,Acer saccharinum,,,,,false,false
+"991",,,"2",2,Leave comment,Frangula alnus,,,,false,false
+"992",,,"2",2,Leave comment,Dead standing,,,,false,false
+"993",,,"2",2.5,Leave comment,Dead standing,,,,false,false
+"994",,,"2",3,Fraxinus pennsylvanica,,,,,false,false
+"995",,,"2",2,Fraxinus pennsylvanica,,,,,false,false
+"996",,,"2",2,Fraxinus pennsylvanica,,,,,false,false
+"997",,,"2",3,Fraxinus pennsylvanica,,,,,false,false
+"998",,,"4",3.5,Fraxinus pennsylvanica,,,,,false,false
+"999",,,"5",5,Leave comment,Dead standing,,,,false,false
+"1000",,,"4",4,Acer platanoides,,,,,false,false
+"1001",,,"5",6,Leave comment,Dead standing,,,,false,false
+"1002",,,"20",15,Leave comment,Dead standing,,,,false,false
+"1003",,,"15",15,Leave comment,Dead standing,,,,false,false
+"1004",,,"20",15,Leave comment,Dead standing,,,,false,false
+"1005",,,"5",4,Leave comment,Rhamnus cathartica,,,,false,false
+"1006",,,"5",4,Leave comment,Rhamnus cathartica,,,,false,false
+"1007",,,"2",2,Leave comment,Rhamnus cathartica,,,,false,false
+"1008",,,"2",2,Leave comment,Rhamnus cathartica,,,,false,false
+"1009",,,"5",5,Leave comment,Dead standing,,,,false,false
+"1010",,,"10,10,10,10",10,Acer saccharinum,,,,,false,false
+"1011",,,"4",4,Leave comment,Dead standing,,,,false,false
+"1012",,,"15",8,Leave comment,Dead standing,,,,false,false
+"1013",,,"5",10,Fraxinus pennsylvanica,,,,,false,false
+"1014",,,"20",8,Leave comment,Rhamnus cathartica,,,,false,false
+"1015",,,"1",2,Rhus typhina,,,,,false,false
+"1016",,,"10",8,Acer saccharinum,,,,,false,false
+"1017",,,"10",10,Leave comment,Dead standing,,,,false,false
+"1018",,,"3",2.5,Fraxinus pennsylvanica,,,,,false,false
+"1019",,,"16",10,Acer saccharinum,,,,,false,false
+"1020",,,"5",7,Ulmus americana,,,,,false,false
+"1021",,,"5",7,Acer saccharinum,,,,,false,false
+"1022",,,"15",15,Acer saccharinum,,,,,false,false
+"1023",,,"15,10,20,15",15,Acer saccharinum,,,,,false,false
+"1024",,,"4",3,Acer negundo,,,,,false,false
+"1025",,,"5",6,Fraxinus pennsylvanica,,,,,false,false
+"1026",,,"2",3,Rhus typhina,,,,,false,false
+"1027",,,"2",3,Rhus typhina,,,,,false,false
+"1028",,,"2",2,Prunus virginiana,,,,,false,false
+"1029",,,"7",5,Fraxinus pennsylvanica,,,,,false,false
+"1030",,,"2",3,Rhus typhina,,,,,false,false
+"1031",,,"5",4,Gleditsia triacanthos,,,,,false,false
+"1032",,,"3,3,3",3,Leave comment,Rhamnus cathartica,,,,false,false
+"1033",,,"3",3,Rhus typhina,,,,,false,false
+"1034",,,"2",3,Leave comment,Rhamnus cathartica,,,,false,false
+"1035",,,"2",3,Leave comment,Rhamnus cathartica,,,,false,false
+"1036",,,"2",3,Leave comment,Rhamnus cathartica,,,,false,false
+"1037",,,"10",5,Leave comment,Dead standing,,,,false,false
+"1038",,,"5",5,Leave comment,Rhamnus cathartica,,,,false,false
+"1039",,,"3",2,Leave comment,Rhamnus cathartica,,,,false,false
+"1040",,,"2",2.5,Prunus virginiana,,,,,false,false
+"1041",,,"2",3,Leave comment,Rhamnus cathartica,,,,false,false
+"1042",,,"2",3,Leave comment,Rhamnus cathartica,,,,false,false
+"1043",,,"1",2,Leave comment,Rhamnus cathartica,,,,false,false
+"1044",,,"1",2,Leave comment,Rhamnus cathartica,,,,false,false
+"1045",,,"1",2,Leave comment,Rhamnus cathartica,,,,false,false
+"1046",,,"1",2,Leave comment,Rhamnus cathartica,,,,false,false
+"1047",,,"1",2,Leave comment,Rhamnus cathartica,,,,false,false
+"1048",,,"1",2,Leave comment,Rhamnus cathartica,,,,false,false
+"1049",,,"1",2,Leave comment,Rhamnus cathartica,,,,false,false
+"1050",,,"1",2,Leave comment,Rhamnus cathartica,,,,false,false
+"1051",,,"1",2,Leave comment,Rhamnus cathartica,,,,false,false
+"1052",,,"2",2,Leave comment,Dead standing,,,,false,false
+"1053",,,"2",3,Leave comment,Rhamnus cathartica,,,,false,false
+"1054",,,"15",6,Leave comment,Dead standing,,,,false,false
+"1055",,,"15",6,Leave comment,Dead standing,,,,false,false
+"1056",,,"6",4,Fraxinus pennsylvanica,,,,,false,false
+"1057",,,"10",7,Leave comment,Dead standing,,,,false,false
+"1058",,,"6",2,Leave comment,Rhamnus cathartica,,,,false,false
+"1059",,,"5",4,Leave comment,Rhamnus cathartica,,,,false,false
+"1060",,,"4",3,Leave comment,Dead standing,,,,false,false
+"1061",,,"20",15,Leave comment,Dead standing,,,,false,false
+"1062",,,"10",4,Leave comment,Rhamnus cathartica,,,,false,false
+"1063",,,"4",2.5,Leave comment,Frangula alnus,,,,false,false
+"1064",,,"2",2,Leave comment,Rhamnus cathartica,,,,false,false
+"1065",,,"2",2,Leave comment,Rhamnus cathartica,,,,false,false
+"1066",,,"2",2,Leave comment,Rhamnus cathartica,,,,false,false
+"1067",,,"2",2,Leave comment,Rhamnus cathartica,,,,false,false
+"1068",,,"15",10,Acer saccharinum,,,,,false,false
+"1069",,,"5",5,Acer negundo,,,,,false,false
+"1070",,,"17",7,Acer negundo,,,,,false,false
+"1071",,,"3",3,Ulmus americana,,,,,false,false
+"1072",,,"2",4,Fraxinus pennsylvanica,,,,,false,false
+"1073",,,"7,10,5,5,7,7,5,7,8",2,Leave comment,Dead standing,,,,false,false
+"1074",,,"8,8",4,Tilia cordata,,,,,false,false
+"1075",,,"8",3,Acer negundo,,,,,false,false
+"1076",,,"5",2,Acer negundo,,,,,false,false
+"1077",,,"2",2,Prunus americana,,,,,false,false
+"1078",,,"10,7",7,Acer saccharum,,,,,false,false
+"1079",,,"15",5,Leave comment,Dead standing,,,,false,false
+"1080",,,"20",8,Acer saccharum,,,,,false,false
+"1081",,,"4",3,Acer saccharum,,,,,false,false
+"1082",,,"10",7,Acer saccharum,,,,,false,false
+"1083",,,"4",3,Acer saccharum,,,,,false,false
+"1084",,,"20",2,Leave comment,Euonymus alatus,,,,false,false
+"1085",,,"10",2,Leave comment,Euonymus alatus,,,,false,false
+"1086",,,"15",2.5,Leave comment,Euonymus alatus,,,,false,false
+"1087",,,"10",2,Leave comment,Euonymus alatus,,,,false,false
+"1088",,,"10",2,Leave comment,Euonymus alatus,,,,false,false
+"1089",,,"10",2,Leave comment,Euonymus alatus,,,,false,false
+"1090",,,"10",7,Acer negundo,,,,,false,false
+"1091",,,"10",6,Acer saccharum,,,,,false,false
+"1092",,,"25",10,Populus deltoides,,,,,false,false
+"1093",,,"15",10,Acer negundo,,,,,false,false
+"1094",,,"15,20,12,10,15,10",10,Acer negundo,,,,,false,false
+"1095",,,"5,7",4,Leave comment,Dead standing,,,,false,false
+"1096",,,"10",2,Acer negundo,,,,,false,false
+"1097",,,"5",5,Acer saccharum,,,,,false,false
+"1098",,,"3",3,Fraxinus pennsylvanica,,,,,false,false
+"1099",,,"15,10,15",8,Acer negundo,,,,,false,false
+"1100",,,"10,15",10,Acer negundo,,,,,false,false
+"1101",,,"7",5,Acer saccharum,,,,,false,false
+"1102",,,"15,10",10,Acer negundo,,,,,false,false
+"1103",,,"2",2.5,Amelanchier canadensis,,,,,false,false
+"1104",,,"3",3,Acer rubrum,,,,,false,false
+"1105",,,"10",7,Acer negundo,,,,,false,false
+"1106",,,"25,15,20",15,Acer negundo,,,,,false,false
+"1107",,,"15,20,20",15,Acer negundo,,,,,false,false
+"1108",,,"15",15,Acer negundo,,,,,false,false
+"1109",,,"10,25",15,Acer negundo,,,,,false,false
+"1110",,,"10,20",15,Acer negundo,,,,,false,false
+"1111",,,"10,25,20,20",15,Acer negundo,,,,,false,false
+"1112",,,"35",15,Acer platanoides,,,,,false,false
+"1113",,,"20,20",15,Acer negundo,,,,,false,false
+"1114",,,"8",10,Acer saccharum,,,,,false,false
+"1115",,,"8",10,Acer saccharum,,,,,false,false
+"1116",,,"7",5,Acer negundo,,,,,false,false
+"1117",,,"25,20,15,8",5,Acer negundo,,,,,false,false
+"1118",,,"2",2,Leave comment,Dead standing,,,,false,false
+"1119",,,"15",10,Acer negundo,,,,,false,false
+"1120",,,"15,10,20,20",15,Acer negundo,,,,,false,false
+"1121",,,"8,5",6,Acer saccharum,,,,,false,false
+"1122",,,"35,27",20,Acer negundo,,,,,false,false
+"1123",,,"8,8",6,Acer saccharum,,,,,false,false
+"1124",,,"20,15",6,Acer negundo,,,,,false,false
+"1125",,,"2",2,Leave comment,Dead standing,,,,false,false
+"1126",,,"1",2,Acer saccharum,,,,,false,false
+"1127",,,"30,10",15,Acer negundo,,,,,false,false
+"1128",,,"30,30,30",15,Acer negundo,,,,,false,false
+"1129",,,"15,20,15",15,Acer negundo,,,,,false,false
+"1130",,,"30,30",15,Acer negundo,,,,,false,false
+"1131",,,"5",6,Acer saccharum,,,,,false,false
+"1132",,,"10,10,7,5",10,Acer negundo,,,,,false,false
+"1133",,,"5,3",3.5,Acer negundo,,,,,false,false
+"1134",,,"2,10,15",15,Acer negundo,,,,,false,false
+"1135",,,"7,10",7,Acer negundo,,,,,false,false
+"1136",,,"7,10",10,Acer negundo,,,,,false,false
+"1137",,,"10,15,15",10,Acer negundo,,,,,false,false
+"1138",,,"60",15,Acer saccharum,,,,,false,false
+"1139",,,"8",4,,Tilia x europea,,,Soverdi,false,false
+"1140",,,"9",4.5,Acer saccharum,,,,Soverdi,false,false
+"1141",,,"10",6,Acer x freemanii,,,,Soverdi,false,false
+"1142",,,"5",2.5,Amelanchier canadensis,,,,Soverdi,false,false
+"1143",,,"6",3,Acer tataricum,,,,Soverdi,false,false
+"1144",,,"25",9,Acer saccharum,,,,Unknown ,false,false
+"1145",,,"2",2,Rhus typhina,,,,Unknown ,false,false
+"1146",,,"7",4,Rhus typhina,,,,Unknown ,false,false
+"1147",,,"12",5,Rhus typhina,,,,Unknown ,false,false
+"1148",,,"10,8",4,Rhus typhina,,,,Unknown ,false,false
+"1149",,,"25",4,Fraxinus americana,,,,Unknown ,false,false
+"1150",,,"12",4,Acer platanoides,,,,Unknown ,false,false
+"1151",,,"10",3,Acer saccharum,,,,Unknown ,false,false
+"1152",,,"5",2.5,Amelanchier canadensis,,,,Soverdi,false,false
+"1153",,,"20,15,20",10,Betula papyrifera,,,,Unknown ,false,false
+"1154",,,"6",2,Leave comment,Populus canadensis,,,Soverdi,false,false
+"1155",,,"8",2,Sorbus aucuparia,,,,Soverdi,false,false
+"1156",,,"4",2,Leave comment,Tilia europea,,,Soverdi,false,false
+"1157",,,"10",2,Catalpa speciosa,,,,Unknown,false,false
+"1158",,,"7",2,Phellodendron amurense,,,,Soverdi,false,false
+"1159",,,"15",4.5,Ulmus pumila,,,,Unknown,false,false
+"1160",,,"6",2.5,Leave comment,,,,Soverdi,false,false
+"1161",,,"35",15,Acer saccharum,,,,Unknown,false,false
+"1162",,,"35",15,Acer saccharum,,,,Unknown,false,false
+"1163",,,"30",12,Acer saccharum,,,,Unknown,false,false
+"1164",,,"4",2,Sorbus aucuparia,,,,Soverdi,false,false
+"1165",,,"25",10,Acer saccharum,,,,Unknown,false,false
+"1166",,,"5",3,Quercus rubra,,,,Soverdi,false,false
+"1167",,,"25",10,Acer saccharum,,,,Unknown,false,false
+"1168",,,"3",2,Ulmus sp.,,,,Soverdi,false,false
+"1169",,,"11",4,Larix laricina,,,,Soverdi,false,false
+"1170",,,"10",3,Acer negundo,,,,Unknown,false,false
+"1171",,,"10,10",4,Prunus sp.,,,,Unknown,false,false
+"1172",,,"3",3,Fraxinus pennsylvanica,,,,Unknown,false,false
+"1173",,,"3",3,Fraxinus pennsylvanica,,,,Unknown,false,false
+"1174",,,"2",2.5,Fraxinus pennsylvanica,,,,Unknown,false,false
+"1175",,,"2",2.5,Fraxinus pennsylvanica,,,,Unknown,false,false
+"1176",,,"2",2.5,Fraxinus pennsylvanica,,,,Unknown,false,false
+"1177",,,"7",3.5,Fraxinus pennsylvanica,,,,Unknown,false,false
+"1178",,,"7",8,Prunus sp.,,,,Unknown,false,false
+"1179",,,"37",10,Acer platanoides,,,,Unknown,false,false
+"1180",,,"4",3.5,Leave comment,,,,Unknown,false,false
+"1181",,,"15",4,Pyrus communis,,,,Unknown,false,false
+"1182",,,"3",2,Rhus typhina,,,,Unknown,false,false
+"1183",,,"8",4,Rhus typhina,,,,Unknown,false,false
+"1184",,,"8",3.5,Rhus typhina,,,,Unknown,false,false
+"1185",,,"10",3,Rhus typhina,,,,Unknown,false,false
+"1186",,,"10,10,12",4.5,Malus sp.,,,,Unknown,false,false
+"1187",,,"6",4,Quercus macrocarpa,,,,Soverdi,false,false
+"1188",,,"10",4,Quercus rubra,,,,Soverdi,false,false
+"1189",,,"4",3,Quercus rubra,,,,Soverdi,false,false
+"1190",,,"2",2,Leave comment,,,,Soverdi,false,false
+"1191",,,"8",3,Tilia americana,,,,Soverdi,false,false
+"1192",,,"3",3,Acer saccharum,,,,Soverdi,false,false
+"1193",,,"4",2,Pinus strobus,,,,Soverdi,false,false
+"1194",,,"13",3.5,Pinus strobus,,,,Unknown,false,false
+"1195",,,"4",3.5,Leave comment,,,,Soverdi,false,false
+"1196",,,"4",3,Leave comment,Betula pendula,,,Soverdi,false,false
+"1197",,,"3",2,Amelanchier canadensis,,,,Soverdi,false,false
+"1198",,,"3",2,Amelanchier canadensis,,,,Soverdi,false,false
+"1199",,,"15",5,Ostrya virginiana,,,,Soverdi,false,false
+"1200",,,"6",2.5,Sorbus aucuparia,,,,Soverdi,false,false
+"1201",,,"4",2.5,Acer saccharum,,,,Soverdi,false,false
+"1202",,,"2",2,Leave comment,Dead standing,,,Soverdi,false,false
+"1203",,,"2",2,Prunus sp.,,,,Soverdi,false,false
+"1204",,,"2",2,Prunus sp.,,,,Soverdi,false,false
+"1205",,,"7",3,Leave comment,Tilia x europea,,,Soverdi,false,false
+"1206",,,"3",3,Acer saccharum,,,,Soverdi,false,false
+"1207",,,"6",3,Amelanchier canadensis,,,,Soverdi,false,false
+"1208",,,"25",12,Acer platanoides,,,,Unknown,false,false
+"1209",,,"6",3.5,Phellodendron amurense,,,,Soverdi,false,false
+"1210",,,"15",5,Leave comment,,,,Unknown,false,false
+"1211",,,"15",5,Leave comment,,,,Unknown,false,false
+"1212",,,"17",7,Leave comment,Picea sp.,,,Unknown,false,false
+"1213",,,"7",3,Sorbus aucuparia,,,,Soverdi,false,false
+"1214",,,"17",6,Acer saccharum,,,,Soverdi,false,false
+"1215",,,"2",2.5,Quercus rubra,,,,Soverdi,false,false
+"1216",,,"4",3.5,Quercus macrocarpa,,,,Soverdi,false,false
+"1217",,,"55",15,Acer saccharum,,,,Unknown,false,false
+"1218",,,"40",12,Acer saccharum,,,,Unknown,false,false
+"1219",,,"25",10,Leave comment,Picea sp.,,,Unknown,false,false
+"1220",,,"12",8,Leave comment,Picea sp.,,,Unknown,false,false
+"1221",,,"12",8,Leave comment,Picea sp.,,,Unknown,false,false
+"1222",,,"12",8,Quercus rubra,,,,Unknown,false,false
+"1223",,,"10",2,Malus sp.,,,,Unknown,false,false
+"1224",,,"5,6",2,Prunus sp.,,,,Unknown,false,false
+"1225",,,"45",15,Acer saccharum,,,,Unknown,false,false
+"1226",,,"15",7,Quercus macrocarpa,,,,Unknown,false,false
+"1227",,,"3",2,Leave comment,Dead standing,,,Soverdi,false,false
+"1228",,,"10",4,Acer tataricum,,,,Unknown,false,false
+"1229",,,"7",3,Leave comment,Tilia x europea,,,Soverdi,false,false
+"1230",,,"15",6,Quercus macrocarpa,,,,Unknown,false,false
+"1231",,,"9",4,Catalpa speciosa,,,,Soverdi,false,false
+"1232",,,"30",10,Leave comment,Picea sp.,,,Unknown,false,false
+"1233",,,"15",7,Leave comment,Picea sp.,,,Unknown,false,false
+"1234",,,"15",7,Leave comment,Picea sp.,,,Unknown,false,false
+"1235",,,"45",20,Leave comment,Dead standing,,,Unknown,false,false
+"1236",,,"50",20,Acer saccharum,,,,Unknown,false,false
+"1237",,,"4",2,Leave comment,Picea sp.,,,Unknown,false,false
+"1238",,,"40",20,Acer saccharum,,,,Unknown,false,false
+"1239",,,"15",10,Acer saccharum,,,,Unknown,false,false
+"1240",,,"10,10",10,Leave comment,Dead standing,,,Unknown,false,false
+"1241",,,"6",3.5,Amelanchier canadensis,,,,Soverdi,false,false
+"1242",,,"7",2.5,Prunus sp.,,,,Soverdi,false,false
+"1243",,,"3",3,Leave comment,Dead standing,,,Soverdi,false,false
+"1244",,,"20",10,Tilia americana,,,,Unknown,false,false
+"1245",,,"9",8,Fraxinus pennsylvanica,,,,Unknown,false,false
+"1246",,,"12,10,8",8,Tilia americana,,,,Unknown,false,false
+"1247",,,"10",7,Tilia americana,,,,Unknown,false,false
+"1248",,,"15",7,Leave comment,Picea sp.,,,Unknown,false,false
+"1249",,,"20",8,Tilia americana,,,,Unknown,false,false
+"1250",,,"15",6,Leave comment,Picea sp.,,,Unknown,false,false
+"1251",,,"15",7.5,Leave comment,Picea sp.,,,Unknown,false,false
+"1252",,,"12,11",8,Leave comment,Dead standing,,,Unknown,false,false
+"1253",,,"3",2,Populus tremuloides,,,,,false,false
+"1254",,,"3",2,Populus tremuloides,,,,,false,false
+"1255",,,"7",4,Fraxinus pennsylvanica,,,,,false,false
+"1256",,,"4",3,Populus tremuloides,,,,,false,false
+"1257",,,"4",3,Populus tremuloides,,,,,false,false
+"1258",,,"4",3,Populus tremuloides,,,,,false,false
+"1259",,,"3",3,Leave comment,Dead standing,,,,false,false
+"1260",,,"3",3,Populus tremuloides,,,,,false,false
+"1261",,,"20,25",20,Quercus rubra,,,,,false,false
+"1262",,,"40",20,Quercus rubra,,,,,false,false
+"1263",,,"30",30,Ulmus sp.,,,,,false,false
+"1264",,,"2",2,Acer saccharinum,,,,,false,false
+"1265",,,"3",4,Leave comment,Dead standing,,,,false,false
+"1266",,,"4",4,Acer saccharum,,,,,false,false
+"1267",,,"1",2,Leave comment,Rhamnus cathartica,,,,false,false
+"1268",,,"1",2,Leave comment,Rhamnus cathartica,,,,false,false
+"1269",,,"2",2,Leave comment,Dead standing,,,,false,false
+"1270",,,"1",2,Fraxinus pennsylvanica,,,,,false,false
+"1271",,,"1",2,Fraxinus pennsylvanica,,,,,false,false
+"1272",,,"2",4,Fraxinus pennsylvanica,,,,,false,false
+"1273",,,"3",4,Fraxinus pennsylvanica,,,,,false,false
+"1274",,,"1",2,Fraxinus pennsylvanica,,,,,false,false
+"1275",,,"1",2,Leave comment,Rhamnus cathartica,,,,false,false
+"1276",,,"3",5,Fraxinus pennsylvanica,,,,,false,false
+"1277",,,"4",4,Rhus typhina,,,,,false,false
+"1278",,,"30",10,Leave comment,Dead standing,,,,false,false
+"1279",,,"8",5,Fraxinus pennsylvanica,,,,,false,false
+"1280",,,"8",6,Leave comment,Dead standing,,,,false,false
+"1281",,,"1",2,Leave comment,Rhamnus cathartica,,,,false,false
+"1282",,,"1",2,Leave comment,Rhamnus cathartica,,,,false,false
+"1283",,,"4",3,Leave comment,Dead standing,,,,false,false
+"1284",,,"2",2,Leave comment,Rhamnus cathartica,,,,false,false
+"1285",,,"2",3,Fraxinus pennsylvanica,,,,,false,false
+"1286",,,"10",2,Leave comment,Dead standing,,,,false,false
+"1287",,,"7",5,Fraxinus pennsylvanica,,,,,false,false
+"1288",,,"7",4,Leave comment,Dead standing,,,,false,false
+"1289",,,"8",6,Fraxinus pennsylvanica,,,,,false,false
+"1290",,,"1",2,Leave comment,Rhamnus cathartica,,,,false,false
+"1291",,,"1",2,Leave comment,Rhamnus cathartica,,,,false,false
+"1292",,,"5",5,Leave comment,Rhamnus cathartica,,,,false,false
+"1293",,,"5",5,Leave comment,Rhamnus cathartica,,,,false,false
+"1294",,,"2",2,Leave comment,Rhamnus cathartica,,,,false,false
+"1295",,,"10",7,Leave comment,Dead standing,,,,false,false
+"1296",,,"2",2,Leave comment,Rhamnus cathartica,,,,false,false
+"1297",,,"6",4,Fraxinus pennsylvanica,,,,,false,false
+"1298",,,"40",15,Leave comment,Dead standing,,,,false,false
+"1299",,,"20",10,Leave comment,Dead standing,,,,false,false
+"1300",,,"5",5,Fraxinus pennsylvanica,,,,,false,false
+"1301",,,"5",5,Fraxinus pennsylvanica,,,,,false,false
+"1302",,,"7",7,Fraxinus pennsylvanica,,,,,false,false
+"1303",,,"4",4,Fraxinus pennsylvanica,,,,,false,false
+"1304",,,"5",6,Fraxinus pennsylvanica,,,,,false,false
+"1305",,,"3",3,Leave comment,Dead standing,,,,false,false
+"1306",,,"3",2,Leave comment,Dead standing,,,,false,false
+"1307",,,"3",4,Rhus typhina,,,,,false,false
+"1308",,,"10",8,Acer saccharum,,,,,false,false
+"1309",,,"7",4,Leave comment,Dead standing,,,,false,false
+"1310",,,"10",10,Fraxinus pennsylvanica,,,,,false,false
+"1311",,,"7",9,Acer saccharum,,,,,false,false
+"1312",,,"20",15,Leave comment,Dead standing,,,,false,false
+"1313",,,"1",2,Leave comment,Dead standing,,,,false,false
+"1314",,,"4",5,Acer saccharum,,,,,false,false
+"1315",,,"4",6,Leave comment,Dead standing,,,,false,false
+"1316",,,"3",4,Rhus typhina,,,,,false,false
+"1317",,,"4",4,Rhus typhina,,,,,false,false
+"1318",,,"6",4,Rhus typhina,,,,,false,false
+"1319",,,"12",10,Fraxinus pennsylvanica,,,,,false,false
+"1320",,,"10",10,Rhus typhina,,,,,false,false
+"1321",,,"8",9,Rhus typhina,,,,,false,false
+"1322",,,"15",10,Acer saccharum,,,,,false,false
+"1323",,,"25",15,Fraxinus pennsylvanica,,,,,false,false
+"1324",,,"15",10,Acer negundo,,,,,false,false
+"1325",,,"7",7,Tilia americana,,,,,false,false
+"1326",,,"2",3,Rhus typhina,,,,,false,false
+"1327",,,"4",5,Rhus typhina,,,,,false,false
+"1328",,,"2",3,Rhus typhina,,,,,false,false
+"1329",,,"2",3,Rhus typhina,,,,,false,false
+"1330",,,"2",3,Leave comment,Dead standing,,,,false,false
+"1331",,,"2",3,Leave comment,Dead standing,,,,false,false
+"1332",,,"1",2,Leave comment,,,,,false,false
+"1333",,,"2",3,Leave comment,Dead standing,,,,false,false
+"1334",,,"4",4,Leave comment,Dead standing,,,,false,false
+"1335",,,"4",4,Leave comment,Dead standing,,,,false,false
+"1336",,,"2",2,Leave comment,Dead standing,,,,false,false
+"1337",,,"2",2,Leave comment,Dead standing,,,,false,false
+"1338",,,"7",8,Acer negundo,,,,,false,false
+"1339",,,"20",15,Fraxinus pennsylvanica,,,,,false,false
+"1340",,,"17",20,Fraxinus pennsylvanica,,,,,false,false
+"1341",,,"4",3.5,Prunus sp.,,,,,false,false
+"1342",,,"5",3.5,Leave comment,Dead standing,,,,false,false
+"1343",,,"5",3.5,Leave comment,Dead standing,,,,false,false
+"1344",,,"1",2,Leave comment,Dead standing,,,,false,false
+"1345",,,"1",2,Leave comment,Dead standing,,,,false,false
+"1346",,,"1",2,Leave comment,Dead standing,,,,false,false
+"1347",,,"1",2,Leave comment,Dead standing,,,,false,false
+"1348",,,"1",2,Leave comment,Dead standing,,,,false,false
+"1349",,,"1",2,Leave comment,Dead standing,,,,false,false
+"1350",,,"1",2,Leave comment,Dead standing,,,,false,false
+"1351",,,"1",2,Leave comment,Dead standing,,,,false,false
+"1352",,,"1",2,Leave comment,Dead standing,,,,false,false
+"1353",,,"1",2,Leave comment,Dead standing,,,,false,false
+"1354",,,"10",8,Fraxinus pennsylvanica,,,,,false,false
+"1355",,,"12",8,Acer negundo,,,,,false,false
+"1356",,,"3",5,Leave comment,Dead standing,,,,false,false
+"1357",,,"3",5,Leave comment,Dead standing,,,,false,false
+"1358",,,"3",5,Leave comment,Dead standing,,,,false,false
+"1359",,,"4",3,Rhus typhina,,,,,false,false
+"1360",,,"4",3,Rhus typhina,,,,,false,false
+"1361",,,"4",3,Rhus typhina,,,,,false,false
+"1362",,,"7",2.5,Leave comment,Crataegus sp.,,,,false,false
+"1363",,,"3,3,3,3",3,Leave comment,Rhamnus cathartica,,,,false,false
+"1364",,,"4",4,Rhus typhina,,,,,false,false
+"1365",,,"4",3.5,Rhus typhina,,,,,false,false
+"1366",,,"3",4,Rhus typhina,,,,,false,false
+"1367",,,"2",2,Rhus typhina,,,,,false,false
+"1368",,,"2",3,Rhus typhina,,,,,false,false
+"1369",,,"2",3,Rhus typhina,,,,,false,false
+"1370",,,"2",3,Rhus typhina,,,,,false,false
+"1371",,,"2",3,Rhus typhina,,,,,false,false
+"1372",,,"2",3,Rhus typhina,,,,,false,false
+"1373",,,"2",3,Rhus typhina,,,,,false,false
+"1374",,,"2",3,Rhus typhina,,,,,false,false
+"1375",,,"2",3,Rhus typhina,,,,,false,false
+"1376",,,"2",3,Rhus typhina,,,,,false,false
+"1377",,,"2",3,Rhus typhina,,,,,false,false
+"1378",,,"2",3,Rhus typhina,,,,,false,false
+"1379",,,"2",3,Rhus typhina,,,,,false,false
+"1380",,,"2",3,Rhus typhina,,,,,false,false
+"1381",,,"2",3,Rhus typhina,,,,,false,false
+"1382",,,"2",3,Rhus typhina,,,,,false,false
+"1383",,,"2",3,Rhus typhina,,,,,false,false
+"1384",,,"2",3,Rhus typhina,,,,,false,false
+"1385",,,"2",3,Rhus typhina,,,,,false,false
+"1386",,,"2",3,Rhus typhina,,,,,false,false
+"1387",,,"2",3,Rhus typhina,,,,,false,false
+"1388",,,"35",20,Leave comment,Dead standing,,,,false,false
+"1389",,,"15",8,Acer negundo,,,,,false,false
+"1390",,,"8",5,Acer negundo,,,,,false,false
+"1391",,,"4",4,Acer negundo,,,,,false,false
+"1392",,,"4",4.5,Acer negundo,,,,,false,false
+"1393",,,"4",3.5,Acer negundo,,,,,false,false
+"1394",,,"6",5,Acer negundo,,,,,false,false
+"1395",,,"15",10,Fraxinus pennsylvanica,,,,,false,false
+"1396",,,"4",2.5,Acer negundo,,,,,false,false
+"1397",,,"4",3,Acer negundo,,,,,false,false
+"1398",,,"5",5.5,Fraxinus pennsylvanica,,,,,false,false
+"1399",,,"3",4,Leave comment,Rhamnus cathartica,,,,false,false
+"1400",,,"3,2",4,Fraxinus pennsylvanica,,,,,false,false
+"1401",,,"7",6,Fraxinus pennsylvanica,,,,,false,false
+"1402",,,"4",6,Fraxinus pennsylvanica,,,,,false,false
+"1403",,,"3",6,Fraxinus pennsylvanica,,,,,false,false
+"1404",,,"10",8,Fraxinus pennsylvanica,,,,,false,false
+"1405",,,"3,3,3,4,5",4,Leave comment,Lonicera sp.,,,,false,false
+"1406",,,"3,3,3,3",2,Leave comment,Lonicera sp.,,,,false,false
+"1407",,,"5",5,Fraxinus pennsylvanica,,,,,false,false
+"1408",,,"4",7,Fraxinus pennsylvanica,,,,,false,false
+"1409",,,"2,1",2.5,Fraxinus pennsylvanica,,,,,false,false
+"1410",,,"3",6,Fraxinus pennsylvanica,,,,,false,false
+"1411",,,"10",12,Ulmus americana,,,,,false,false
+"1412",,,"12,12",9,Acer negundo,,,,,false,false
+"1413",,,"2",3,Fraxinus pennsylvanica,,,,,false,false
+"1414",,,"5",5,Ulmus americana,,,,,false,false
+"1415",,,"4",5,Tilia americana,,,,,false,false
+"1416",,,"3",2,Acer negundo,,,,,false,false
+"1417",,,"5",7,Ulmus americana,,,,,false,false
+"1418",,,"1,1",2,Leave comment,Rhamnus cathartica,,,,false,false
+"1419",,,"3",2,Leave comment,Crataegus submollis,,,,false,false
+"1420",,,"4",5,Acer negundo,,,,,false,false
+"1421",,,"5",5,Fraxinus pennsylvanica,,,,,false,false
+"1422",,,"10,3",11,Ulmus americana,,,,,false,false
+"1423",,,"1",2,Fraxinus pennsylvanica,,,,,false,false
+"1424",,,"4,4",6,Leave comment,Rhamnus cathartica,,,,false,false
+"1425",,,"2,2",2.5,Leave comment,Dead standing,,,,false,false
+"1426",,,"2",2.5,Leave comment,Dead standing,,,,false,false
+"1427",,,"3",5,Leave comment,Rhamnus cathartica,,,,false,false
+"1428",,,"5",4,Leave comment,Dead standing,,,,false,false
+"1429",,,"2",2,Leave comment,Rhamnus cathartica,,,,false,false
+"1430",,,"3",6,Fraxinus pennsylvanica,,,,,false,false
+"1431",,,"2",2,Fraxinus pennsylvanica,,,,,false,false
+"1432",,,"7",7,Ulmus americana,,,,,false,false
+"1433",,,"15,13",9,Acer negundo,,,,,false,false
+"1434",,,"3",6,Fraxinus pennsylvanica,,,,,false,false
+"1435",,,"4",2.5,Acer negundo,,,,,false,false
+"1436",,,"7",12,Fraxinus pennsylvanica,,,,,false,false
+"1437",,,"8",12,Fraxinus pennsylvanica,,,,,false,false
+"1438",,,"2.5",2,Fraxinus pennsylvanica,,,,,false,false
+"1439",,,"3,2",4,Fraxinus pennsylvanica,,,,,false,false
+"1440",,,"4",6,Ulmus americana,,,,,false,false
+"1441",,,"2",3,Fraxinus pennsylvanica,,,,,false,false
+"1442",,,"7",5,Fraxinus pennsylvanica,,,,,false,false
+"1443",,,"1,1",3.5,Leave comment,Rhamnus cathartica,,,,false,false
+"1444",,,"12",6,Fraxinus pennsylvanica,,,,,false,false
+"1445",,,"20",8,Fraxinus pennsylvanica,,,,,false,false
+"1446",,,"18",7,Leave comment,Dead standing,,,,false,false
+"1447",,,"2",3,Acer platanoides,,,,,false,false
+"1448",,,"2,2",3,Fraxinus pennsylvanica,,,,,false,false
+"1449",,,"1,1",3,Leave comment,Rhamnus cathartica,,,,false,false
+"1450",,,"2",3,Leave comment,Dead standing,,,,false,false
+"1451",,,"3",3,Ulmus americana,,,,,false,false
+"1452",,,"5",8,Leave comment,Rhamnus cathartica,,,,false,false
+"1453",,,"3",3,Ulmus americana,,,,,false,false
+"1454",,,"1",2,Ulmus americana,,,,,false,false
+"1455",,,"4",6,Ulmus americana,,,,,false,false
+"1456",,,"1",2,Ulmus americana,,,,,false,false
+"1457",,,"2",4,Leave comment,Dead standing,,,,false,false
+"1458",,,"3",4,Ulmus americana,,,,,false,false
+"1459",,,"3",5,Ulmus americana,,,,,false,false
+"1460",,,"1",3,Leave comment,Crataegus sp.,,,,false,false
+"1461",,,"2",2.2,Fraxinus pennsylvanica,,,,,false,false
+"1462",,,"5",9,Fraxinus pennsylvanica,,,,,false,false
+"1463",,,"5",9,Fraxinus pennsylvanica,,,,,false,false
+"1464",,,"3",4,Ulmus americana,,,,,false,false
+"1465",,,"5",6,Ulmus americana,,,,,false,false
+"1466",,,"23,10",13,Leave comment,Salix euxina,,,,false,false
+"1467",,,"4",7,Ulmus americana,,,,,false,false
+"1468",,,"4",7,Fraxinus pennsylvanica,,,,,false,false
+"1469",,,"8",9,Leave comment,Rhamnus cathartica,,,,false,false
+"1470",,,"15",15,Populus sp.,,,,,false,false
+"1471",,,"20,20,20,20,20,20,20,20",15,Leave comment,Salix euxina,,,,false,false
+"1472",,,"15",12,Ulmus americana,,,,,false,false
+"1473",,,"12",12,Ulmus americana,,,,,false,false
+"1474",,,"2",4,Ulmus americana,,,,,false,false
+"1475",,,"2",2,Ulmus americana,,,,,false,false
+"1476",,,"10",12,Ulmus americana,,,,,false,false
+"1477",,,"4",7,Ulmus americana,,,,,false,false
+"1478",,,"5",7,Ulmus americana,,,,,false,false
+"1479",,,"5",7,Ulmus americana,,,,,false,false
+"1480",,,"2",3,Fraxinus pennsylvanica,,,,,false,false
+"1481",,,"4",2,Acer negundo,,,,,false,false
+"1482",,,"7",7,Ulmus americana,,,,,false,false
+"1483",,,"9",7,Leave comment,Dead standing,,,,false,false
+"1484",,,"3",4,Prunus sp.,,,,,false,false
+"1485",,,"15,15",15,Leave comment,Salix euxina,,,,false,false
+"1486",,,"7,7",7,Ulmus americana,,,,,false,false
+"1487",,,"10,10",10,Ulmus americana,,,,,false,false
+"1488",,,"2,3",3.5,Leave comment,Dead standing,,,,false,false
+"1489",,,"3,7,5",7,Leave comment,Rhamnus cathartica,,,,false,false
+"1490",,,"2",2,Fraxinus pennsylvanica,,,,,false,false
+"1491",,,"9",2,Fraxinus pennsylvanica,,,,,false,false
+"1492",,,"2",2,Fraxinus pennsylvanica,,,,,false,false
+"1493",,,"1,2",2.5,Tilia americana,,,,,false,false
+"1494",,,"5",4,Quercus alba,,,,,false,false
+"1495",,,"10",8,Ulmus americana,,,,,false,false
+"1496",,,"4,4",7,Leave comment,Rhamnus cathartica,,,,false,false
+"1497",,,"45",15,Populus deltoides,,,,,false,false
+"1498",,,"2,3,4,3",4.5,Leave comment,Rhamnus cathartica,,,,false,false
+"1499",,,"6,3",5,Leave comment,Rhamnus cathartica,,,,false,false
+"1500",,,"7,7,10,15",12,Acer negundo,,,,,false,false
+"1501",,,"7",7,Ulmus americana,,,,,false,false
+"1502",,,"5",6,Ulmus americana,,,,,false,false
+"1503",,,"15",8,Ulmus americana,,,,,false,false
+"1504",,,"15",6,Ulmus americana,,,,,false,false
+"1505",,,"20",8,Ulmus americana,,,,,false,false
+"1506",,,"4,4,4,3",5,Leave comment,Rhamnus cathartica,,,,false,false
+"1507",,,"5,3",6,Acer negundo,,,,,false,false
+"1508",,,"2",4,Leave comment,Dead standing,,,,false,false
+"1509",,,"3",4,Leave comment,Dead standing,,,,false,false
+"1510",,,"5",5,Acer negundo,,,,,false,false
+"1511",,,"50",18,Populus deltoides,,,,,false,false
+"1512",,,"40",17,Populus deltoides,,,,,false,false
+"1513",,,"2",2,Leave comment,Dead standing,,,,false,false
+"1514",,,"3",4,Fraxinus pennsylvanica,,,,,false,false
+"1515",,,"1,2",3,Leave comment,Lonicera sp.,,,,false,false
+"1516",,,"25",12,Populus deltoides,,,,,false,false
+"1517",,,"20",12,Populus deltoides,,,,,false,false
+"1518",,,"27",12,Populus deltoides,,,,,false,false
+"1519",,,"3,3,3,2",5,Leave comment,Rhamnus cathartica,,,,false,false
+"1520",,,"30",15,Leave comment,Rhamnus cathartica,,,,false,false
+"1521",,,"30",15,Populus deltoides,,,,,false,false
+"1522",,,"5",5,Populus deltoides,,,,,false,false
+"1523",,,"43",16,Populus deltoides,,,,,false,false
+"1524",,,"2",3,Leave comment,Rhamnus cathartica,,,,false,false
+"1525",,,"19",12,Populus deltoides,,,,,false,false
+"1526",,,"10",12,Ulmus americana,,,,,false,false
+"1527",,,"40",14,Populus deltoides,,,,,false,false
+"1528",,,"2",3,Leave comment,Rhamnus cathartica,,,,false,false
+"1529",,,"8",6,Leave comment,Rhamnus cathartica,,,,false,false
+"1530",,,"4",5,Leave comment,Rhamnus cathartica,,,,false,false
+"1531",,,"4,4",7,Leave comment,Rhamnus cathartica,,,,false,false
+"1532",,,"11",8,Ulmus americana,,,,,false,false
+"1533",,,"2,3",5,Leave comment,Rhamnus cathartica,,,,false,false
+"1534",,,"1",2.5,Leave comment,Rhamnus cathartica,,,,false,false
+"1535",,,"2.5",4,Leave comment,Rhamnus cathartica,,,,false,false
+"1536",,,"2",4.5,Leave comment,Rhamnus cathartica,,,,false,false
+"1537",,,"2",5,Leave comment,Rhamnus cathartica,,,,false,false
+"1538",,,"2",5,Leave comment,Rhamnus cathartica,,,,false,false
+"1539",,,"2",4,Leave comment,Rhamnus cathartica,,,,false,false
+"1540",,,"2",4,Leave comment,Rhamnus cathartica,,,,false,false
+"1541",,,"4",4.5,Leave comment,Rhamnus cathartica,,,,false,false
+"1542",,,"2,3",3,Leave comment,,,,,false,false
+"1543",,,"3,2",4,Leave comment,Rhamnus cathartica,,,,false,false
+"1544",,,"3.5",4.5,Leave comment,Rhamnus cathartica,,,,false,false
+"1545",,,"3,2",4,Leave comment,,,,,false,false
+"1546",,,"2",3,Leave comment,Rhamnus cathartica,,,,false,false
+"1547",,,"3,3",5,Leave comment,Rhamnus cathartica,,,,false,false
+"1548",,,"2",2.5,Leave comment,Rhamnus cathartica,,,,false,false
+"1549",,,"5",6,Leave comment,Rhamnus cathartica,,,,false,false
+"1550",,,"5",6,Leave comment,Rhamnus cathartica,,,,false,false
+"1551",,,"5",6,Leave comment,Rhamnus cathartica,,,,false,false
+"1552",,,"5",6,Leave comment,Rhamnus cathartica,,,,false,false
+"1553",,,"5",6,Leave comment,Rhamnus cathartica,,,,false,false
+"1554",,,"5",6,Leave comment,Rhamnus cathartica,,,,false,false
+"1555",,,"5",6,Leave comment,Rhamnus cathartica,,,,false,false
+"1556",,,"2",4.5,Leave comment,Rhamnus cathartica,,,,false,false
+"1557",,,"2",4.5,Leave comment,Rhamnus cathartica,,,,false,false
+"1558",,,"2",4.5,Leave comment,Rhamnus cathartica,,,,false,false
+"1559",,,"2",4.5,Leave comment,Rhamnus cathartica,,,,false,false
+"1560",,,"2",4.5,Leave comment,Rhamnus cathartica,,,,false,false
+"1561",,,"2",4.5,Leave comment,Rhamnus cathartica,,,,false,false
+"1562",,,"2",4.5,Leave comment,Rhamnus cathartica,,,,false,false
+"1563",,,"2",4.5,Leave comment,Rhamnus cathartica,,,,false,false
+"1564",,,"2",4.5,Leave comment,Rhamnus cathartica,,,,false,false
+"1565",,,"2",4.5,Leave comment,Rhamnus cathartica,,,,false,false
+"1566",,,"2",4.5,Leave comment,Rhamnus cathartica,,,,false,false
+"1567",,,"2",4.5,Leave comment,Rhamnus cathartica,,,,false,false
+"1568",,,"2",4.5,Leave comment,Rhamnus cathartica,,,,false,false
+"1569",,,"2",4.5,Leave comment,Rhamnus cathartica,,,,false,false
+"1570",,,"2",4.5,Leave comment,Rhamnus cathartica,,,,false,false
+"1571",,,"2",4.5,Leave comment,Rhamnus cathartica,,,,false,false
+"1572",,,"2",4.5,Leave comment,Rhamnus cathartica,,,,false,false
+"1573",,,"2",4.5,Leave comment,Rhamnus cathartica,,,,false,false
+"1574",,,"2",4.5,Leave comment,Rhamnus cathartica,,,,false,false
+"1575",,,"2",4.5,Leave comment,Rhamnus cathartica,,,,false,false
+"1576",,,"12",7,Leave comment,Rhamnus cathartica,,,,false,false
+"1577",,,"40",15,Populus deltoides,,,,,false,false
+"1578",,,"30,20",15,Populus deltoides,,,,,false,false
+"1579",,,"15",12,Populus deltoides,,,,,false,false
+"1580",,,"25",15,Populus deltoides,,,,,false,false
+"1581",,,"12",9,Ulmus americana,,,,,false,false
+"1582",,,"30",12,Populus deltoides,,,,,false,false
+"1583",,,"7",10,Leave comment,Dead standing,,,,false,false
+"1584",,,"5",6,Leave comment,Rhamnus cathartica,,,,false,false
+"1585",,,"5",6,Ulmus americana,,,,,false,false
+"1586",,,"7",6,Leave comment,Rhamnus cathartica,,,,false,false
+"1587",,,"6,5",6,Leave comment,Rhamnus cathartica,,,,false,false
+"1588",,,"4",7,Fraxinus pennsylvanica,,,,,false,false
+"1589",,,"3",4,Ulmus americana,,,,,false,false
+"1590",,,"10",8,Ulmus americana,,,,,false,false
+"1591",,,"5,5,3",5,Leave comment,Rhamnus cathartica,,,,false,false
+"1592",,,"5",4,Leave comment,Rhamnus cathartica,,,,false,false
+"1593",,,"3",4,Leave comment,Rhamnus cathartica,,,,false,false
+"1594",,,"8,13",8,Ulmus americana,,,,,false,false
+"1595",,,"4",3,Juglans nigra,,,,,false,false
+"1596",,,"7",5,Acer rubrum,,,,,false,false
+"1597",,,"4",3,Celtis occidentalis,,,,,false,false
+"1598",,,"3",2,Malus baccata,,,,,false,false
+"1599",,,"3.5",4,Juglans nigra,,,,,false,false
+"1600",,,"6",5,Acer rubrum,,,,,false,false
+"1601",,,"4",4,Gymnocladus dioicus,,,,,false,false

@@ -1,0 +1,625 @@
+fid,genus,species,cultivar,dbh,street,park,id,fullname,Site_1,Present,dbh_2025,height2025,Measured,Comments,Measured_height,Measured_DBH
+"10120",Acer,saccharum,,40,,CENTRE CULTUREL ET COMMUNAUTAIRE CARTIERVILLE,"10531",Acer saccharum,SOEU-2,,,,,,,
+"10121",Acer,saccharum,,29,,CENTRE CULTUREL ET COMMUNAUTAIRE CARTIERVILLE,"10532",Acer saccharum,SOEU-2,,,,,,,
+"10122",Acer,saccharinum,,28,,CENTRE CULTUREL ET COMMUNAUTAIRE CARTIERVILLE,"10533",Acer saccharinum,SOEU-2,,,,,,,
+"10123",Acer,rubrum,,10,,CENTRE CULTUREL ET COMMUNAUTAIRE CARTIERVILLE,"10534",Acer rubrum,SOEU-2,,,,,,,
+"10124",Acer,nigrum,,62,,CENTRE CULTUREL ET COMMUNAUTAIRE CARTIERVILLE,"10535",Acer nigrum,SOEU-2,,,,,,,
+"10125",Tilia,cordata,,26,,CENTRE CULTUREL ET COMMUNAUTAIRE CARTIERVILLE,"10536",Tilia cordata,SOEU-2,,,,,,,
+"10126",Tilia,cordata,,36,,CENTRE CULTUREL ET COMMUNAUTAIRE CARTIERVILLE,"10537",Tilia cordata,SOEU-2,,,,,,,
+"10127",Tilia,cordata,,46,,CENTRE CULTUREL ET COMMUNAUTAIRE CARTIERVILLE,"10538",Tilia cordata,SOEU-2,,,,,,,
+"10128",Tilia,cordata,,34,,CENTRE CULTUREL ET COMMUNAUTAIRE CARTIERVILLE,"10539",Tilia cordata,SOEU-2,,,,,,,
+"10129",Tilia,cordata,,41,,CENTRE CULTUREL ET COMMUNAUTAIRE CARTIERVILLE,"10540",Tilia cordata,SOEU-2,,,,,,,
+"10130",Tilia,cordata,,28,,CENTRE CULTUREL ET COMMUNAUTAIRE CARTIERVILLE,"10541",Tilia cordata,SOEU-2,,,,,,,
+"10131",Tilia,cordata,,37,,CENTRE CULTUREL ET COMMUNAUTAIRE CARTIERVILLE,"10542",Tilia cordata,SOEU-2,,,,,,,
+"10545",Celtis,occidentalis,,14,,CENTRE CULTUREL ET COMMUNAUTAIRE CARTIERVILLE,"10986",Celtis occidentalis,SOEU-2,,,,,,,
+"10546",Picea,pungens,,40,,CENTRE CULTUREL ET COMMUNAUTAIRE CARTIERVILLE,"10987",Picea pungens,SOEU-2,,,,,,,
+"10547",Ulmus,pumila,,11,,CENTRE CULTUREL ET COMMUNAUTAIRE CARTIERVILLE,"10988",Ulmus pumila,SOEU-2,,,,,,,
+"10548",Acer,negundo,,8,,CENTRE CULTUREL ET COMMUNAUTAIRE CARTIERVILLE,"10989",Acer negundo,SOEU-2,,,,,,,
+"10549",Ulmus,pumila,,10,,CENTRE CULTUREL ET COMMUNAUTAIRE CARTIERVILLE,"10990",Ulmus pumila,SOEU-2,,,,,,,
+"10550",Picea,glauca,,32.5,,CENTRE CULTUREL ET COMMUNAUTAIRE CARTIERVILLE,"10991",Picea glauca,SOEU-2,,,,,,,
+"10551",Picea,glauca,,24,,CENTRE CULTUREL ET COMMUNAUTAIRE CARTIERVILLE,"10992",Picea glauca,SOEU-2,,,,,,,
+"10552",Tilia,cordata,,33.6,,CENTRE CULTUREL ET COMMUNAUTAIRE CARTIERVILLE,"10993",Tilia cordata,SOEU-2,,,,,,,
+"10553",Syringa,reticulata,,11,,CENTRE CULTUREL ET COMMUNAUTAIRE CARTIERVILLE,"10994",Syringa reticulata,SOEU-2,,,,,,,
+"10554",Betula,populifolia,,19.7,,CENTRE CULTUREL ET COMMUNAUTAIRE CARTIERVILLE,"10995",Betula populifolia,SOEU-2,,,,,,,
+"10555",Picea,pungens,,44,,CENTRE CULTUREL ET COMMUNAUTAIRE CARTIERVILLE,"10996",Picea pungens,SOEU-2,,,,,,,
+"10556",Picea,pungens,,26,,CENTRE CULTUREL ET COMMUNAUTAIRE CARTIERVILLE,"10997",Picea pungens,SOEU-2,,,,,,,
+"10557",Malus,sp.,,30,,CENTRE CULTUREL ET COMMUNAUTAIRE CARTIERVILLE,"10998",Malus sp,SOEU-2,,,,,,,
+"10558",Malus,sp.,,30,,CENTRE CULTUREL ET COMMUNAUTAIRE CARTIERVILLE,"10999",Malus sp,SOEU-2,,,,,,,
+"10559",Malus,sp.,,27,,CENTRE CULTUREL ET COMMUNAUTAIRE CARTIERVILLE,"11000",Malus sp,SOEU-2,,,,,,,
+"10560",Malus,sp.,,31,,CENTRE CULTUREL ET COMMUNAUTAIRE CARTIERVILLE,"11001",Malus sp,SOEU-2,,,,,,,
+"10561",Malus,sp.,,31,,CENTRE CULTUREL ET COMMUNAUTAIRE CARTIERVILLE,"11002",Malus sp,SOEU-2,,,,,,,
+"18115",Pinus,nigra,austriaca,5,,"PELICAN, LE","19043",Pinus nigra,PELI-1,,,,,,,
+"18116",Pinus,nigra,austriaca,5,,"PELICAN, LE","19044",Pinus nigra,PELI-1,,,,,,,
+"18117",Pinus,nigra,austriaca,5,,"PELICAN, LE","19045",Pinus nigra,PELI-2,,,,,,,
+"18118",Pinus,nigra,austriaca,5,,"PELICAN, LE","19046",Pinus nigra,PELI-2,,,,,,,
+"18119",Pinus,nigra,austriaca,5,,"PELICAN, LE","19047",Pinus nigra,PELI-2,,,,,,,
+"18120",Carya,cordiformis,,5,,"PELICAN, LE","19048",Carya cordiformis,PELI-1,,,,,,,
+"18121",Alnus,glutinosa,,6,,"PELICAN, LE","19049",Alnus glutinosa,PELI-1,,,,,,,
+"18122",Alnus,glutinosa,,10,,"PELICAN, LE","19050",Alnus glutinosa,PELI-1,,,,,,,
+"18123",Phellodendron,amurensis,,5,,"PELICAN, LE","19051",Phellodendron amurense,PELI-2,,,,,,,
+"18237",Alnus,glutinosa,,11,,"PELICAN, LE","19166",Alnus glutinosa,PELI-1,,,,,,,
+"18249",Acer,saccharinum,pyramidalis,5,,"PELICAN, LE","19178",Acer saccharinum,PELI-2,,,,,,,
+"18250",Acer,saccharum,,5,,PÈRE MARQUETTE,"19179",Acer saccharum,MARQ-1,Present,"9.8",5.8,,,"1","1"
+"18251",Larix,decidua,,5,,PÈRE MARQUETTE,"19180",Larix decidua,MARQ-1,Present,"7",4.5,,,"1","0"
+"18252",Tilia,cordata,sheridan,5,,PÈRE MARQUETTE,"19181",Tilia cordata,MARQ-1,Present,"16.6",6.3,,,"1","1"
+"18253",Alnus,glutinosa,,8,,PÈRE MARQUETTE,"19182",Alnus glutinosa,MARQ-1,Present,"16.1",6.9,,,"1","1"
+"18254",Alnus,glutinosa,,13,,PÈRE MARQUETTE,"19183",Alnus glutinosa,MARQ-1,Present,"15.8",7,,,"1","1"
+"18255",Syringa,reticulata,,4,,PÈRE MARQUETTE,"19184",Syringa reticulata,MARQ-1,Present,"9",3.7,,,"1","1"
+"18256",Amelanchier,canadensis,,5,,PÈRE MARQUETTE,"19185",Amelanchier canadensis,MARQ-1,Present,"4.5",3.3,,,"1","1"
+"24268",Ulmus,americana,brandon,5,,"PELICAN, LE","25230",Ulmus americana,PELI-2,,,,,,,
+"24316",Tilia,cordata,,53,,PÈRE MARQUETTE,"25278",Tilia cordata,MARQ-2,Present,"53.6",10.1,,,"1","1"
+"24317",Tilia,cordata,,79,,PÈRE MARQUETTE,"25279",Tilia cordata,MARQ-2,Present,"84.15",16.7,,,"1","1"
+"24318",Tilia,cordata,sheridan,24,,PÈRE MARQUETTE,"25280",Tilia cordata,MARQ-2,Present,"31.3",12.9,,,"1","1"
+"24319",Tilia,cordata,sheridan,29,,PÈRE MARQUETTE,"25281",Tilia cordata,MARQ-2,Present,"41.5",15.1,,,"1",
+"24320",Picea,pungens,glauca,33,,PÈRE MARQUETTE,"25282",Picea pungens,MARQ-2,Present,"39.2",11,,,"1","1"
+"24321",Pinus,nigra,austriaca,33.2,,PÈRE MARQUETTE,"25283",Pinus nigra,MARQ-2,Present,"26.7,31.2",7.2,,,"1","1"
+"24322",Tilia,cordata,sheridan,28,,PÈRE MARQUETTE,"25284",Tilia cordata,MARQ-2,Present,"41.1",16.2,,,"1","1"
+"24323",Tilia,cordata,sheridan,30,,PÈRE MARQUETTE,"25285",Tilia cordata,MARQ-2,Present,"44.1",17.2,,,"1","1"
+"24324",Tilia,cordata,sheridan,24,,PÈRE MARQUETTE,"25286",Tilia cordata,MARQ-2,Present,"35.6",13.7,,,"1","1"
+"24325",Tilia,cordata,sheridan,31,,PÈRE MARQUETTE,"25287",Tilia cordata,MARQ-2,Present,"39.4",13.2,,,"1","1"
+"24326",Picea,pungens,glauca,31,,PÈRE MARQUETTE,"25288",Picea pungens,MARQ-2,Present,"37.25",10.7,,,"1","1"
+"24327",Pinus,nigra,austriaca,38.8,,PÈRE MARQUETTE,"25289",Pinus nigra,MARQ-2,Present,"29.4,24.9,22.2,20.4",5.4,,,"1","1"
+"24328",Fraxinus,pennsylvanica,,51,,PÈRE MARQUETTE,"25290",Fraxinus pennsylvanica,MARQ-2,Present,"57.9",21.4,,,"1","1"
+"24329",Tilia,cordata,sheridan,30,,PÈRE MARQUETTE,"25291",Tilia cordata,MARQ-2,Present,"41.8",17.2,,,"1","1"
+"24330",Acer,saccharinum,,49,,PÈRE MARQUETTE,"25292",Acer saccharinum,MARQ-2,Present,"52.7",16.2,,,"1","1"
+"24333",Acer,platanoides,summershade,22,,PÈRE MARQUETTE,"25295",Acer platanoides,MARQ-2,Present,"31.2",13.4,,,"1","1"
+"24334",Acer,platanoides,summershade,26,,PÈRE MARQUETTE,"25296",Acer platanoides,MARQ-2,Present,"34.7",13.9,,,"1","1"
+"24335",Acer,platanoides,,24,,PÈRE MARQUETTE,"25297",Acer platanoides,MARQ-2,Present,"33",14.5,,,"1","1"
+"24336",Acer,saccharinum,,50,,PÈRE MARQUETTE,"25298",Acer saccharinum,MARQ-2,Present,"54.9",14.4,,,"1","1"
+"24337",Tilia,cordata,,56,,PÈRE MARQUETTE,"25299",Tilia cordata,MARQ-2,Present,"62.5",19.6,,,"1","1"
+"24338",Acer,saccharinum,,63,,PÈRE MARQUETTE,"25300",Acer saccharinum,MARQ-2,Present,"66.7",17.1,,,"1","1"
+"24339",Malus,sp.,x royalty,16,,PÈRE MARQUETTE,"25301",Malus sp,MARQ-2,Present,"18.4",6.7,,,"1","1"
+"24340",Picea,pungens,glauca,23,,PÈRE MARQUETTE,"25302",Picea pungens,MARQ-2,Present,"29.7",20,,,"0","1"
+"24341",Picea,pungens,glauca,26,,PÈRE MARQUETTE,"25303",Picea pungens,MARQ-2,Present,"34.5",20,,,"0","1"
+"24342",Acer,platanoides,summershade,30,,PÈRE MARQUETTE,"25304",Acer platanoides,MARQ-2,Present,"39.7",14.9,,,"1","1"
+"24343",Acer,platanoides,summershade,29,,PÈRE MARQUETTE,"25305",Acer platanoides,MARQ-2,Present,"36.1",14.9,,,"1","1"
+"24344",Acer,saccharum,,24,,PÈRE MARQUETTE,"25306",Acer saccharum,MARQ-2,Present,"30.9",17,,,"1","1"
+"24345",Acer,saccharum,,25,,PÈRE MARQUETTE,"25307",Acer saccharum,MARQ-2,Present,"33.7",13.1,,,"1","1"
+"24346",Acer,saccharum,,24,,PÈRE MARQUETTE,"25308",Acer saccharum,MARQ-2,Present,"32.05",13.1,,,"1","1"
+"24347",Acer,saccharum,,22,,PÈRE MARQUETTE,"25309",Acer saccharum,MARQ-2,Present,"30",12.8,,,"1","1"
+"24348",Acer,platanoides,,21,,PÈRE MARQUETTE,"25310",Acer platanoides,MARQ-2,Present,"28.85",9.7,,,"1","1"
+"24349",Acer,saccharum,,23,,PÈRE MARQUETTE,"25311",Acer saccharum,MARQ-2,Present,"30.95",13.3,,,"1","1"
+"24350",Acer,platanoides,,17,,PÈRE MARQUETTE,"25312",Acer platanoides,MARQ-2,Present,"27.5",11.1,,,"1","1"
+"24351",Acer,platanoides,,17,,PÈRE MARQUETTE,"25313",Acer platanoides,MARQ-2,Present,"24.7",9.3,,,"1","1"
+"24352",Acer,platanoides,,22,,PÈRE MARQUETTE,"25314",Acer platanoides,MARQ-2,Present,"30.8",12.1,,,"1","1"
+"24354",Acer,saccharinum,,62,,PÈRE MARQUETTE,"25316",Acer saccharinum,MARQ-2,Present,"65.7",21.8,,,"1","1"
+"24405",Celtis,occidentalis,,24,,PÈRE MARQUETTE,"25367",Celtis occidentalis,MARQ-1,Present,"36.05",16.1,,,"1","1"
+"24406",Celtis,occidentalis,,19,,PÈRE MARQUETTE,"25368",Celtis occidentalis,MARQ-1,Present,"31.2",11.4,,,"1","1"
+"24407",Celtis,occidentalis,,26,,PÈRE MARQUETTE,"25369",Celtis occidentalis,MARQ-1,Present,"36.2",14.2,,,"1","1"
+"24408",Ostrya,virginiana,,5,,PÈRE MARQUETTE,"25370",Ostrya virginiana,MARQ-1,Present,"5",3.8,,,"1","1"
+"24409",Tilia,cordata,sheridan,28,,PÈRE MARQUETTE,"25371",Tilia cordata,MARQ-1,Present,"38.3",11.6,,,"1","1"
+"24410",Thuja,occidentalis,,5,,PÈRE MARQUETTE,"25372",Thuja occidentalis,MARQ-1,Present,"4.5,3.5,1.5",2.8,,,,"1"
+"24411",Quercus,macrocarpa,,6,,PÈRE MARQUETTE,"25373",Quercus macrocarpa,MARQ-1,Present,"14.4",7.2,,,"1","1"
+"24412",Pinus,nigra,austriaca,28,,PÈRE MARQUETTE,"25374",Pinus nigra,MARQ-1,Present,"36.2",10.1,,,"1","1"
+"24413",Picea,pungens,glauca,18,,PÈRE MARQUETTE,"25375",Picea pungens,MARQ-1,Present,"28.7",10,,,"1","1"
+"24414",Picea,pungens,glauca,22,,PÈRE MARQUETTE,"25376",Picea pungens,MARQ-1,Present,"33.9",13.3,,,"1","1"
+"24415",Picea,pungens,glauca,17,,PÈRE MARQUETTE,"25377",Picea pungens,MARQ-1,Present,"27.3",10.3,,,"1","1"
+"24416",Acer,saccharum,,5,,PÈRE MARQUETTE,"25378",Acer saccharum,MARQ-1,Present,"8.2",5.9,,,"1","1"
+"24417",Pinus,nigra,austriaca,33,,PÈRE MARQUETTE,"25379",Pinus nigra,MARQ-1,Present,"40",9,,,"0","0"
+"24418",Picea,pungens,glauca,31,,PÈRE MARQUETTE,"25380",Picea pungens,MARQ-1,Present,"45",13.6,,,"1","0"
+"24419",Celtis,occidentalis,,14,,PÈRE MARQUETTE,"25381",Celtis occidentalis,MARQ-1,Present,"20.1",9.5,,,"1","1"
+"24425",Celtis,occidentalis,,24,,PÈRE MARQUETTE,"25387",Celtis occidentalis,MARQ-1,Present,"25.7",8.6,,,"1","1"
+"24432",Acer,saccharum,,29,,PÈRE MARQUETTE,"25394",Acer saccharum,MARQ-2,Present,"37.2",14.3,,,"1","1"
+"24433",Acer,saccharum,,29,,PÈRE MARQUETTE,"25395",Acer saccharum,MARQ-2,Present,"33.7",13.9,,,"1","1"
+"24434",Acer,saccharinum,,35,,PÈRE MARQUETTE,"25396",Acer saccharinum,MARQ-2,Present,"41.8",19.5,,,"1","1"
+"24435",Acer,saccharinum,,36,,PÈRE MARQUETTE,"25397",Acer saccharinum,MARQ-2,Present,"41.9",19.5,,,"0","1"
+"24436",Acer,saccharinum,,42,,PÈRE MARQUETTE,"25398",Acer saccharinum,MARQ-2,Present,"48.8",19.5,,,"0","1"
+"24894",Tilia,americana,,38,,ROSEMONT/GARNIER,"25880",Tilia americana,MARQ-1,Present,"45.4",12.1,,,"1","1"
+"24895",Malus,sp.,,13,,ROSEMONT/GARNIER,"25881",Malus sp,MARQ-1,Present,"2.5,2.5,2.5,2",3.5,,,"0","0"
+"24896",Aesculus,flava,yellow buckeye,5,,ROSEMONT/GARNIER,"25882",Aesculus flava,MARQ-1,Present,"6.3",3.7,,,"1","1"
+"24897",Aesculus,hippocastanum,,23,,ROSEMONT/GARNIER,"25883",Aesculus hippocastanum,MARQ-1,Present,"31.2",8.7,,,"1","1"
+"25040",Ulmus,americana,brandon,5,,"PELICAN, LE","26028",Ulmus americana,PELI-2,,,,,,,
+"25041",Ulmus,americana,brandon,5,,"PELICAN, LE","26029",Ulmus americana,PELI-2,,,,,,,
+"25924",Juglans,cinerea,,5,,"PELICAN, LE","27053",Juglans cinerea,PELI-2,,,,,,,
+"25925",Juglans,cinerea,,5,,"PELICAN, LE","27054",Juglans cinerea,PELI-2,,,,,,,
+"25926",Gymnocladus,dioicus,,5,,"PELICAN, LE","27055",Gymnocladus dioicus,PELI-2,,,,,,,
+"25927",Gymnocladus,dioicus,,5,,"PELICAN, LE","27056",Gymnocladus dioicus,PELI-2,,,,,,,
+"25928",Gymnocladus,dioicus,,5,,"PELICAN, LE","27057",Gymnocladus dioicus,PELI-2,,,,,,,
+"25929",Gymnocladus,dioicus,,5,,"PELICAN, LE","27058",Gymnocladus dioicus,PELI-2,,,,,,,
+"25930",Larix,decidua,,5,,"PELICAN, LE","27059",Larix decidua,PELI-2,,,,,,,
+"25931",Larix,decidua,,5,,"PELICAN, LE","27060",Larix decidua,PELI-2,,,,,,,
+"25932",Acer,saccharum,,5,,"PELICAN, LE","27061",Acer saccharum,PELI-2,,,,,,,
+"26871",Tilia,cordata,,52,,"PELICAN, LE","28009",Tilia cordata,PELI-1,,,,,,,
+"26872",Acer,saccharinum,,72,,"PELICAN, LE","28010",Acer saccharinum,PELI-1,,,,,,,
+"26873",Acer,platanoides,,53,,"PELICAN, LE","28011",Acer platanoides,PELI-1,,,,,,,
+"26874",Acer,platanoides,,47,,"PELICAN, LE","28012",Acer platanoides,PELI-1,,,,,,,
+"26875",Acer,platanoides,,29,,"PELICAN, LE","28013",Acer platanoides,PELI-1,,,,,,,
+"26876",Tilia,cordata,,70,,"PELICAN, LE","28014",Tilia cordata,PELI-1,,,,,,,
+"26893",Gleditsia,triacanthos,,13,,"PELICAN, LE","28031",Gleditsia triacanthos,PELI-2,,,,,,,
+"26895",Quercus,macrocarpa,,45,,"PELICAN, LE","28033",Quercus macrocarpa,PELI-2,,,,,,,
+"26896",Acer,saccharinum,,69,,"PELICAN, LE","28034",Acer saccharinum,PELI-2,,,,,,,
+"26897",Acer,platanoides,,57,,"PELICAN, LE","28035",Acer platanoides,PELI-2,,,,,,,
+"26898",Gleditsia,triacanthos,,49,,"PELICAN, LE","28036",Gleditsia triacanthos,PELI-2,,,,,,,
+"26899",Gleditsia,triacanthos,,53,,"PELICAN, LE","28037",Gleditsia triacanthos,PELI-2,,,,,,,
+"26900",Gleditsia,triacanthos,,49,,"PELICAN, LE","28038",Gleditsia triacanthos,PELI-2,,,,,,,
+"26901",Gleditsia,triacanthos,,24,,"PELICAN, LE","28039",Gleditsia triacanthos,PELI-2,,,,,,,
+"26902",Fraxinus,pennsylvanica,,19,,"PELICAN, LE","28040",Fraxinus pennsylvanica,PELI-2,,,,,,,
+"26903",Fraxinus,pennsylvanica,,22,,"PELICAN, LE","28041",Fraxinus pennsylvanica,PELI-2,,,,,,,
+"26904",Acer,saccharinum,,6,,"PELICAN, LE","28042",Acer saccharinum,PELI-2,,,,,,,
+"26905",Ulmus,americana,brandon,6,,"PELICAN, LE","28043",Ulmus americana,PELI-2,,,,,,,
+"26906",Acer,saccharinum,,44,,"PELICAN, LE","28044",Acer saccharinum,PELI-2,,,,,,,
+"26907",Acer,saccharinum,,41,,"PELICAN, LE","28045",Acer saccharinum,PELI-2,,,,,,,
+"26908",Acer,saccharinum,,43,,"PELICAN, LE","28046",Acer saccharinum,PELI-2,,,,,,,
+"26909",Magnolia,sp.,,5,,"PELICAN, LE","28047",Magnolia sp,PELI-2,,,,,,,
+"26910",Gymnocladus,dioicus,,8,,"PELICAN, LE","28048",Gymnocladus dioicus,PELI-2,,,,,,,
+"26911",Gleditsia,triacanthos,,15,,"PELICAN, LE","28049",Gleditsia triacanthos,PELI-2,,,,,,,
+"26912",Acer,saccharinum,,31,,"PELICAN, LE","28050",Acer saccharinum,PELI-2,,,,,,,
+"26913",Gleditsia,triacanthos,,22,,"PELICAN, LE","28051",Gleditsia triacanthos,PELI-2,,,,,,,
+"26914",Gymnocladus,dioicus,,9,,"PELICAN, LE","28052",Gymnocladus dioicus,PELI-1,,,,,,,
+"26915",Gymnocladus,dioicus,,11,,"PELICAN, LE","28053",Gymnocladus dioicus,PELI-1,,,,,,,
+"26916",Fraxinus,pennsylvanica,patmore,53,,"PELICAN, LE","28055",Fraxinus pennsylvanica,PELI-1,,,,,,,
+"26917",Fraxinus,pennsylvanica,,30,,"PELICAN, LE","28056",Fraxinus pennsylvanica,PELI-1,,,,,,,
+"26918",Acer,saccharinum,,56,,"PELICAN, LE","28057",Acer saccharinum,PELI-1,,,,,,,
+"26919",Acer,saccharum,,46,,"PELICAN, LE","28058",Acer saccharum,PELI-1,,,,,,,
+"26920",Quercus,robur,,39,,"PELICAN, LE","28059",Quercus robur,PELI-1,,,,,,,
+"26921",Acer,platanoides,,46,,"PELICAN, LE","28060",Acer platanoides,PELI-1,,,,,,,
+"26922",Acer,platanoides,,30,,"PELICAN, LE","28061",Acer platanoides,PELI-1,,,,,,,
+"26923",Acer,saccharinum,,66,,"PELICAN, LE","28062",Acer saccharinum,PELI-1,,,,,,,
+"26924",Fraxinus,pennsylvanica,,17,,"PELICAN, LE","28063",Fraxinus pennsylvanica,PELI-1,,,,,,,
+"26925",Juglans,cinerea,,7,,"PELICAN, LE","28064",Juglans cinerea,PELI-2,,,,,,,
+"26926",Gymnocladus,dioicus,,5,,"PELICAN, LE","28065",Gymnocladus dioicus,PELI-2,,,,,,,
+"26927",Gleditsia,triacanthos,,17,,"PELICAN, LE","28066",Gleditsia triacanthos,PELI-2,,,,,,,
+"26942",Gymnocladus,dioicus,,23,,"PELICAN, LE","28081",Gymnocladus dioicus,PELI-1,,,,,,,
+"26943",Gymnocladus,dioicus,,19,,"PELICAN, LE","28082",Gymnocladus dioicus,PELI-1,,,,,,,
+"26944",Gymnocladus,dioicus,,22,,"PELICAN, LE","28083",Gymnocladus dioicus,PELI-1,,,,,,,
+"26945",Gymnocladus,dioicus,,18,,"PELICAN, LE","28084",Gymnocladus dioicus,PELI-1,,,,,,,
+"26946",Acer,saccharinum,,45,,"PELICAN, LE","28085",Acer saccharinum,PELI-2,,,,,,,
+"26947",Acer,saccharinum,,42,,"PELICAN, LE","28086",Acer saccharinum,PELI-2,,,,,,,
+"27167",Prunus,domestica,mont-royal,5,,"PELICAN, LE","28306",Prunus domestica,PELI-1,,,,,,,
+"27170",Prunus,multifruits,3 dans,5,,"PELICAN, LE","28309",Prunus multifruits,PELI-1,,,,,,,
+"27978",Pinus,nigra,austriaca,5,,"PELICAN, LE","29153",Pinus nigra,PELI-2,,,,,,,
+"27979",Salix,alba,tristis,5,,"PELICAN, LE","29154",Salix alba,PELI-2,,,,,,,
+"27980",Thuja,occidentalis,nigra,5,,"PELICAN, LE","29155",Thuja occidentalis,PELI-2,,,,,,,
+"27981",Thuja,occidentalis,nigra,5,,"PELICAN, LE","29156",Thuja occidentalis,PELI-2,,,,,,,
+"27982",Thuja,occidentalis,nigra,5,,"PELICAN, LE","29157",Thuja occidentalis,PELI-2,,,,,,,
+"27983",Quercus,rubra,,5,,"PELICAN, LE","29158",Quercus rubra,PELI-2,,,,,,,
+"27984",Tsuga,canadensis,,5,,"PELICAN, LE","29159",Tsuga canadensis,PELI-1,,,,,,,
+"27985",Tsuga,canadensis,,5,,"PELICAN, LE","29160",Tsuga canadensis,PELI-1,,,,,,,
+"27986",Quercus,rubra,,5,,"PELICAN, LE","29161",Quercus rubra,PELI-2,,,,,,,
+"27987",Celtis,occidentalis,,5,,"PELICAN, LE","29162",Celtis occidentalis,PELI-2,,,,,,,
+"27988",Celtis,occidentalis,,5,,"PELICAN, LE","29163",Celtis occidentalis,PELI-2,,,,,,,
+"27989",Celtis,occidentalis,,5,,"PELICAN, LE","29164",Celtis occidentalis,PELI-2,,,,,,,
+"27990",Salix,pentendra,prairie reflexion,5,,"PELICAN, LE","29165",Salix pentandra,PELI-2,,,,,,,
+"27991",Salix,pentendra,prairie reflexion,5,,"PELICAN, LE","29166",Salix pentandra,PELI-2,,,,,,,
+"27992",Tsuga,canadensis,,5,,"PELICAN, LE","29167",Tsuga canadensis,PELI-1,,,,,,,
+"27993",Corylus,colurna,,5,,"PELICAN, LE","29168",Corylus colurna,PELI-1,,,,,,,
+"27994",Corylus,colurna,,5,,"PELICAN, LE","29169",Corylus colurna,PELI-2,,,,,,,
+"27995",Corylus,colurna,,5,,"PELICAN, LE","29170",Corylus colurna,PELI-2,,,,,,,
+"27996",Quercus,muehlenbergii,,5,,"PELICAN, LE","29171",Quercus muehlenbergii,PELI-2,,,,,,,
+"27997",Celtis,occidentalis,,5,,"PELICAN, LE","29172",Celtis occidentalis,PELI-2,,,,,,,
+"27998",Betula,alleghaniensis,tiges multiples,5,,"PELICAN, LE","29173",Betula alleghaniensis,PELI-2,,,,,,,
+"27999",Salix,pentendra,prairie reflexion,5,,"PELICAN, LE","29174",Salix pentandra,PELI-2,,,,,,,
+"28000",Corylus,colurna,,5,,"PELICAN, LE","29175",Corylus colurna,PELI-1,,,,,,,
+"28001",Betula,nigra,,5,,"PELICAN, LE","29176",Betula nigra,PELI-2,,,,,,,
+"28002",Betula,nigra,,5,,"PELICAN, LE","29177",Betula nigra,PELI-2,,,,,,,
+"28003",Betula,alleghaniensis,,5,,"PELICAN, LE","29178",Betula alleghaniensis,PELI-2,,,,,,,
+"28004",Betula,alleghaniensis,tiges multiples,5,,"PELICAN, LE","29179",Betula alleghaniensis,PELI-2,,,,,,,
+"28005",Salix,nigra,,5,,"PELICAN, LE","29180",Salix nigra,PELI-2,,,,,,,
+"28006",Betula,nigra,heritage,5,,"PELICAN, LE","29181",Betula nigra,PELI-2,,,,,,,
+"28007",Aesculus,flava,yellow buckeye,5,,"PELICAN, LE","29182",Aesculus flava,PELI-2,,,,,,,
+"28008",Aesculus,flava,yellow buckeye,5,,"PELICAN, LE","29183",Aesculus flava,PELI-2,,,,,,,
+"28009",Aesculus,flava,yellow buckeye,5,,"PELICAN, LE","29184",Aesculus flava,PELI-2,,,,,,,
+"28010",Aesculus,glabra,,5,,"PELICAN, LE","29185",Aesculus glabra,PELI-2,,,,,,,
+"28011",Aesculus,flava,yellow buckeye,5,,"PELICAN, LE","29186",Aesculus flava,PELI-2,,,,,,,
+"28012",Populus,deltoides,siouxland,5,,"PELICAN, LE","29187",Populus deltoides,PELI-2,,,,,,,
+"28013",Juglans,cinerea,,5,,"PELICAN, LE","29188",Juglans cinerea,PELI-2,,,,,,,
+"28014",Corylus,colurna,,5,,"PELICAN, LE","29189",Corylus colurna,PELI-2,,,,,,,
+"28556",Cercis,canadensis,tiges multiples,5,,ROSEMONT/GARNIER,"29755",Cercis canadensis,MARQ-1,,,,,,,
+"28788",Pinus,nigra,austriaca,5,,PÈRE MARQUETTE,"29989",Pinus nigra,MARQ-2,,,,,,,
+"28791",Picea,pungens,glauca,5,,PÈRE MARQUETTE,"29993",Picea pungens,MARQ-2,,,,,,,
+"28792",Liriodendron,tulipifera,,5,,PÈRE MARQUETTE,"29994",Liriodendron tulipifera,MARQ-2,,,,,,,
+"28793",Catalpa,speciosa,,5,,PÈRE MARQUETTE,"29995",Catalpa speciosa,MARQ-2,,,,,,,
+"28794",Fagus,sylvatica,,5,,PÈRE MARQUETTE,"29996",Fagus sylvatica,MARQ-2,,,,,,,
+"28795",Celtis,occidentalis,,5,,PÈRE MARQUETTE,"29997",Celtis occidentalis,MARQ-2,,,,,,,
+"28810",Celtis,occidentalis,,5,,PÈRE MARQUETTE,"30012",Celtis occidentalis,MARQ-1,,,,,,,
+"28811",Picea,abies,,5,,PÈRE MARQUETTE,"30013",Picea abies,MARQ-1,,,,,,,
+"28812",Picea,abies,,5,,PÈRE MARQUETTE,"30014",Picea abies,MARQ-1,,,,,,,
+"28813",Picea,abies,,5,,PÈRE MARQUETTE,"30015",Picea abies,MARQ-1,,,,,,,
+"28814",Cercidiphyllum,japonicum,,5,,PÈRE MARQUETTE,"30016",Cercidiphyllum japonicum,MARQ-1,,,,,,,
+"28815",Quercus,x,atwood (jordan,5,,PÈRE MARQUETTE,"30017",Quercus sp,MARQ-1,,,,,,,
+"28816",Elaeagnus,angustifolia,,5,,PÈRE MARQUETTE,"30018",Elaeagnus angustifolia,MARQ-1,,,,,,,
+"28817",Picea,abies,,5,,PÈRE MARQUETTE,"30019",Picea abies,MARQ-1,,,,,,,
+"28818",Elaeagnus,angustifolia,,5,,PÈRE MARQUETTE,"30020",Elaeagnus angustifolia,MARQ-1,,,,,,,
+"28819",Cercis,canadensis,tiges multiples,5,,PÈRE MARQUETTE,"30021",Cercis canadensis,MARQ-1,,,,,,,
+"28820",Cercidiphyllum,japonicum,,5,,PÈRE MARQUETTE,"30023",Cercidiphyllum japonicum,MARQ-1,,,,,,,
+"28824",Aesculus,hippocastanum,baumanii,5,,PÈRE MARQUETTE,"30027",Aesculus hippocastanum,MARQ-1,,,,,,,
+"28825",Amelanchier,canadensis,,5,,PÈRE MARQUETTE,"30028",Amelanchier canadensis,MARQ-1,,,,,,,
+"28826",Quercus,macrocarpa,,5,,PÈRE MARQUETTE,"30029",Quercus macrocarpa,MARQ-1,,,,,,,
+"28852",Gymnocladus,dioicus,,5,,PÈRE MARQUETTE,"30059",Gymnocladus dioicus,MARQ-2,,,,,,,
+"28853",Celtis,occidentalis,,5,,PÈRE MARQUETTE,"30060",Celtis occidentalis,MARQ-2,,,,,,,
+"28854",Picea,abies,,5,,PÈRE MARQUETTE,"30061",Picea abies,MARQ-2,,,,,,,
+"28855",Thuja,occidentalis,nigra,5,,PÈRE MARQUETTE,"30062",Thuja occidentalis,MARQ-2,,,,,,,
+"28856",Thuja,occidentalis,nigra,5,,PÈRE MARQUETTE,"30063",Thuja occidentalis,MARQ-2,,,,,,,
+"28857",Catalpa,speciosa,,5,,PÈRE MARQUETTE,"30064",Catalpa speciosa,MARQ-2,,,,,,,
+"28858",Aesculus,glabra,,5,,PÈRE MARQUETTE,"30065",Aesculus glabra,MARQ-2,,,,,,,
+"28859",Aesculus,glabra,,5,,PÈRE MARQUETTE,"30066",Aesculus glabra,MARQ-2,,,,,,,
+"28862",Juglans,nigra,,5,,PÈRE MARQUETTE,"30069",Juglans nigra,MARQ-2,,,,,,,
+"28863",Cercis,canadensis,tiges multiples,5,,PÈRE MARQUETTE,"30070",Cercis canadensis,MARQ-2,,,,,,,
+"28881",Cercis,canadensis,,5,,PÈRE MARQUETTE,"30088",Cercis canadensis,MARQ-2,,,,,,,
+"28884",Tilia,americana,,5,,PÈRE MARQUETTE,"30091",Tilia americana,MARQ-1,,,,,,,
+"30002",Quercus,macrocarpa,,5,,"PELICAN, LE","31279",Quercus macrocarpa,PELI-2,,,,,,,
+"30003",Carpinus,caroliniana,,5,,"PELICAN, LE","31280",Carpinus caroliniana,PELI-2,,,,,,,
+"30006",Cercis,canadensis,,5,,"PELICAN, LE","31283",Cercis canadensis,PELI-2,,,,,,,
+"30007",Prunus,serotina,,5,,"PELICAN, LE","31284",Prunus serotina,PELI-2,,,,,,,
+"30044",Betula,alleghaniensis,,5,,PÈRE MARQUETTE,"31322",Betula alleghaniensis,MARQ-1,,,,,,,
+"30070",Carpinus,caroliniana,,5,,PÈRE MARQUETTE,"31356",Carpinus caroliniana,MARQ-1,,,,,,,
+"30071",Tsuga,canadensis,,5,,PÈRE MARQUETTE,"31357",Tsuga canadensis,MARQ-1,,,,,,,
+"30249",Carya,cordiformis,,5,,PÈRE MARQUETTE,"31542",Carya cordiformis,MARQ-2,,,,,,,
+"30252",Malus,sp.,x adstringens,5,,PÈRE MARQUETTE,"31545",Malus sp,MARQ-1,,,,,,,
+"30253",Amelanchier,canadensis,,5,,PÈRE MARQUETTE,"31546",Amelanchier canadensis,MARQ-1,,,,,,,
+"30254",Celtis,occidentalis,,5,,"PELICAN, LE","31547",Celtis occidentalis,PELI-1,,,,,,,
+"30255",Acer,saccharinum,lutescens,6,,"PELICAN, LE","31548",Acer saccharinum,PELI-1,,,,,,,
+"41055",Acer,platanoides,columnare,27,,SIR-WILFRID-LAURIER,"42730",Acer platanoides,WILF-1,Present,"34.6,17.6",12.5,,,"1","1"
+"41056",Acer,platanoides,columnare,25,,SIR-WILFRID-LAURIER,"42731",Acer platanoides,WILF-1,,"32.8,6.7,7.7",11,,,"1","1"
+"41057",Acer,platanoides,columnare,27,,SIR-WILFRID-LAURIER,"42732",Acer platanoides,WILF-1,Present,"21.8,5.6,12.5,11.4",10.3,,,"1","1"
+"41058",Acer,platanoides,columnare,20,,SIR-WILFRID-LAURIER,"42733",Acer platanoides,WILF-1,Present,"23.7,8.3,6.9,3.3",11.6,,,"1","1"
+"41059",Acer,platanoides,columnare,28,,SIR-WILFRID-LAURIER,"42734",Acer platanoides,WILF-1,Present,"25,17.9,10.5",10.8,,,"1","1"
+"41060",Acer,platanoides,columnare,21,,SIR-WILFRID-LAURIER,"42735",Acer platanoides,WILF-1,Present,"22.5,7.5",10.6,,,"1","1"
+"41061",Acer,platanoides,columnare,28,,SIR-WILFRID-LAURIER,"42736",Acer platanoides,WILF-1,,"34.5,13.2,17.5",10.8,,,"1","1"
+"41062",Acer,platanoides,columnare,23,,SIR-WILFRID-LAURIER,"42737",Acer platanoides,WILF-1,Present,"25.1,4.5,9.1",11.3,,,"1","1"
+"41063",Acer,platanoides,columnare,21,,SIR-WILFRID-LAURIER,"42738",Acer platanoides,WILF-1,Present,"34.9",11,,,"1","1"
+"41161",Fraxinus,pennsylvanica,patmore,24,,SIR-WILFRID-LAURIER,"42841",Fraxinus pennsylvanica,WILF-1,,,,,,,
+"41162",Fraxinus,pennsylvanica,patmore,30,,SIR-WILFRID-LAURIER,"42842",Fraxinus pennsylvanica,WILF-1,,,,,,,
+"41163",Fraxinus,pennsylvanica,patmore,25,,SIR-WILFRID-LAURIER,"42843",Fraxinus pennsylvanica,WILF-1,,,,,,,
+"41164",Fraxinus,pennsylvanica,patmore,30,,SIR-WILFRID-LAURIER,"42844",Fraxinus pennsylvanica,WILF-1,,,,,,,
+"41165",Fraxinus,pennsylvanica,patmore,30,,SIR-WILFRID-LAURIER,"42845",Fraxinus pennsylvanica,WILF-1,Present,"35",19.3,,,"1","1"
+"41166",Fraxinus,pennsylvanica,patmore,25,,SIR-WILFRID-LAURIER,"42846",Fraxinus pennsylvanica,WILF-1,Present,"28.6",19.3,,,"0","1"
+"41416",Tilia,cordata,,63,,SIR-WILFRID-LAURIER,"43096",Tilia cordata,WILF-2,Present,"64.9",22,,,"1","1"
+"41448",Acer,saccharinum,,49,,SIR-WILFRID-LAURIER,"43129",Acer saccharinum,WILF-2,Present,"50.7",19.3,,,"1","1"
+"41449",Acer,saccharinum,,51,,SIR-WILFRID-LAURIER,"43130",Acer saccharinum,WILF-2,Present,"53.2",15.1,,,"1","1"
+"41450",Acer,saccharinum,,72,,SIR-WILFRID-LAURIER,"43131",Acer saccharinum,WILF-2,Present,"74.2",12.2,,,"1","1"
+"41451",Acer,saccharinum,,99,,SIR-WILFRID-LAURIER,"43132",Acer saccharinum,WILF-2,Present,"103.5",18.1,,,"1","1"
+"41452",Acer,saccharinum,,61,,SIR-WILFRID-LAURIER,"43133",Acer saccharinum,WILF-2,Present,"64.6",30.4,,,"1","1"
+"41456",Acer,saccharinum,,111,,SIR-WILFRID-LAURIER,"43137",Acer saccharinum,WILF-2,Present,"115.3",21.2,,,"1","1"
+"41457",Acer,saccharinum,,80,,SIR-WILFRID-LAURIER,"43138",Acer saccharinum,WILF-2,,,,,,,
+"41458",Acer,saccharinum,,6,,SIR-WILFRID-LAURIER,"43139",Acer saccharinum,WILF-2,,"15.9",9.4,,,"1","1"
+"41459",Acer,saccharinum,,48,,SIR-WILFRID-LAURIER,"43140",Acer saccharinum,WILF-2,,"54.1",16.7,,,"1","1"
+"41460",Acer,saccharinum,,102,,SIR-WILFRID-LAURIER,"43141",Acer saccharinum,WILF-2,,"103.5",15.9,,,"1","1"
+"41466",Acer,saccharinum,,73,,SIR-WILFRID-LAURIER,"43147",Acer saccharinum,WILF-2,Present,"72.8",16,,,"1","1"
+"41467",Acer,saccharinum,,61,,SIR-WILFRID-LAURIER,"43148",Acer saccharinum,WILF-2,Present,"63.9",33.9,,,"1","1"
+"41468",Acer,saccharinum,,51,,SIR-WILFRID-LAURIER,"43149",Acer saccharinum,WILF-2,Present,"53.2",29,,,"1","1"
+"41469",Acer,saccharinum,,63,,SIR-WILFRID-LAURIER,"43150",Acer saccharinum,WILF-2,Present,"65.1",34.8,,,"1","1"
+"41470",Acer,saccharinum,,33,,SIR-WILFRID-LAURIER,"43151",Acer saccharinum,WILF-2,Present,"36.4",37.9,,,"1","1"
+"41471",Acer,saccharinum,,42,,SIR-WILFRID-LAURIER,"43152",Acer saccharinum,WILF-2,Present,"41.7",28.8,,,"1","1"
+"41472",Acer,saccharinum,,83,,SIR-WILFRID-LAURIER,"43153",Acer saccharinum,WILF-2,Absent,,,,,,
+"41473",Acer,saccharinum,,22,,SIR-WILFRID-LAURIER,"43154",Acer saccharinum,WILF-2,Present,"84.9",33.5,,,"1","1"
+"41480",Betula,alleghaniensis,,5,,SIR-WILFRID-LAURIER,"43161",Betula alleghaniensis,WILF-2,Present,"8.4",5.2,,,"1","1"
+"41481",Acer,saccharinum,,63,,SIR-WILFRID-LAURIER,"43162",Acer saccharinum,WILF-2,Present,"68.8",24.7,,,"1","1"
+"41482",Acer,saccharinum,,54,,SIR-WILFRID-LAURIER,"43163",Acer saccharinum,WILF-2,Present,"58.5",31.6,,,"1","1"
+"41483",Acer,saccharinum,,116,,SIR-WILFRID-LAURIER,"43164",Acer saccharinum,WILF-2,Present,"123",29.7,,,"1","1"
+"41484",Acer,saccharinum,,53,,SIR-WILFRID-LAURIER,"43165",Acer saccharinum,WILF-2,Present,"56",32.9,,,"1","1"
+"41485",Acer,saccharinum,,44,,SIR-WILFRID-LAURIER,"43166",Acer saccharinum,WILF-2,Present,"65.4",18.2,,,"1","1"
+"41486",Acer,saccharinum,,63,,SIR-WILFRID-LAURIER,"43167",Acer saccharinum,WILF-2,Present,"53.6",35.9,,,"1","1"
+"41487",Acer,saccharinum,,53,,SIR-WILFRID-LAURIER,"43168",Acer saccharinum,WILF-2,,,,,,,
+"41488",Acer,saccharinum,,64,,SIR-WILFRID-LAURIER,"43169",Acer saccharinum,WILF-2,Present,"65.35",32.5,,,"1","1"
+"41489",Acer,saccharinum,,62,,SIR-WILFRID-LAURIER,"43170",Acer saccharinum,WILF-2,Present,"65.1",38.8,,,"1","1"
+"41490",Acer,saccharinum,,71,,SIR-WILFRID-LAURIER,"43171",Acer saccharinum,WILF-2,Present,"70.7",25.7,,,"1","1"
+"41492",Acer,saccharinum,,52,,SIR-WILFRID-LAURIER,"43173",Acer saccharinum,WILF-2,Present,"52.7",17.3,,,"1","1"
+"41493",Acer,saccharinum,,62,,SIR-WILFRID-LAURIER,"43174",Acer saccharinum,WILF-2,Present,"64.5",27,,,"1","1"
+"41494",Acer,saccharinum,,43,,SIR-WILFRID-LAURIER,"43175",Acer saccharinum,WILF-2,Present,"44.7",20.4,,,"1","1"
+"41495",Acer,saccharinum,,54,,SIR-WILFRID-LAURIER,"43176",Acer saccharinum,WILF-2,Present,"55.6",24.8,,,"1","1"
+"41521",Acer,saccharinum,,48,,SIR-WILFRID-LAURIER,"43202",Acer saccharinum,WILF-2,Present,"48.9",18,,,"1","1"
+"41522",Acer,saccharinum,,61,,SIR-WILFRID-LAURIER,"43203",Acer saccharinum,WILF-2,Present,"66.2",21.6,,,"1","1"
+"41523",Acer,saccharinum,,77,,SIR-WILFRID-LAURIER,"43204",Acer saccharinum,WILF-2,Present,"80",21.5,,,"1","1"
+"41531",Acer,saccharinum,,67,,SIR-WILFRID-LAURIER,"43212",Acer saccharinum,WILF-2,Present,"68.7",21.4,,,"1","1"
+"41575",Acer,saccharinum,,60,,SIR-WILFRID-LAURIER,"43256",Acer saccharinum,WILF-1,Present,"62.5",23.6,,,"1","1"
+"41576",Acer,saccharinum,,78,,SIR-WILFRID-LAURIER,"43257",Acer saccharinum,WILF-1,Present,"78.7",19.3,,,"1","1"
+"41577",Acer,platanoides,,41,,SIR-WILFRID-LAURIER,"43258",Acer platanoides,WILF-1,Present,"42.3",18.4,,,"1","1"
+"41578",Acer,saccharinum,,49,,SIR-WILFRID-LAURIER,"43259",Acer saccharinum,WILF-1,,,,,,,
+"41579",Acer,saccharinum,,77,,SIR-WILFRID-LAURIER,"43260",Acer saccharinum,WILF-1,,,,,,,
+"41580",Acer,saccharinum,,48,,SIR-WILFRID-LAURIER,"43261",Acer saccharinum,WILF-1,,,,,,,
+"41581",Acer,saccharinum,,82,,SIR-WILFRID-LAURIER,"43262",Acer saccharinum,WILF-1,,,,,,,
+"41582",Acer,saccharinum,,44,,SIR-WILFRID-LAURIER,"43263",Acer saccharinum,WILF-1,,,,,,,
+"41583",Acer,saccharinum,,61,,SIR-WILFRID-LAURIER,"43264",Acer saccharinum,WILF-1,,,,,,,
+"41585",Acer,platanoides,,30,,SIR-WILFRID-LAURIER,"43266",Acer platanoides,WILF-1,Present,"37.7",16.6,,,"1","1"
+"41586",Acer,saccharinum,,33,,SIR-WILFRID-LAURIER,"43267",Acer saccharinum,WILF-1,Present,"35",16.1,,"Bark looks like silver maple but leaves have special colouring, pale with dark around veins","1","1"
+"41587",Acer,platanoides,,25,,SIR-WILFRID-LAURIER,"43268",Acer platanoides,WILF-1,Present,"29.9",12.4,,,"1","1"
+"41588",Acer,platanoides,,48,,SIR-WILFRID-LAURIER,"43269",Acer platanoides,WILF-1,Present,"49.6",16.6,,,"1","1"
+"41611",Ginkgo,biloba,,5,,SIR-WILFRID-LAURIER,"43292",Ginkgo biloba,WILF-1,Present,"5",4.9,,,"1","1"
+"41613",Fraxinus,americana,,28,,SIR-WILFRID-LAURIER,"43294",Fraxinus americana,WILF-1,Present,"31",16.5,,,"1","1"
+"41614",Fraxinus,americana,,28,,SIR-WILFRID-LAURIER,"43295",Fraxinus americana,WILF-1,Present,"30.1",15.9,,,"1","1"
+"41615",Fraxinus,americana,,33,,SIR-WILFRID-LAURIER,"43296",Fraxinus americana,WILF-1,Present,"38.1",17.2,,,"1","1"
+"41617",Gymnocladus,dioicus,,25,,SIR-WILFRID-LAURIER,"43298",Gymnocladus dioicus,WILF-1,Present,"29.3",16.5,,,"1","1"
+"41622",Acer,platanoides,,54,,SIR-WILFRID-LAURIER,"43303",Acer platanoides,WILF-1,Present,"56.3",18.1,,,"1","1"
+"41623",Acer,platanoides,,59,,SIR-WILFRID-LAURIER,"43304",Acer platanoides,WILF-1,Present,"63.8",19,,,"1","1"
+"41624",Acer,saccharum,,5,,SIR-WILFRID-LAURIER,"43305",Acer saccharum,WILF-1,Present,"7.3",6.1,,,"1","1"
+"41625",Acer,platanoides,,31,,SIR-WILFRID-LAURIER,"43306",Acer platanoides,WILF-1,Present,"37",17.9,,,"1","1"
+"41626",Acer,ginnala,,17,,SIR-WILFRID-LAURIER,"43307",Acer tataricum,WILF-1,Present,"16.3,10.4",7.2,,,"1","1"
+"41627",Acer,saccharinum,,40,,SIR-WILFRID-LAURIER,"43308",Acer saccharinum,WILF-1,Present,"50.7",15.8,,,"1","1"
+"41628",Acer,saccharinum,,40,,SIR-WILFRID-LAURIER,"43309",Acer saccharinum,WILF-1,Present,"49.2",18.3,,,"1","1"
+"41651",Acer,platanoides,columnare,21,,SIR-WILFRID-LAURIER,"43334",Acer platanoides,WILF-1,Present,"25.9,8.5,5.5,5.2",9.6,,,"1","1"
+"41652",Acer,platanoides,columnare,19,,SIR-WILFRID-LAURIER,"43335",Acer platanoides,WILF-1,Present,"22.4",10.1,,,"1","1"
+"41653",Acer,platanoides,columnare,24,,SIR-WILFRID-LAURIER,"43336",Acer platanoides,WILF-1,Present,"32.2",9.4,,,"1","1"
+"42955",Acer,saccharinum,pyramidalis,12,,SIR-WILFRID-LAURIER,"44664",Acer saccharinum,WILF-2,Present,"13.2",11.3,,,"1","1"
+"42960",Acer,saccharum,,18,,SIR-WILFRID-LAURIER,"44669",Acer saccharum,WILF-1,Present,"24.2",13.2,,,"1","1"
+"42961",Acer,saccharum,,16,,SIR-WILFRID-LAURIER,"44670",Acer saccharum,WILF-1,Present,"20.9",9.8,,,"1","1"
+"42968",Juglans,cinerea,,26,,SIR-WILFRID-LAURIER,"44677",Juglans cinerea,WILF-1,Present,"26.6",11,,,"1","1"
+"43004",Quercus,robur,fastigiata,27,,SIR-WILFRID-LAURIER,"44713",Quercus robur,WILF-1,Present,"24.1,2,3,2,2,1,2,1,1,2,2",9.6,,,"0","0"
+"43005",Quercus,robur,fastigiata,19,,SIR-WILFRID-LAURIER,"44714",Quercus robur,WILF-1,,"31.2,2,2,3,1,1.5,2,3,2,2,2,1,1,1,1,2,1,1,1,1,1,1",9.6,,,"0","0"
+"43006",Quercus,robur,fastigiata,21,,SIR-WILFRID-LAURIER,"44715",Quercus robur,WILF-1,Present,"21,3,2,4,4,2,4,2,3",10,,,"0","0"
+"43007",Quercus,robur,fastigiata,25,,SIR-WILFRID-LAURIER,"44716",Quercus robur,WILF-1,Present,"30,2,4,2,2,6,4,3",10,,,"0","0"
+"45095",Ulmus,americana,brandon,25,,SIR-WILFRID-LAURIER,"46845",Ulmus americana,WILF-1,Present,"31.9",13.6,,,"1","1"
+"45096",Ulmus,americana,brandon,22,,SIR-WILFRID-LAURIER,"46846",Ulmus americana,WILF-1,Present,"30.3",12,,,"1","1"
+"45097",Ulmus,americana,brandon,19,,SIR-WILFRID-LAURIER,"46847",Ulmus americana,WILF-1,Present,"26",13.5,,,"1","1"
+"45098",Phellodendron,amurensis,,8,,SIR-WILFRID-LAURIER,"46848",Phellodendron amurense,WILF-1,Present,"8.6",5.3,,,"1","1"
+"45391",Gleditsia,triacanthos,skyline,16,,SIR-WILFRID-LAURIER,"47155",Gleditsia triacanthos,WILF-2,Present,"29",9.1,,,"1","1"
+"45392",Acer,saccharinum,,11,,SIR-WILFRID-LAURIER,"47156",Acer saccharinum,WILF-2,Present,"19.9",10.6,,,"1","1"
+"45406",Gleditsia,triacanthos,skyline,15,,SIR-WILFRID-LAURIER,"47177",Gleditsia triacanthos,WILF-1,Present,"24.3",11.3,,,"0","1"
+"45815",Tilia,cordata,greenspire,14,,SIR-WILFRID-LAURIER,"47586",Tilia cordata,WILF-1,Present,"22.8",9.6,,,"1","1"
+"45833",Aesculus,hippocastanum,,5,,SIR-WILFRID-LAURIER,"47604",Aesculus hippocastanum,WILF-2,,"21.3",5.9,,,"1","1"
+"45834",Acer,saccharinum,,13,,SIR-WILFRID-LAURIER,"47605",Acer saccharinum,WILF-2,Present,"18.8",11.8,,,"1","1"
+"45835",Acer,saccharinum,,11,,SIR-WILFRID-LAURIER,"47606",Acer saccharinum,WILF-2,,"20",14.4,,,"1","1"
+"45836",Acer,saccharinum,,19,,SIR-WILFRID-LAURIER,"47607",Acer saccharinum,WILF-2,,"27.8",15.6,,,"1","1"
+"45837",Acer,saccharinum,,18,,SIR-WILFRID-LAURIER,"47608",Acer saccharinum,WILF-2,,"29.8",17.6,,,"1","1"
+"45838",Acer,saccharinum,,19,,SIR-WILFRID-LAURIER,"47609",Acer saccharinum,WILF-2,,"31.7",19.2,,,"1","1"
+"45841",Acer,saccharinum,,12,,SIR-WILFRID-LAURIER,"47612",Acer saccharinum,WILF-2,Present,"19.2",12.4,,,"1","1"
+"45866",Gymnocladus,dioicus,,11,,SIR-WILFRID-LAURIER,"47638",Gymnocladus dioicus,WILF-1,Present,"18.5",6.8,,,"1","1"
+"45867",Gymnocladus,dioicus,,14,,SIR-WILFRID-LAURIER,"47639",Gymnocladus dioicus,WILF-1,Present,"22.7",10,,,"1","1"
+"45868",Gymnocladus,dioicus,,13,,SIR-WILFRID-LAURIER,"47640",Gymnocladus dioicus,WILF-1,Present,"23.1",10.8,,,"1","1"
+"46247",Carpinus,caroliniana,,5,,SIR-WILFRID-LAURIER,"48069",Carpinus caroliniana,WILF-1,Present,"5",4.6,,,"1","1"
+"46248",Picea,pungens,bakeri,5,,SIR-WILFRID-LAURIER,"48070",Picea pungens,WILF-1,Present,"7",2.9,,,"1","1"
+"46249",Catalpa,speciosa,,5,,SIR-WILFRID-LAURIER,"48071",Catalpa speciosa,WILF-1,Present,"14.5",6.6,,,"1","1"
+"46250",Catalpa,speciosa,,5,,SIR-WILFRID-LAURIER,"48072",Catalpa speciosa,WILF-1,Present,"13",7,,,"1","1"
+"46251",Ostrya,virginiana,,5,,SIR-WILFRID-LAURIER,"48073",Ostrya virginiana,WILF-1,Present,"6.8",6.2,,,"1","1"
+"46252",Ostrya,virginiana,,5,,SIR-WILFRID-LAURIER,"48074",Ostrya virginiana,WILF-1,Present,"6.6",6.7,,,"1","1"
+"46253",Quercus,bicolor,,5,,SIR-WILFRID-LAURIER,"48075",Quercus bicolor,WILF-1,Present,"12.3",6.2,,,"1","1"
+"46254",Catalpa,speciosa,,5,,SIR-WILFRID-LAURIER,"48076",Catalpa speciosa,WILF-1,Present,"16.3",7.9,,,"1","1"
+"46255",Catalpa,speciosa,,5,,SIR-WILFRID-LAURIER,"48077",Catalpa speciosa,WILF-1,Present,"14.7",6.4,,,"1","1"
+"46256",Picea,pungens,colsons select,5,,SIR-WILFRID-LAURIER,"48078",Picea pungens,WILF-1,Present,"7",3,,,"1","0"
+"53264",Acer,saccharinum,,60,,TRENHOLME,"55449",Acer saccharinum,LOYO-2,Present,"67.3",35,Measured,,"1","1"
+"53265",Acer,saccharinum,,63,,TRENHOLME,"55450",Acer saccharinum,LOYO-2,,,,,,,
+"53266",Acer,saccharinum,,52,,TRENHOLME,"55451",Acer saccharinum,LOYO-2,Present,"63.9",27.2,Measured,Misid acer x freemanii,"1","1"
+"53267",Acer,rubrum,,29,,TRENHOLME,"55452",Acer rubrum,LOYO-2,Present,"24.3",11.9,Measured,,"1","1"
+"53268",Acer,saccharinum,,73,,TRENHOLME,"55453",Acer saccharinum,LOYO-2,Present,"74.6",25.6,Measured,,"1","1"
+"53269",Acer,saccharinum,,66,,TRENHOLME,"55454",Acer saccharinum,LOYO-2,Present,"76.5",33.1,Measured,,"1","1"
+"53270",Acer,saccharinum,,86,,TRENHOLME,"55455",Acer saccharinum,LOYO-2,Present,"89.2",27.3,Measured,,"1","1"
+"53271",Acer,saccharinum,,69,,TRENHOLME,"55456",Acer saccharinum,LOYO-2,Present,"67.2",20.2,Measured,,"1","1"
+"53272",Acer,saccharinum,,45,,TRENHOLME,"55457",Acer saccharinum,LOYO-2,Present,"52.1",22.7,Measured,,"1","1"
+"53273",Acer,rubrum,,18,,TRENHOLME,"55458",Acer rubrum,LOYO-2,Present,"19.4",8.3,Measured,,"1","1"
+"53274",Acer,saccharinum,,75,,TRENHOLME,"55459",Acer saccharinum,LOYO-2,Present,"94.4",26.5,Measured,,"1","1"
+"53275",Acer,rubrum,,28,,TRENHOLME,"55460",Acer rubrum,LOYO-2,Present,"32",11.6,Measured,,"1","1"
+"53276",Acer,rubrum,,29,,TRENHOLME,"55461",Acer rubrum,LOYO-2,Present,"31.35",7.1,Measured,,"1","1"
+"53277",Acer,saccharinum,,64,,TRENHOLME,"55462",Acer saccharinum,LOYO-2,Present,"66",20,Measured,,"1","1"
+"53278",Acer,saccharinum,,76,,TRENHOLME,"55463",Acer saccharinum,LOYO-2,,,,,,,
+"53279",Acer,saccharinum,,74,,TRENHOLME,"55464",Acer saccharinum,LOYO-2,Present,"94.8",34.2,Measured,,"1","1"
+"53280",Acer,saccharinum,,64,,TRENHOLME,"55465",Acer saccharinum,LOYO-2,Present,"65",22,Estimated,Only dBh estimated ,"1","0"
+"56848",Acer,saccharinum,pyramidalis,8,,TRENHOLME,"59144",Acer saccharinum,LOYO-2,Present,"9.2",6.7,Measured,,"1","1"
+"56855",Quercus,macrocarpa,,5,,TRENHOLME,"59151",Quercus macrocarpa,LOYO-2,Present,"12.8",5.8,Measured,,"1","1"
+"56856",Tilia,americana,redmond,13,,TRENHOLME,"59152",Tilia americana,LOYO-2,Present,"19.9",6.2,Measured,,"1","1"
+"56858",Juglans,nigra,,5,,TRENHOLME,"59154",Juglans nigra,LOYO-2,Absent,,,,,,
+"56859",Pinus,resinosa,,5,,TRENHOLME,"59155",Pinus resinosa,LOYO-2,Present,"10.6",4,Measured,,"1","1"
+"56860",Betula,alleghaniensis,,8,,TRENHOLME,"59156",Betula alleghaniensis,LOYO-2,Present,"10.9",5.9,Measured,,"1","1"
+"56861",Pinus,resinosa,,5,,TRENHOLME,"59157",Pinus resinosa,LOYO-2,Present,"19.15",5.47,Measured,,"1","1"
+"57048",Acer,saccharinum,pyramidalis,5,,TRENHOLME,"59372",Acer saccharinum,LOYO-2,Present,"25.2",14.9,Measured,,"1","1"
+"57595",Gymnocladus,dioicus,,9,,TRENHOLME,"59954",Gymnocladus dioicus,LOYO-2,,"14.2",6.4,Measured,Juglans nigra,"1","1"
+"67608",Quercus,rubra,,15,,ZOTIQUE-ST-JEAN,"70891",Quercus rubra,ZOTI-1,Present,"15",7,,,"0","0"
+"67609",Quercus,rubra,,16,,ZOTIQUE-ST-JEAN,"70892",Quercus rubra,ZOTI-1,,,,,,,
+"70566",Acer,saccharinum,,9,,MOULIN-DU-RAPIDE,"74005",Acer saccharinum,ZOTI-2,Present,"11.2",6.1,,,"1","1"
+"70567",Acer,saccharum,,8,,MOULIN-DU-RAPIDE,"74006",Acer saccharum,ZOTI-2,Present,"11.6",6.9,,,"1","1"
+"70568",Acer,saccharum,,8,,MOULIN-DU-RAPIDE,"74007",Acer saccharum,ZOTI-2,Present,"11.6",7,,,"1","1"
+"70569",Acer,saccharinum,,11,,MOULIN-DU-RAPIDE,"74008",Acer saccharinum,ZOTI-2,Present,"17.2",10.7,,,"1","1"
+"70570",Acer,saccharinum,,11,,MOULIN-DU-RAPIDE,"74009",Acer saccharinum,ZOTI-2,Present,"14",10.8,,,"1","1"
+"70571",Acer,saccharinum,,9,,MOULIN-DU-RAPIDE,"74010",Acer saccharinum,ZOTI-2,Present,"90.0",27.2,,,"1","1"
+"70572",Salix,nigra,,13,,MOULIN-DU-RAPIDE,"74011",Salix nigra,ZOTI-2,Present,"20.9",9.9,,,"1","1"
+"70573",Salix,nigra,,15,,MOULIN-DU-RAPIDE,"74012",Salix nigra,ZOTI-2,Present,"20.4",9.9,,,"1","1"
+"70574",Salix,nigra,,9,,MOULIN-DU-RAPIDE,"74013",Salix nigra,ZOTI-2,Present,"18",8.6,,,"1","1"
+"70575",Salix,nigra,,9,,MOULIN-DU-RAPIDE,"74014",Salix nigra,ZOTI-2,Present,"18.9",7.8,,,"1","1"
+"70576",Salix,nigra,,12,,MOULIN-DU-RAPIDE,"74015",Salix nigra,ZOTI-2,Present,"23.5",8.5,,,"1","1"
+"72184",Quercus,alba,,6,,MOULIN-DU-RAPIDE,"75675",Quercus alba,ZOTI-2,Present,"6.7",5,,,"1","1"
+"72185",Juglans,nigra,,6,,MOULIN-DU-RAPIDE,"75676",Juglans nigra,ZOTI-2,Present,"5.6",4.1,,,"1","1"
+"72186",Picea,rubens,,5,,MOULIN-DU-RAPIDE,"75677",Picea rubens,ZOTI-2,Present,"4",2.5,,,"0","0"
+"72187",Picea,rubens,,5,,MOULIN-DU-RAPIDE,"75678",Picea rubens,ZOTI-2,Present,"4",2.6,,,"0","0"
+"72188",Quercus,macrocarpa,,6,,MOULIN-DU-RAPIDE,"75679",Quercus macrocarpa,ZOTI-2,Present,"7.1",4.6,,,"1","1"
+"72189",Quercus,macrocarpa,,6,,MOULIN-DU-RAPIDE,"75680",Quercus macrocarpa,ZOTI-2,Present,"4.9",4.4,,,"1","1"
+"72190",Populus,deltoides,,7,,MOULIN-DU-RAPIDE,"75681",Populus deltoides,ZOTI-2,Present,"12.3",9.4,,Miss ID populus species,"1","1"
+"72191",Populus,deltoides,,6,,MOULIN-DU-RAPIDE,"75682",Populus deltoides,ZOTI-2,Present,"11.7",14.8,,,"1","1"
+"72912",Fraxinus,pennsylvanica,,34,,MOULIN-DU-RAPIDE,"76420",Fraxinus pennsylvanica,ZOTI-2,Absent,,,,,,
+"72913",Fraxinus,pennsylvanica,,21,,MOULIN-DU-RAPIDE,"76421",Fraxinus pennsylvanica,ZOTI-2,Absent,,,,,,
+"75285",Divers,sp.,,20,,ZOTIQUE-ST-JEAN,"78812",Unknown sp,ZOTI-1,,,,,,,
+"75287",Divers,sp.,,20,,ZOTIQUE-ST-JEAN,"78814",Unknown sp,ZOTI-1,,,,,,,
+"75288",Populus,deltoides,,50,,ZOTIQUE-ST-JEAN,"78815",Populus deltoides,ZOTI-1,,,,,,,
+"75289",Ulmus,americana,,45,,ZOTIQUE-ST-JEAN,"78816",Ulmus americana,ZOTI-1,,,,,,,
+"75290",Salix,sp.,,78.6,,ZOTIQUE-ST-JEAN,"78817",Salix sp,ZOTI-1,,,,,,,
+"75291",Acer,negundo,,45,,ZOTIQUE-ST-JEAN,"78818",Acer negundo,ZOTI-1,,,,,,,
+"75292",Divers,sp.,,25,,ZOTIQUE-ST-JEAN,"78819",Unknown sp,ZOTI-1,,,,,,,
+"75293",Populus,deltoides,,35,,ZOTIQUE-ST-JEAN,"78820",Populus deltoides,ZOTI-1,,,,,,,
+"75294",Populus,deltoides,,43,,ZOTIQUE-ST-JEAN,"78821",Populus deltoides,ZOTI-1,,,,,,,
+"75295",Populus,deltoides,,37,,ZOTIQUE-ST-JEAN,"78822",Populus deltoides,ZOTI-1,,,,,,,
+"75304",Ulmus,americana,,15,,ZOTIQUE-ST-JEAN,"78831",Ulmus americana,ZOTI-1,,,,,,,
+"75471",Acer,saccharinum,,16,,ZOTIQUE-ST-JEAN,"78998",Acer saccharinum,ZOTI-1,,,,,,,
+"75472",Acer,saccharinum,,41.2,,ZOTIQUE-ST-JEAN,"78999",Acer saccharinum,ZOTI-1,,,,,,,
+"75496",Populus,deltoides,,30,,ZOTIQUE-ST-JEAN,"79023",Populus deltoides,ZOTI-1,,,,,,,
+"75497",Populus,deltoides,,35,,ZOTIQUE-ST-JEAN,"79024",Populus deltoides,ZOTI-1,,,,,,,
+"75498",Populus,deltoides,,70,,ZOTIQUE-ST-JEAN,"79025",Populus deltoides,ZOTI-1,,,,,,,
+"75499",Divers,sp.,,30.8,,ZOTIQUE-ST-JEAN,"79026",Unknown sp,ZOTI-1,,,,,,,
+"75500",Populus,deltoides,,25,,ZOTIQUE-ST-JEAN,"79027",Populus deltoides,ZOTI-1,,,,,,,
+"75501",Populus,deltoides,,20,,ZOTIQUE-ST-JEAN,"79028",Populus deltoides,ZOTI-1,,,,,,,
+"75502",Populus,deltoides,,42.4,,ZOTIQUE-ST-JEAN,"79029",Populus deltoides,ZOTI-1,,,,,,,
+"75503",Populus,deltoides,,25,,ZOTIQUE-ST-JEAN,"79030",Populus deltoides,ZOTI-1,,,,,,,
+"75504",Acer,platanoides,,14,,ZOTIQUE-ST-JEAN,"79031",Acer platanoides,ZOTI-1,,,,,,,
+"75505",Acer,saccharinum,,33.5,,ZOTIQUE-ST-JEAN,"79032",Acer saccharinum,ZOTI-1,,,,,,,
+"75506",Populus,deltoides,,28,,ZOTIQUE-ST-JEAN,"79033",Populus deltoides,ZOTI-1,,,,,,,
+"75507",Salix,sp.,,50,,ZOTIQUE-ST-JEAN,"79034",Salix sp,ZOTI-1,,,,,,,
+"75559",Populus,deltoides,,65,,ZOTIQUE-ST-JEAN,"79086",Populus deltoides,ZOTI-1,,,,,,,
+"75560",Acer,negundo,,20.6,,ZOTIQUE-ST-JEAN,"79087",Acer negundo,ZOTI-1,,,,,,,
+"75561",Ulmus,americana,,16,,ZOTIQUE-ST-JEAN,"79088",Ulmus americana,ZOTI-1,,,,,,,
+"75562",Populus,deltoides,,35,,ZOTIQUE-ST-JEAN,"79089",Populus deltoides,ZOTI-1,,,,,,,
+"75563",Populus,deltoides,,33.9,,ZOTIQUE-ST-JEAN,"79090",Populus deltoides,ZOTI-1,,,,,,,
+"75564",Populus,deltoides,,42.4,,ZOTIQUE-ST-JEAN,"79091",Populus deltoides,ZOTI-1,,,,,,,
+"75565",Populus,deltoides,,41,,ZOTIQUE-ST-JEAN,"79092",Populus deltoides,ZOTI-1,,,,,,,
+"75566",Ulmus,americana,,15,,ZOTIQUE-ST-JEAN,"79093",Ulmus americana,ZOTI-1,,,,,,,
+"75567",Populus,deltoides,,29,,ZOTIQUE-ST-JEAN,"79094",Populus deltoides,ZOTI-1,,,,,,,
+"75568",Populus,deltoides,,43,,ZOTIQUE-ST-JEAN,"79095",Populus deltoides,ZOTI-1,,,,,,,
+"75569",Populus,deltoides,,27,,ZOTIQUE-ST-JEAN,"79096",Populus deltoides,ZOTI-1,,,,,,,
+"75570",Populus,deltoides,,25,,ZOTIQUE-ST-JEAN,"79097",Populus deltoides,ZOTI-1,,,,,,,
+"75571",Ulmus,americana,,18,,ZOTIQUE-ST-JEAN,"79098",Ulmus americana,ZOTI-1,,,,,,,
+"75572",Populus,deltoides,,16,,ZOTIQUE-ST-JEAN,"79099",Populus deltoides,ZOTI-1,,,,,,,
+"75573",Populus,deltoides,,37.5,,ZOTIQUE-ST-JEAN,"79100",Populus deltoides,ZOTI-1,,,,,,,
+"75574",Populus,deltoides,,30,,ZOTIQUE-ST-JEAN,"79101",Populus deltoides,ZOTI-1,,,,,,,
+"75575",Ulmus,americana,,10,,ZOTIQUE-ST-JEAN,"79102",Ulmus americana,ZOTI-1,,,,,,,
+"75576",Populus,deltoides,,35,,ZOTIQUE-ST-JEAN,"79103",Populus deltoides,ZOTI-1,,,,,,,
+"75577",Ulmus,americana,,31.4,,ZOTIQUE-ST-JEAN,"79104",Ulmus americana,ZOTI-1,,,,,,,
+"75578",Populus,deltoides,,25,,ZOTIQUE-ST-JEAN,"79105",Populus deltoides,ZOTI-1,,,,,,,
+"75579",Populus,deltoides,,37,,ZOTIQUE-ST-JEAN,"79106",Populus deltoides,ZOTI-1,,,,,,,
+"75580",Ulmus,americana,,25.5,,ZOTIQUE-ST-JEAN,"79107",Ulmus americana,ZOTI-1,,,,,,,
+"75581",Populus,deltoides,,20,,ZOTIQUE-ST-JEAN,"79108",Populus deltoides,ZOTI-1,,,,,,,
+"75582",Populus,deltoides,,25,,ZOTIQUE-ST-JEAN,"79109",Populus deltoides,ZOTI-1,,,,,,,
+"75583",Ulmus,americana,,10,,ZOTIQUE-ST-JEAN,"79110",Ulmus americana,ZOTI-1,,,,,,,
+"75584",Ulmus,americana,,20,,ZOTIQUE-ST-JEAN,"79111",Ulmus americana,ZOTI-1,,,,,,,
+"75585",Salix,sp.,,21.2,,ZOTIQUE-ST-JEAN,"79112",Salix sp,ZOTI-1,,,,,,,
+"75586",Ulmus,americana,,25,,ZOTIQUE-ST-JEAN,"79113",Ulmus americana,ZOTI-1,,,,,,,
+"75587",Fraxinus,sp.,,34.6,,ZOTIQUE-ST-JEAN,"79114",Fraxinus sp,ZOTI-1,,,,,,,
+"75588",Morus,alba,,10,,ZOTIQUE-ST-JEAN,"79115",Morus alba,ZOTI-1,,,,,,,
+"75589",Acer,negundo,,60.4,,ZOTIQUE-ST-JEAN,"79116",Acer negundo,ZOTI-1,,,,,,,
+"75590",Acer,negundo,,15,,ZOTIQUE-ST-JEAN,"79117",Acer negundo,ZOTI-1,,,,,,,
+"75591",Acer,negundo,,18,,ZOTIQUE-ST-JEAN,"79118",Acer negundo,ZOTI-1,,,,,,,
+"75592",Divers,sp.,,30,,ZOTIQUE-ST-JEAN,"79119",Unknown sp,ZOTI-1,,,,,,,
+"75593",Acer,negundo,,46.4,,ZOTIQUE-ST-JEAN,"79120",Acer negundo,ZOTI-1,,,,,,,
+"75594",Acer,negundo,,20,,ZOTIQUE-ST-JEAN,"79121",Acer negundo,ZOTI-1,Present,"6",4,,,"0","1"
+"75595",Ulmus,americana,,30,,ZOTIQUE-ST-JEAN,"79122",Ulmus americana,ZOTI-1,Present,"5.8",7,,,"0","1"
+"75596",Acer,negundo,,20,,ZOTIQUE-ST-JEAN,"79123",Acer negundo,ZOTI-1,,,,,,,
+"75597",Divers,sp.,,22,,ZOTIQUE-ST-JEAN,"79124",Unknown sp,ZOTI-1,Absent,,,,,,
+"75598",Acer,negundo,,18,,ZOTIQUE-ST-JEAN,"79125",Acer negundo,ZOTI-1,Present,"15.5",10,,,"0","1"
+"75599",Ulmus,americana,,12,,ZOTIQUE-ST-JEAN,"79126",Ulmus americana,ZOTI-1,Present,"18.3",12,,,"0","1"
+"75600",Acer,negundo,,22,,ZOTIQUE-ST-JEAN,"79127",Acer negundo,ZOTI-1,Present,"19.1",15,,,"0","1"
+"75601",Acer,negundo,,15,,ZOTIQUE-ST-JEAN,"79128",Acer negundo,ZOTI-1,Present,"20.7",10,,,"0","1"
+"75602",Acer,negundo,,24.5,,ZOTIQUE-ST-JEAN,"79129",Acer negundo,ZOTI-1,Present,"11.9",10,,,"0","1"
+"75603",Ulmus,americana,,24,,ZOTIQUE-ST-JEAN,"79130",Ulmus americana,ZOTI-1,Present,"6.6",6,,,"0","1"
+"75604",Ulmus,americana,,9,,ZOTIQUE-ST-JEAN,"79131",Ulmus americana,ZOTI-1,Present,"3",4,,,"0","1"
+"75605",Divers,sp.,,20,,ZOTIQUE-ST-JEAN,"79132",Unknown sp,ZOTI-1,Present,"32.4",10,,,"0","1"
+"75657",Acer,negundo,,36.1,,ZOTIQUE-ST-JEAN,"79184",Acer negundo,ZOTI-1,Present,"25",12.1,,,"1","0"
+"75658",Acer,negundo,,23.5,,ZOTIQUE-ST-JEAN,"79185",Acer negundo,ZOTI-1,Present,"17",12.1,,,"0","0"
+"75659",Acer,negundo,,39.1,,ZOTIQUE-ST-JEAN,"79186",Acer negundo,ZOTI-1,Present,"22.4",8,,,"0","1"
+"75660",Acer,negundo,,16,,ZOTIQUE-ST-JEAN,"79187",Acer negundo,ZOTI-1,Present,"9.5",10,,,"0","1"
+"75662",Acer,negundo,,38.4,,ZOTIQUE-ST-JEAN,"79189",Acer negundo,ZOTI-1,,,,,,,
+"75663",Acer,negundo,,30,,ZOTIQUE-ST-JEAN,"79190",Acer negundo,ZOTI-1,Present,"20.9",8,,,"0","1"
+"75664",Ulmus,americana,,17,,ZOTIQUE-ST-JEAN,"79191",Ulmus americana,ZOTI-1,Present,"7.7",8,,,"0","1"
+"75665",Divers,sp.,,45,,ZOTIQUE-ST-JEAN,"79192",Unknown sp,ZOTI-1,Absent,,,,,,
+"75725",Acer,negundo,,23,,ZOTIQUE-ST-JEAN,"79252",Acer negundo,ZOTI-1,Present,"16.6",13,,,"0","1"
+"75726",Acer,negundo,,15,,ZOTIQUE-ST-JEAN,"79253",Acer negundo,ZOTI-1,,,,,,,
+"75727",Acer,negundo,,38.1,,ZOTIQUE-ST-JEAN,"79254",Acer negundo,ZOTI-1,,,,,,,
+"75728",Acer,negundo,,23,,ZOTIQUE-ST-JEAN,"79255",Acer negundo,ZOTI-1,,,,,,,
+"75729",Ulmus,sp.,,17,,ZOTIQUE-ST-JEAN,"79256",Ulmus sp,ZOTI-1,,,,,,,
+"75730",Ulmus,sp.,,10,,ZOTIQUE-ST-JEAN,"79257",Ulmus sp,ZOTI-1,,,,,,,
+"75731",Acer,negundo,,25,,ZOTIQUE-ST-JEAN,"79258",Acer negundo,ZOTI-1,,,,,,,
+"75732",Ulmus,sp.,,16,,ZOTIQUE-ST-JEAN,"79259",Ulmus sp,ZOTI-1,,,,,,,
+"75733",Ulmus,sp.,,17,,ZOTIQUE-ST-JEAN,"79260",Ulmus sp,ZOTI-1,,,,,,,
+"75734",Acer,negundo,,27,,ZOTIQUE-ST-JEAN,"79261",Acer negundo,ZOTI-1,,,,,,,
+"75735",Ulmus,americana,,20,,ZOTIQUE-ST-JEAN,"79262",Ulmus americana,ZOTI-1,,,,,,,
+"75736",Ulmus,sp.,,12,,ZOTIQUE-ST-JEAN,"79263",Ulmus sp,ZOTI-1,,,,,,,
+"75758",Acer,negundo,,21,,ZOTIQUE-ST-JEAN,"79285",Acer negundo,ZOTI-1,,,,,,,
+"75759",Acer,negundo,,21.2,,ZOTIQUE-ST-JEAN,"79286",Acer negundo,ZOTI-1,,,,,,,
+"75926",Carya,ovata,,5,,ZOTIQUE-ST-JEAN,"79453",Carya ovata,ZOTI-1,,,,,,,
+"75927",Celtis,occidentalis,,5,,ZOTIQUE-ST-JEAN,"79454",Celtis occidentalis,ZOTI-1,Present,"4",3,,,"0","0"
+"75928",Gymnocladus,dioicus,espresso,5,,ZOTIQUE-ST-JEAN,"79455",Gymnocladus dioicus,ZOTI-1,Present,"4",3.5,,,"0","0"
+"75929",Ostrya,virginiana,,5,,ZOTIQUE-ST-JEAN,"79456",Ostrya virginiana,ZOTI-1,Present,"4",3,,,"0","0"
+"75930",Quercus,alba,,5,,ZOTIQUE-ST-JEAN,"79457",Quercus alba,ZOTI-1,,,,,,,
+"76496",Acer,saccharinum,,52,,MOULIN-DU-RAPIDE,"80027",Acer saccharinum,ZOTI-2,Present,"55.9",22.1,,,"0","1"
+"76498",Acer,saccharinum,,40,,MOULIN-DU-RAPIDE,"80029",Acer saccharinum,ZOTI-2,Present,"40",20,,,"0","0"
+"76499",Acer,saccharinum,,55,,MOULIN-DU-RAPIDE,"80030",Acer saccharinum,ZOTI-2,Present,"46.85",20,,,"0","1"
+"76500",Acer,saccharinum,,100,,MOULIN-DU-RAPIDE,"80031",Acer saccharinum,ZOTI-2,Present,"42.4, 50",22,,,"0","1"
+"76501",Acer,saccharinum,,27,,MOULIN-DU-RAPIDE,"80032",Acer saccharinum,ZOTI-2,Present,"31",22.3,,,"1","1"
+"76502",Acer,saccharinum,,68,,MOULIN-DU-RAPIDE,"80033",Acer saccharinum,ZOTI-2,Present,"68.9",27.88,,,"1","1"
+"76503",Prunus,sp.,,34,,MOULIN-DU-RAPIDE,"80034",Prunus sp,ZOTI-2,Present,"35.5",15.6,,,"1","1"
+"76504",Acer,platanoides,,63,,MOULIN-DU-RAPIDE,"80035",Acer platanoides,ZOTI-2,Present,"62.9",16.8,,,"1","1"
+"76505",Picea,glauca,,35,,MOULIN-DU-RAPIDE,"80036",Picea glauca,ZOTI-2,Present,"33.7",16.3,,,"1","1"
+"76506",Acer,saccharinum,,130,,MOULIN-DU-RAPIDE,"80037",Acer saccharinum,ZOTI-2,Present,"41, 34.5, 78",22.8,,,"1","1"
+"76507",Acer,negundo,,64.1,,MOULIN-DU-RAPIDE,"80038",Acer negundo,ZOTI-2,Present,"35.5, 38.7, 40",16,,,"1","1"
+"76508",Taxus,sp.,,50,,MOULIN-DU-RAPIDE,"80039",Taxus sp,ZOTI-2,Present,"50",5.5,,,"0","0"
+"76509",Acer,saccharinum,,89,,MOULIN-DU-RAPIDE,"80040",Acer saccharinum,ZOTI-2,Present,"99.1",22.9,,,"1","1"
+"76511",Acer,saccharinum,,72,,MOULIN-DU-RAPIDE,"80042",Acer saccharinum,ZOTI-2,Present,"73",26,,,"1","1"
+"76512",Acer,negundo,,38,,MOULIN-DU-RAPIDE,"80043",Acer negundo,ZOTI-2,Present,"36.3",12.7,,,"1","1"
+"76513",Acer,negundo,,28,,MOULIN-DU-RAPIDE,"80044",Acer negundo,ZOTI-2,Present,"30.2",11.5,,,"1","1"
+"76514",Acer,negundo,,8,,MOULIN-DU-RAPIDE,"80045",Acer negundo,ZOTI-2,Present,"9.8",9.2,,,"1","1"
+"76515",Acer,negundo,,25,,MOULIN-DU-RAPIDE,"80046",Acer negundo,ZOTI-2,Present,"25.5",13.5,,,"1","1"
+"76517",Acer,saccharinum,,23,,MOULIN-DU-RAPIDE,"80048",Acer saccharinum,ZOTI-2,Present,"23",26.3,,,"0","1"
+"76518",Acer,saccharinum,,37,,MOULIN-DU-RAPIDE,"80049",Acer saccharinum,ZOTI-2,Present,"36.7",26.3,,,"0","1"
+"76519",Acer,saccharinum,,34,,MOULIN-DU-RAPIDE,"80050",Acer saccharinum,ZOTI-2,Present,"35.1",26.3,,,"0","1"
+"76520",Acer,saccharinum,,23,,MOULIN-DU-RAPIDE,"80051",Acer saccharinum,ZOTI-2,Present,"23",26.3,,,"0","1"
+"76852",Populus,tremuloides,,25,,MOULIN-DU-RAPIDE,"80383",Populus tremuloides,ZOTI-2,Present,"20",5,,Top half of tree snapped off ,"0","0"
+"76853",Acer,saccharinum,,83.7,,MOULIN-DU-RAPIDE,"80384",Acer saccharinum,ZOTI-2,Present,"8",4,,"Wrong ID, actually Norway maple","0","0"
+"76854",Populus,tremuloides,,10,,MOULIN-DU-RAPIDE,"80385",Populus tremuloides,ZOTI-2,,,,,,,
+"76855",Populus,tremuloides,,25,,MOULIN-DU-RAPIDE,"80386",Populus tremuloides,ZOTI-2,,,,,,,
+"76856",Populus,tremuloides,,45,,MOULIN-DU-RAPIDE,"80387",Populus tremuloides,ZOTI-2,,,,,,,
+"76857",Populus,tremuloides,,27,,MOULIN-DU-RAPIDE,"80388",Populus tremuloides,ZOTI-2,,,,,,,
+"76858",Ulmus,americana,,25,,MOULIN-DU-RAPIDE,"80389",Ulmus americana,ZOTI-2,Absent,,,,,,
+"76859",Populus,tremuloides,,40,,MOULIN-DU-RAPIDE,"80390",Populus tremuloides,ZOTI-2,Present,"40",13.5,,,"0","0"
+"76860",Ulmus,americana,,43.9,,MOULIN-DU-RAPIDE,"80391",Ulmus americana,ZOTI-2,Present,"8",10,,,"0","0"
+"76884",Populus,tremuloides,,25,,MOULIN-DU-RAPIDE,"80415",Populus tremuloides,ZOTI-2,Present,"20",11.9,,,"0","0"
+"76886",Ulmus,americana,,37.5,,MOULIN-DU-RAPIDE,"80417",Ulmus americana,ZOTI-2,Present,"18.55, 15.9, 8.4, 8.7",8.3,,,"1","1"
+"76888",Acer,platanoides,,22,,MOULIN-DU-RAPIDE,"80419",Acer platanoides,ZOTI-2,Present,"23.9",11,,,"1","1"
+"76889",Acer,saccharinum,,30,,MOULIN-DU-RAPIDE,"80420",Acer saccharinum,ZOTI-2,Present,"32.7",17.8,,,"0","1"
+"76931",Acer,negundo,,22,,MOULIN-DU-RAPIDE,"80462",Acer negundo,ZOTI-2,Present,"22",12.5,,,"1","1"
+"76932",Acer,platanoides,,28,,MOULIN-DU-RAPIDE,"80463",Acer platanoides,ZOTI-2,Present,"29.1",15,,,"0","1"
+"76933",Acer,saccharinum,,40,,MOULIN-DU-RAPIDE,"80464",Acer saccharinum,ZOTI-2,Present,"38.9",20,,,"0","1"
+"76934",Acer,saccharinum,,40,,MOULIN-DU-RAPIDE,"80465",Acer saccharinum,ZOTI-2,Present,"38.7",26.3,,,"1","1"
+"76935",Acer,saccharinum,,72,,MOULIN-DU-RAPIDE,"80466",Acer saccharinum,ZOTI-2,Absent,"90",17.8,,,"0","0"
+"76936",Acer,saccharinum,,51,,MOULIN-DU-RAPIDE,"80467",Acer saccharinum,ZOTI-2,Present,"50.7",17.8,,,"1","1"
+"76937",Acer,saccharinum,,28,,MOULIN-DU-RAPIDE,"80468",Acer saccharinum,ZOTI-2,Present,"28",26.3,,,"0","1"
+"76938",Acer,saccharinum,,31,,MOULIN-DU-RAPIDE,"80469",Acer saccharinum,ZOTI-2,Present,"30.2",26.3,,,"0","1"
+"76939",Acer,saccharinum,,51,,MOULIN-DU-RAPIDE,"80470",Acer saccharinum,ZOTI-2,Present,"53.1",26.3,,,"0","1"
+"76940",Acer,saccharinum,,25,,MOULIN-DU-RAPIDE,"80471",Acer saccharinum,ZOTI-2,Present,"25",26.3,,,"0","1"
+"76941",Acer,saccharinum,,49,,MOULIN-DU-RAPIDE,"80472",Acer saccharinum,ZOTI-2,Present,"50.1",26.3,,,"0","1"
+"76942",Acer,saccharinum,,25,,MOULIN-DU-RAPIDE,"80473",Acer saccharinum,ZOTI-2,Present,"25",26.3,,,"0","1"
+"119822",Ulmus,davidiana,discovery,5,Rue Grenet,,"125552",Ulmus davidiana,SOEU-2,,,,,,,
+"119826",Ulmus,davidiana,discovery,5,Rue Grenet,,"125557",Ulmus davidiana,SOEU-2,,,,,,,
+"119827",Acer,platanoides,emerald lustre,5,Rue Grenet,,"125558",Acer platanoides,SOEU-2,,,,,,,
+"149859",Fraxinus,pennsylvanica,,46,2e Avenue,,"158854",Fraxinus pennsylvanica,PELI-2,,,,,,,
+"149860",Fraxinus,pennsylvanica,,14,2e Avenue,,"158855",Fraxinus pennsylvanica,PELI-2,,,,,,,
+"149861",Fraxinus,pennsylvanica,,19,2e Avenue,,"158856",Fraxinus pennsylvanica,PELI-2,,,,,,,
+"149862",Fraxinus,pennsylvanica,,19,2e Avenue,,"158857",Fraxinus pennsylvanica,PELI-2,,,,,,,
+"149863",Tilia,cordata,corzam,5,2e Avenue,,"158858",Tilia cordata,PELI-2,,,,,,,
+"156661",Acer,platanoides,summershade,20,Boulevard Rosemont,,"166253",Acer platanoides,MARQ-1,Present,"31.85",7,,,"0","1"
+"156662",Quercus,macrocarpa,,6,Boulevard Rosemont,,"166254",Quercus macrocarpa,MARQ-1,Present,"16.1",7.1,,,"1","1"
+"156690",Gleditsia,triacanthos,var. inermis,14,Boulevard Saint-Joseph Est,,"166285",Gleditsia triacanthos,PELI-1,,,,,,,
+"156691",Gleditsia,triacanthos,var. inermis,12,Boulevard Saint-Joseph Est,,"166286",Gleditsia triacanthos,PELI-1,,,,,,,
+"156771",Gleditsia,triacanthos,skyline,7,Boulevard Saint-Joseph Est,,"166366",Gleditsia triacanthos,PELI-1,,,,,,,
+"156850",Acer,platanoides,emerald lustre,5,Boulevard Saint-Joseph Est,,"166454",Acer platanoides,PELI-2,,,,,,,
+"156851",Ulmus,americana,,53,Boulevard Saint-Joseph Est,,"166455",Ulmus americana,PELI-2,,,,,,,
+"156872",Acer,saccharinum,,5,Boulevard Saint-Joseph Est,,"166482",Acer saccharinum,PELI-1,,,,,,,
+"162173",Acer,platanoides,summershade,23,Rue Garnier,,"172267",Acer platanoides,MARQ-1,Present,"30.8",11.8,,,"1","1"
+"162177",Gymnocladus,dioicus,,9,Rue Garnier,,"172276",Gymnocladus dioicus,MARQ-1,Present,"9.5",5.2,,,"1","1"
+"162178",Ulmus,americana,,65,Rue Garnier,,"172278",Ulmus americana,MARQ-1,Present,"68.3",18.1,,,"1","1"
+"162179",Acer,platanoides,summershade,25,Rue Garnier,,"172279",Acer platanoides,MARQ-1,Present," 34.9",12,,,"0","1"
+"163251",Acer,ginnala,ruby slippers,5,Rue Marquette,,"173410",Acer tataricum,MARQ-2,Present,"7.2",5.2,,,"1","1"
+"163252",Syringa,reticulata,,5,Rue Marquette,,"173411",Syringa reticulata,MARQ-2,Present,"8.2",5.4,,,"1","1"
+"163436",Ulmus,americana,,78,Rue Marquette,,"173608",Ulmus americana,MARQ-2,Present,"79.4",27.9,,,"1","1"
+"213719",Tilia,cordata,,67,Avenue Belmore,,"230278",Tilia cordata,VANI-1,Present,"69.6",20,,,"0","1"
+"213720",Acer,platanoides,deborah,19,Avenue Belmore,,"230279",Acer platanoides,VANI-1,Present,"20.95",10.5,,,"1","1"
+"213781",Gleditsia,triacanthos,var. inermis,46,Avenue Belmore,,"230343",Gleditsia triacanthos,VANI-1,Present,"47.6",18.9,,,"1","1"
+"213850",Acer,saccharinum,,64,Avenue Belmore,,"230415",Acer saccharinum,VANI-1,Present,"66.9",26.3,,,"0","1"
+"213851",Acer,saccharinum,,129,Avenue Belmore,,"230416",Acer saccharinum,VANI-1,Present,"129",26.3,,,"0","1"
+"213852",Acer,saccharinum,,107,Avenue Belmore,,"230417",Acer saccharinum,VANI-1,Present,"105.7",26.3,,,"1","1"
+"213853",Acer,saccharinum,,71,Avenue Belmore,,"230418",Acer saccharinum,VANI-1,Present,"75.95",26.3,,,"0","1"
+"213854",Acer,saccharinum,,83,Avenue Belmore,,"230419",Acer saccharinum,VANI-1,Present,"82.4",26.3,,,"0","1"
+"228565",Acer,platanoides,deborah,16,Boulevard de Maisonneuve Ouest,,"245963",Acer platanoides,LOYO-2,Present,"39.9",12.8,Measured,,"1","1"
+"228566",Acer,platanoides,deborah,17,Boulevard de Maisonneuve Ouest,,"245964",Acer platanoides,LOYO-2,Present,"39.8",12.8,Measured,,"1","1"
+"233372",Gleditsia,triacanthos,,9,Rue Sherbrooke Ouest,,"251111",Gleditsia triacanthos,VANI-1,Present,"17.15",11.2,,,"1","1"
+"233403",Acer,platanoides,,43,Rue Sherbrooke Ouest,,"251142",Acer platanoides,VANI-1,Present,"44.1",11.7,Measured,,"1","1"
+"233404",Quercus,rubra,,13,Rue Sherbrooke Ouest,,"251143",Quercus rubra,VANI-1,Present,"14.8",6,Measured,,"1","1"
+"233405",Acer,platanoides,,48,Rue Sherbrooke Ouest,,"251144",Acer platanoides,VANI-1,Present,"49.1",13.2,Measured,,"1","1"
+"233414",Quercus,rubra,,30,Rue Sherbrooke Ouest,,"251153",Quercus rubra,VANI-1,Present,"31.5",11.1,Measured,,"1","1"
+"233416",Quercus,rubra,,32,Rue Sherbrooke Ouest,,"251155",Quercus rubra,VANI-1,Present,"34.6",10,Measured,,"1","1"
+"233417",Quercus,rubra,,41,Rue Sherbrooke Ouest,,"251156",Quercus rubra,VANI-1,Present,"42.8",12,Measured,,"1","1"
+"233418",Quercus,rubra,,40,Rue Sherbrooke Ouest,,"251157",Quercus rubra,VANI-1,Present,"42.8",11.3,Measured,,"1","1"
+"233548",Quercus,rubra,,11,Rue Sherbrooke Ouest,,"251296",Quercus rubra,VANI-1,Present,"27.9",10.8,Measured,,"1","1"
+"233549",Quercus,rubra,,31,Rue Sherbrooke Ouest,,"251297",Quercus rubra,VANI-1,Present,"32.5",10,Measured,,"1","1"
+"301075",Ulmus,x hollandica,pioneer,5,,"PELICAN, LE","19052",Ulmus x hollandica,PELI-1,,,,,,,
+"301285",Acer,x freemanii,armstrong,5,,"PELICAN, LE","28054",Acer x freemanii,PELI-1,,,,,,,
+"301349",Ulmus,x morton,stalwart,5,,PÈRE MARQUETTE,"30022",Ulmus davidiana,MARQ-1,Present,"12.65",8,,,"1","1"
+"301448",Magnolia,x loebneri,leonard,5,,PÈRE MARQUETTE,"31566",Magnolia x loebneri,MARQ-1,Absent,,,,,,
+"301890",Ulmus,x morton,(accolade,20,,SIR-WILFRID-LAURIER,"47171",Ulmus davidiana,WILF-1,Present,"30.9",14,,,"1","1"
+"301891",Ulmus,x morton,(accolade,26,,SIR-WILFRID-LAURIER,"47172",Ulmus davidiana,WILF-1,Present,"28.6",13,,,"1","1"
+"301892",Ulmus,x morton,(accolade,25,,SIR-WILFRID-LAURIER,"47173",Ulmus davidiana,WILF-1,Present,"27.4",13.6,,,"1","1"
+"301893",Ulmus,x morton,(accolade,27,,SIR-WILFRID-LAURIER,"47174",Ulmus davidiana,WILF-1,Present,"32.4",15.4,,,"1","1"
+"301894",Ulmus,x morton,(accolade,18,,SIR-WILFRID-LAURIER,"47175",Ulmus davidiana,WILF-1,Present,"26.9",13.8,,,"1","1"
+"301895",Ulmus,x morton,(accolade,21,,SIR-WILFRID-LAURIER,"47176",Ulmus davidiana,WILF-1,Present,"33.4",15.2,,,"1","1"
+"301897",Ulmus,x homestead,,5,,SIR-WILFRID-LAURIER,"47641",Ulmus pumila,WILF-1,Present,"9.7,6.3,3",4.3,,Looks like theres 2 trees in the planter with smaller leaves but also id-ed as same spp.,"1","1"
+"301898",Ulmus,x homestead,,8,,SIR-WILFRID-LAURIER,"47642",Ulmus pumila,WILF-1,Present,"14.3",8.7,,,"1","1"
+"301899",Ulmus,x hollandica,pioneer,11,,SIR-WILFRID-LAURIER,"47643",Ulmus x hollandica,WILF-1,Present,"25.5",10.3,,,"1","1"
+"301920",Acer,x freemanii,autumn,6,,SIR-WILFRID-LAURIER,"47815",Acer x freemanii,WILF-2,Present,"12.6",7.7,,,"1","1"
+"301921",Acer,x freemanii,autumn,9,,SIR-WILFRID-LAURIER,"47816",Acer x freemanii,WILF-2,Present,"12.7",8.3,,,"1","1"
+"310207",Ulmus,x morton,(accolade,15,Rue Garnier,,"172275",Ulmus davidiana,MARQ-1,Present,"16.5",8.2,,,"1","1"
+"310208",Ulmus,x morton,(accolade,9,Rue Garnier,,"172277",Ulmus davidiana,MARQ-1,Present,"23.9",11.4,,,"1","1"
+"310209",,,,,,,,,,,,,,,,
+"310210",,,,,,,,,,,,,,,,

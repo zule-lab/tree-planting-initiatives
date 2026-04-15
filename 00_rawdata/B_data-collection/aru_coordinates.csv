@@ -1,0 +1,31 @@
+Site,Borough,ARU ID,ARU Serial Number,ARU Type,Planting Type,ARU location,Coordinates,Elevation (m),Date deployed,Notes
+Parc Père-Marquette,Rosemont-La Petite-Patrie,MARQ-1,2MA02208,Mini,Microforest,In,"45.53862,-73.59177",77,13May2025,Need to add sticker on ARU + sign next to ARU
+Parc Père-Marquette,Rosemont-La Petite-Patrie,MARQ-2,2MA02221,Mini,Microforest,Out,"45.53890,-73.58974",71,13May2025,Need to add sticker on ARU + sign next to ARU
+Parc du Pélican,Rosemont-La Petite-Patrie,PELI-1,2MA02890,Mini,Microforest,In,"45.54372,-73.57227",62,13May2025,Need to add sticker on ARU + sign next to ARU
+Parc du Pélican,Rosemont-La Petite-Patrie,PELI-2,2MA02899,Mini,Microforest,Out,"45.54433,-73.57225",59,13May2025,Need to add sticker on ARU + sign next to ARU
+Parc Sir-Wilfrid-Laurier,Le Plateau-Mont-Royal,WILF-1,2MM06711,Micro,Microforest,In,"45.53202,-73.58981",65,14May2025,Need to add sign next to ARU
+Parc Sir-Wilfrid-Laurier,Le Plateau-Mont-Royal,WILF-2,2MM06732,Micro,Microforest,Out,"45.53179,-73.58633",65,14May2025,Need to add sign next to ARU
+Parc Moulin-du-Rapide,Rivière-des-Prairies-Pointe-aux-Trembles,ZOTI-1,SMA11578,Mini,Microforest,In,"45.66065,-73.56933",13,12June2025,Really young trees!
+Parc Moulin-du-Rapide,Rivière-des-Prairies-Pointe-aux-Trembles,ZOTI-2,SMA10781,Mini,Microforest,Out,"45.66043, -73.57207",11,12June2025,
+Campus Loyola,CDN-NDG,LOYO-1,SMA07508,Mini,Soverdi,In,"45.45798,-73.63481",66,23May2025,"Although this site is considered to have ""normal"" planting style, the triangular part of the site has spaced out trees while the trees planted along the forest are microforest style (ie ""hybrid"" planting style)"
+Campus Loyola,CDN-NDG,LOYO-2,SMA06956,Mini,Soverdi,Out,"45.46032,-73.62993",61,23May2025,"Since there were no appropriate ""control"" sites on campus that were comparable to the planting site, we used nearby Parc Trenholme as a control site (also on de Maisonneuve, next to open grassy field, has mature trees)"
+Campus Loyola,CDN-NDG,VANI-1,2MM06704,Micro,Microforest,In,"45.45918,-73.63786",55,30May2025,This is the experimental microforest planted by Soverdi (see Jackie/Edith for details on what makes it experimental - something about soil...?)
+Campus Loyola,CDN-NDG,VANI-2,2MM06728,Micro,Microforest,Out,"45.45867,-73.63892",57,2June2025,This was set up a few days after its pair due to time constraints - will need to correct for this when processing ARU data
+Université de Montréal,CDN-NDG,UDEM-1,SMA07475,Mini,Soverdi,Out,"45.50355,-73.61783",114,02June2025,"Even though this is UDEM-1, it's actually the control site for the UdeM site (my bad!) - ARU was configured as UDEM-1. Keep this in mind when analyzing data. "
+Université de Montréal,CDN-NDG,UDEM-2,SMA07022,Mini,Soverdi,In,"45.5061580,-73.6138101",,02June2025,This is the planted site for UdeM. These coordinates were taken from Google Maps (GPS died) - retake coords and take elevation with Garmin next time on site!
+Hôpital en santé mentale Rivière-des-Prairies,Rivière-des-Prairies-Pointe-aux-Trembles,HRDP-2,SMA10644,Mini,Soverdi,In,"45.62431, -73.61340 ",26,12June2025,"Even though this is HRDP-2, it's actually the planting site for the HRDP site (my bad!) - ARU was configured as HRDP-2. Keep this in mind when analyzing data. GPS coordinates are reversed in Garmin."
+Hôpital en santé mentale Rivière-des-Prairies,Rivière-des-Prairies-Pointe-aux-Trembles,HRDP-1,SMA06963,Mini,Soverdi,Out,"45.62229,-73.61258",23,12June2025,This is the control site for HRDP. 
+Hôpital Maisonneuve-Rosemont,Rosemont-La Petite-Patrie,HOMR-1,SMA11750,Mini,Soverdi,In,"45.57695,-73.56391",45,04June2025,
+Hôpital Maisonneuve-Rosemont,Rosemont-La Petite-Patrie,HOMR-2,SMA11748,Mini,Soverdi,Out,"45.57731,-73.55912",43,04June2025,
+Le Carrefour/Hôpital du Sacré-Coeur,Ahuntsic-Cartierville,SOEU-1,SMA11583,Mini,Soverdi,In,"45.53042,-73.71122",32,05June2025,
+Le Carrefour/Hôpital du Sacré-Coeur,Ahuntsic-Cartierville,SOEU-2,SMA10727,Mini,Soverdi,Out,"45.53049,-73.71664",31,05June2025,"This site is a mix of Soverdi projects (Carrefour, Sacré-Coeur, Soeurs-de-la-Providence) - need to consider that when looking at date of trees planted, etc. Also consider that this site is really large! Encompasses many buildings and likely different owners throughout the full extent of the site. "
+L'Institut universitaire en Santé Mentale de Montréal et CHSLD Jeanne Le Ber,Mercier-Hochelaga-Maisonneuve,JEAN-1,2MM06700,Micro,Soverdi,In,"45.58698,-73.52875",28,04June2025,
+L'Institut universitaire en Santé Mentale de Montréal et CHSLD Jeanne Le Ber,Mercier-Hochelaga-Maisonneuve,JEAN-2,2MM06715,Micro,Soverdi,Out,"45.58541,-73.52851",29,04June2025,
+Cégep Marie-Victorin,Rivière-des-Prairies-Pointe-aux-Trembles,MAVI-1,2MM06683,Micro,Soverdi,In,"45.61670, -73.60507",36,12June2025,
+Cégep Marie-Victorin,Rivière-des-Prairies-Pointe-aux-Trembles,MAVI-2,2MM06734,Micro,Soverdi,Out,"45.61873, -73.60654",35,12June2025,Oopsie - didn't choose the same control site as intended... but at least now we're not too close to loud street!
+Institut universitaire en santé mentale Douglas ,Verdun,DOUG-1,2MM06741,Micro,Soverdi,In,"45.44107,-73.58670",23,02June2025,On one side of large-ish wooded area
+Institut universitaire en santé mentale Douglas ,Verdun,DOUG-2,2MM06718,Micro,Soverdi,Out,"45.44204,-73.59068",19,02June2025,On other side of large-ish wooded area
+Boisé Steinberg,Mercier-Hochelaga-Maisonneuve,STEI-1,2MM06719,Micro,Soverdi,In,"45.56505,-73.53891",22,02June2025,
+Boisé Steinberg,Mercier-Hochelaga-Maisonneuve,STEI-2,2MM06716,Micro,Soverdi,Out,"45.56484,-73.53678",18,02June2025,
+Parc Honorable-George-O'Reilly,Verdun,,,,Microforest,,,,,
+Parc Monseigneur-J-A-Richard,Verdun,,,,Microforest,,,,,

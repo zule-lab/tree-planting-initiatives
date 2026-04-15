@@ -1,0 +1,29 @@
+Site #,Site,ARU ID,ARU Type,Planting Type,ARU location,Coordinates,Elevation (m),First recording date,Last recording date,Number of recorded days
+1,Parc Père-Marquette,MARQ-1,Mini,Microforest,In,"45.53862,-73.59177",77,2025-05-14,2025-07-07,54
+1,Parc Père-Marquette,MARQ-2,Mini,Microforest,Out,"45.53890,-73.58974",71,2025-05-14,2025-07-07,54
+2,Parc Sir-Wilfrid-Laurier,WILF-1,Micro,Microforest,In,"45.53202,-73.58981",65,2025-05-14,2025-07-07,54
+2,Parc Sir-Wilfrid-Laurier,WILF-2,Micro,Microforest,Out,"45.53179,-73.58633",65,2025-05-14,2025-06-23,40
+3,Parc Moulin-du-Rapide,ZOTI-1,Mini,Microforest,In,"45.66065,-73.56933",13,2025-06-13,2025-07-11,28
+3,Parc Moulin-du-Rapide,ZOTI-2,Mini,Microforest,Out,"45.66043, -73.57207",11,2025-06-13,2025-07-11,28
+4,Campus Loyola,LOYO-1,Mini,Soverdi,In,"45.45798,-73.63481",66,2025-05-24,2025-06-29,36
+4,Campus Loyola,LOYO-2,Mini,Soverdi,Out,"45.46032,-73.62993",61,2025-05-24,2025-07-10,47
+5,Campus Loyola,VANI-1,Micro,Microforest,In,"45.45918,-73.63786",55,2025-05-30,2025-07-10,41
+5,Campus Loyola,VANI-2,Micro,Microforest,Out,"45.45867,-73.63892",57,2025-06-02,2025-07-10,38
+6,Université de Montréal,"Formerly UDEM-1, now UDEM-2",Mini,Soverdi,Out,"45.50355,-73.61783",114,2025-06-03,2025-07-08,35
+6,Université de Montréal,"Formerly UDEM-2, now UDEM-1",Mini,Soverdi,In,"45.5061580,-73.6138101",,2025-06-03,2025-07-08,35
+7,Institut universitaire en santé mentale Douglas ,DOUG-1,Micro,Soverdi,In,"45.44107,-73.58670",23,2025-06-02,2025-07-10,38
+7,Institut universitaire en santé mentale Douglas ,DOUG-2,Micro,Soverdi,Out,"45.44204,-73.59068",19,2025-06-02,2025-07-10,38
+8,Hôpital en santé mentale Rivière-des-Prairies,"Formerly HRDP-2, now HRDP-1",Mini,Soverdi,In,"45.62431, -73.61340 ",26,2025-06-13,2025-07-11,28
+8,Hôpital en santé mentale Rivière-des-Prairies,"Formerly HRDP-1, now HRDP-2",Mini,Soverdi,Out,"45.62229,-73.61258",23,2025-06-13,2025-07-11,28
+9,Hôpital Maisonneuve-Rosemont,HOMR-1,Mini,Soverdi,In,"45.57695,-73.56391",45,2025-06-05,2025-07-08,33
+9,Hôpital Maisonneuve-Rosemont,HOMR-2,Mini,Soverdi,Out,"45.57731,-73.55912",43,2025-06-05,2025-07-08,33
+10,Le Carrefour/Hôpital du Sacré-Coeur,SOEU-1,Mini,Soverdi,In,"45.53042,-73.71122",32,2025-06-06,2025-07-08,32
+10,Le Carrefour/Hôpital du Sacré-Coeur,SOEU-2,Mini,Soverdi,Out,"45.53049,-73.71664",31,2025-06-06,2025-07-08,32
+11,L'Institut universitaire en Santé Mentale de Montréal et CHSLD Jeanne Le Ber,JEAN-1,Micro,Soverdi,In,"45.58698,-73.52875",28,2025-06-04,2025-07-08,34
+11,L'Institut universitaire en Santé Mentale de Montréal et CHSLD Jeanne Le Ber,JEAN-2,Micro,Soverdi,Out,"45.58541,-73.52851",29,2025-06-04,2025-07-08,34
+12,Cégep Marie-Victorin,MAVI-1,Micro,Soverdi,In,"45.61670, -73.60507",36,,,
+12,Cégep Marie-Victorin,MAVI-2,Micro,Soverdi,Out,"45.61873, -73.60654",35,,,
+13,Boisé Steinberg,STEI-1,Micro,Soverdi,In,"45.56505,-73.53891",22,,,
+13,Boisé Steinberg,STEI-2,Micro,Soverdi,Out,"45.56484,-73.53678",18,,,
+14,Parc du Pélican,PELI-1,Mini,Microforest,In,"45.54372,-73.57227",62,,,
+14,Parc du Pélican,PELI-2,Mini,Microforest,Out,"45.54433,-73.57225",59,,,

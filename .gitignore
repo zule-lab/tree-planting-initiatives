@@ -48,7 +48,15 @@ po/*~
 # RStudio Connect folder
 rsconnect/
 
+# Other files to ignore
+00_rawdata/A_from-collaborators/
+00_rawdata/B_data-collection/qgis_fieldmap/
+01_scripts/brainstorming/
+02_outdata/A_shapefiles/
+03_field-logistics/
 04_pictures/
+
+*.qmd
 
 
 .DS_Store
