@@ -154,6 +154,18 @@ sr.df
 
 write.csv(sr.df, "02_outdata/SR-by-site.csv") # Save df
 
-# Most common species
+# Jeremy Clouthier, April 17, 2026
+# Number of times a species was recorded, and occurrence per site
+top_tags <- read.csv("02_outdata/B_species-lists/tags_filtered.csv")
 
-### JEREMY CAN ADD HIS CODE HERE ###
+top_species <- top_tags %>%
+  group_by(species_common_name) %>%
+  summarise(
+    total_observations = n(),
+    sites_present = n_distinct(location),
+    .groups = "drop"
+  ) %>%
+  arrange(desc(total_observations))
+
+
+
