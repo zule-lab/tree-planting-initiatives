@@ -133,8 +133,18 @@ site_differences <- planted %>%
 site_differences <- site_differences %>%
   select(Site_base, Species)
 
-# Top 10 Bird species across all sites
+# Top 10 Bird species across all sites, with added site occurrence
 library(dplyr)
+names(mf_data)[names(mf_data) == "species_common_name"] <- "Species"
 
-top_species <- microforest_tags %>%
-  count(Species, sort = TRUE)
+combined <- mf_data %>%
+  group_by(Species) %>%
+  summarise(
+    total_observations = n(),
+    sites_present = n_distinct(Site),
+    .groups = "drop"
+  ) %>%
+  arrange(desc(total_observations))
+
+
+
