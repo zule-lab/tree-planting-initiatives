@@ -1,0 +1,11 @@
+"","Site..","Site","ARU.ID","ARU.Type","Planting.Type","ARU.location","Coordinates","Elevation..m.","First.recording.date","Last.recording.date","Number.of.recorded.days"
+"1",1,"Parc Père-Marquette","MARQ-1","Mini","Microforest","In","45.53862,-73.59177",77,"2025-05-14","2025-07-07",54
+"2",1,"Parc Père-Marquette","MARQ-2","Mini","Microforest","Out","45.53890,-73.58974",71,"2025-05-14","2025-07-07",54
+"3",2,"Parc Sir-Wilfrid-Laurier","WILF-1","Micro","Microforest","In","45.53202,-73.58981",65,"2025-05-14","2025-07-07",54
+"4",2,"Parc Sir-Wilfrid-Laurier","WILF-2","Micro","Microforest","Out","45.53179,-73.58633",65,"2025-05-14","2025-06-23",40
+"5",3,"Parc Moulin-du-Rapide","ZOTI-1","Mini","Microforest","In","45.66065,-73.56933",13,"2025-06-13","2025-07-11",28
+"6",3,"Parc Moulin-du-Rapide","ZOTI-2","Mini","Microforest","Out","45.66043, -73.57207",11,"2025-06-13","2025-07-11",28
+"7",5,"Campus Loyola","VANI-1","Micro","Microforest","In","45.45918,-73.63786",55,"2025-05-30","2025-07-10",41
+"8",5,"Campus Loyola","VANI-2","Micro","Microforest","Out","45.45867,-73.63892",57,"2025-06-02","2025-07-10",38
+"9",14,"Parc du Pélican","PELI-1","Mini","Microforest","In","45.54372,-73.57227",62,"","",NA
+"10",14,"Parc du Pélican","PELI-2","Mini","Microforest","Out","45.54433,-73.57225",59,"","",NA

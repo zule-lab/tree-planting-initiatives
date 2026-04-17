@@ -1,14 +1,19 @@
 # Jeremy Clouthier
 
-aru_data <- read.csv("00_rawdata/ARU_deployment_data.csv")
+aru_data <- read.csv("00_rawdata/B_data-collection/aru-details_final.csv")
 tags <-read.csv("02_outdata/tags_filtered.csv")
 
 # Filter for micro forest sites
+library(dplyr)
+micro_forest_data <- aru_data %>% 
+  filter(Planting.Type == "Microforest")
 
-writecsv
+library(readr)
+write.csv(micro_forest_data, "microforest_data.csv")
+
 # Load in microforest data 
 library(readr)
-mf_data <- read_csv("00_rawdata/microforest_data.csv")
+mf_data <- read_csv("02_outdata/microforest_data.csv")
 
 # Assign richness per site based on treatment (Planted vs. control)
 library(dplyr)
