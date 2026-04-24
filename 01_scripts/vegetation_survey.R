@@ -59,6 +59,17 @@ nondoc_trees <- nondoc_trees %>%
   ) %>%
   ungroup()
 
+# Merge soverdi trees genus and species column into single species column
+library(stringr)
+
+soverdi_trees <- soverdi_trees %>%
+  mutate(
+    Species = str_c(Genus, Species, sep = " ")
+  )
+# Remove left over genus column
+soverdi_trees <- soverdi_trees %>%
+  select(-Genus)
+
 # Comments column - Managing count entries - ex: row has one species with x5
 count_trees <- nondoc_trees %>%
   filter(str_detect(Comments, "[xX]\\s*\\d+"))
@@ -174,8 +185,187 @@ nondoctrees_expanded$Species_1 <- ifelse(
   is.na(nondoctrees_expanded$Species_1),
   nondoctrees_expanded$species_from_comments,
   nondoctrees_expanded$Species_1)
+# Rename Species_1 to Species for consistency across layers
+nondoctrees_expanded <- nondoctrees_expanded %>% rename(Species = Species_1)
 
 ### Jeremy Clouthier End of Day Debrief April 23, 2026 ###
 # nondoctrees_expanded is now cleaned and is the nondoc trees master list
 # soverdi_trees has genus species columns - maybe merge them somehow for consistency
 # mtl_trees remains untouched
+
+## Jeremy Clouthier April 24, 2026 ##
+# Select the desired columns from mtl_trees
+library(tidyverse)
+mtl_trees <- mtl_trees %>% 
+  select(Site_1, dbh_2025, fullname, height2025, Comments, 
+         Measured_DBH, Measured_height)
+
+# Rename column names to be consistent with other layers
+mtl_trees <- mtl_trees %>% rename(DBH = dbh_2025)
+mtl_trees <- mtl_trees %>% rename(Species = fullname)
+mtl_trees <- mtl_trees %>% rename(Height = height2025)
+mtl_trees <- mtl_trees %>% rename(Site = Site_1)
+
+# Remove blank entries for DBH column and sum multi-stem entries
+mtl_trees <- mtl_trees %>%
+  filter(DBH != "") %>%
+  rowwise() %>%
+  mutate(
+    DBH = sum(
+      as.numeric(trimws(unlist(strsplit(DBH, ",")))),
+      na.rm = TRUE
+    )
+  ) %>%
+  ungroup()
+
+# Fix inaccurate identifications that were pointed out in comments
+mtl_trees[174, 3] <- "Acer freemanii" # Was Acer rubrum
+mtl_trees[195, 3] <- "Juglans nigra" # Was Gymnocladus dioicus
+mtl_trees[214, 3] <- "Populus spp" # Was Populas deltoides
+mtl_trees[259, 3] <- "Acer platanoides" # Was Acer saccharinum
+
+
+## Combine all tree layers into one data frame ##
+all_trees <- bind_rows(
+  mtl_trees %>% mutate(layer = "mtl"),
+  soverdi_trees %>% mutate(layer = "soverdi"),
+  nondoctrees_expanded %>% mutate(layer = "nondoctrees")
+) %>%
+  select(Site, Species, layer, DBH, Height)
+
+# Remove any entries with empty values for sites
+all_trees <- all_trees %>%
+  filter(!is.na(Site) & Site != "")
+
+# Mean DBH per site
+mean_dbh_site <- all_trees %>%
+  group_by(Site) %>%
+  summarise(mean_dbh = mean(DBH, na.rm = TRUE))
+# Plotting mean dbh per site
+library(ggplot2)
+
+ggplot(mean_dbh_site, aes(x = Site, y = mean_dbh)) +
+  geom_col() +
+  labs(
+    title = "Mean DBH per Site",
+    x = "Site",
+    y = "Mean DBH" 
+  ) + 
+  theme(axis.text.x = element_text(angle = 45, hjust = 1))
+
+# Mean DBH per site AND layer
+mean_dbh_site_layer <- all_trees %>%
+  group_by(Site, layer) %>%
+  summarise(mean_dbh = mean(dbh, na.rm = TRUE))
+# Plotting mean dbh per site based on layer
+ggplot(mean_dbh_site_layer, aes(x = Site, y = mean_dbh, fill = layer)) +
+  geom_col(position = "dodge") +
+  labs(
+    title = "Mean DBH per Site by Layer",
+    x = "Site",
+    y = "Mean DBH"
+  ) + 
+  theme(axis.text.x = element_text(angle = 45, hjust = 1))
+
+# Most frequent species per site
+species_counts <- all_trees %>%
+  group_by(Site, Species) %>%
+  summarise(n = n(), .groups = "drop")
+
+most_freq_species <- species_counts %>%
+  group_by(Site) %>%
+  slice_max(order_by = n, n = 1, with_ties = TRUE)
+
+# Calculating basal area by converting DBH in cm to meters
+all_trees <- all_trees %>%
+  mutate(
+    dbh_m = DBH / 100,
+    basal_area = pi * (dbh_m / 2)^2
+  )
+# Total Basal area per site
+basal_area_site <- all_trees %>%
+  group_by(Site) %>%
+  summarise(
+    total_ba = sum(basal_area, na.rm = TRUE),
+    mean_ba = mean(basal_area, na.rm = TRUE),
+    n = n()
+  )
+
+# Total Basal area per site AND layer
+basal_area_site_layer <- all_trees %>%
+  group_by(Site, layer) %>%
+  summarise(
+    total_ba = sum(basal_area, na.rm = TRUE),
+    .groups = "drop"
+  )
+
+# Relative Dominance 
+rel_dom_species <- all_trees %>%
+  group_by(Site, Species) %>%
+  summarise(
+    species_ba = sum(basal_area, na.rm = TRUE),
+    .groups = "drop"
+  ) %>%
+  group_by(Site) %>%
+  mutate(
+    total_ba = sum(species_ba),
+    rel_dominance = species_ba / total_ba
+  )
+# Change to percentage
+rel_dom_species <- rel_dom_species %>%
+  mutate(rel_dominance_pct = rel_dominance * 100)
+
+# Global top 10 species by relative dominance
+top10_species <- all_trees %>%
+  group_by(Species) %>%
+  summarise(total_ba = sum(basal_area, na.rm = TRUE)) %>%
+  arrange(desc(total_ba)) %>%
+  slice_head(n = 10) %>%
+  pull(Species)
+
+rel_dom_top10 <- rel_dom_species %>%
+  filter(Species %in% top10_species)
+
+rel_dom_top10 <- rel_dom_species %>%
+  mutate(
+    Species = ifelse(Species %in% top10_species, Species, "Other")
+  ) %>%
+  group_by(Site, Species) %>%
+  summarise(rel_dominance = sum(rel_dominance), .groups = "drop")
+
+# Top 10 relative dominance per site
+rel_dom_top_site <- rel_dom_species %>%
+  group_by(Site) %>%
+  slice_max(order_by = rel_dominance, n = 10)
+
+# Plotting global relative dominance
+library(ggplot2)
+
+ggplot(rel_dom_top10, aes(x = Site, y = rel_dominance, fill = Species)) +
+  geom_col() +
+  labs(
+    title = "Relative Dominance (Top 10 Species)",
+    y = "Relative Dominance"
+  ) + scale_fill_discrete(
+    breaks = c(top10_species, "Other")
+  ) +
+  theme(axis.text.x = element_text(angle = 45, hjust = 1))
+
+# Plotting top 10 relative dominance per site
+library(ggplot2)
+
+ggplot(rel_dom_top_site, aes(x = Site, y = rel_dominance, fill = Species)) +
+  geom_col() +
+  labs(
+    title = "Relative Dominance (Top 10 Species)",
+    y = "Relative Dominance"
+  ) + scale_fill_discrete(
+    breaks = c(top10_species, "Other")
+  ) + 
+  theme(axis.text.x = element_text(angle = 45, hjust = 1))
+
+
+### Jeremy Clouthier End of Day Debrief April 24, 2026 ###
+# Finished cleaning up each layer data frame and merged into all_trees
+# Analyzed mean dbh per site and by layer
+# Analyzed relative dominance per site and by layer
