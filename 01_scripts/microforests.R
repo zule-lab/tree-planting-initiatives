@@ -1,98 +1,81 @@
 # Jeremy Clouthier
 
-aru_data <- read.csv("00_rawdata/ARU_deployment_data.csv")
-tags <-read.csv("02_outdata/tags_filtered.csv")
+aru_data <- read.csv("00_rawdata/B_data-collection/aru-details_final.csv")
+tags <-read.csv("02_outdata/B_Species-lists/tags_filtered.csv")
+names(tags)[names(tags) == "location"] <- "Site"
+names(tags)[names(tags) == "species_common_name"] <- "Species"
 
 # Filter for micro forest sites
+library(dplyr)
+micro_forest_data <- aru_data %>% 
+  filter(Planting.Type == "Microforest")
 
-writecsv
+# Remove uncessary column
+micro_forest_data$Site.. <- NULL
+
+# Rename columns so they match with richness data, for later
+names(micro_forest_data)[names(micro_forest_data) == "Site"] <- "Full_name"
+names(micro_forest_data)[names(micro_forest_data) == "ARU.ID"] <- "Site"
+
+# Save micro forest data as csv
+library(readr)
+write.csv(micro_forest_data, "microforest_data.csv")
+
 # Load in microforest data 
 library(readr)
-#mf_data <- read_csv("00_rawdata/microforest_data.csv")
 
-#Reorganizing the microforest filtering
-filtered_tags <- read.csv("02_outdata/B_species-lists/tags_filtered.csv")
-microforest.location <- c("MARQ-1", "MARQ-2", "PELI-2", "WILF-1", "WILF-2", "ZOTI-1", "ZOTI-2", "VANI-1", "VANI-2")
-microforest.tags <- filtered_tags %>% filter(location %in% microforest.location)
+mf_data <- read_csv("02_outdata/microforest_data.csv")
 
+# Add species richness for each site
+richness_allsites <- read.csv("02_outdata/SR-by-site.csv")
 
-empty_matrix <- matrix(nrow=length(microforest.location), ncol=2)
+# Rename columns so they match with micro forest data
+richness_allsites$X <- NULL
+names(richness_allsites)[names(richness_allsites) == "site.name"] <- "Site"
+names(richness_allsites)[names(richness_allsites) == "SR"] <- "Richness"
 
-for(i in 1:length(microforest.location)) {
-  
-  site.name <- microforest.location[[i]]
-  number.spp <-microforest.tags %>% filter(location == site.name) %>% 
-    distinct(species_code) %>% nrow()
-  empty_matrix[i,1] <- site.name
-  empty_matrix[i, 2] <- number.spp
-  
-}
+# Join richness data to matching site
+mf_richness <- micro_forest_data %>%
+  left_join(richness_allsites %>% select(Site, Richness),
+            by = "Site")
 
-# Rename empty data frame to sr.df and add column names
-microforest.df <- as.data.frame(empty_matrix)
+# Remove Parc Pelican rows since ARU was stolen for one site
+mf_richness <- na.omit(mf_richness)
 
-colnames(microforest.df) <- c("site.name", "SR")
+#Rename Columns to prepare for t.test 
+names(mf_richness)[names(mf_richness) == "ARU.location"] <- "Treatment"
+# Rename In -> Planted, Out -> Control
+mf_richness$Treatment[mf_richness$Treatment == "In"] <- "Planted"
+mf_richness$Treatment[mf_richness$Treatment == "Out"] <- "Control"
 
-
-library(tidyr)
-microforest.df2 <- microforest.df %>% tidyr::separate(site.name, c("Park", "Treatment.number"), sep = "-", remove = FALSE)
-microforest.df2$Treatment.name <- with(microforest.df2, ifelse(Treatment.number == "1", "Planted", "Control"))
-
-# Most Common Species -----------------------------------------------------
-
-microforest.tags %>% distinct(location, species_code)
-
-unique.species <- unique(microforest.tags$species_code)
-
-sites.per.spp <- matrix(nrow=length(unique.species), ncol=2)
-
-for(i in 1:length(unique.species)) {
-  species.name <- unique.species[[i]]
-  species.tags <-microforest.tags %>% filter(species_code == species.name) 
-  n.locations <- species.tags %>% distinct(location) %>% nrow()
-  sites.per.spp[i, 1] <- species.name
-  sites.per.spp[i, 2] <- n.locations
-  
-}
-
-sites.per.spp.df <- as.data.frame(sites.per.spp)
-
-
-colnames(sites.per.spp.df) <- c("Species", "n.sites")
-
-sites.per.spp.df$n.sites.fixed<- as.numeric(sites.per.spp.df$n.sites)
-str(sites.per.spp.df)
-sites.per.spp.df.sorted <- sites.per.spp.df[order(-sites.per.spp.df$n.sites.fixed),]
-sites.per.spp.df.sorted
-
-
-
+# Create Site_Base column to perform paired t.test
+mf_richness$Site_base <- sub("-[12]$", "", mf_richness$Site)
 
 # Assign richness per site based on treatment (Planted vs. control)
 library(dplyr)
-richness_data <- mf_data %>%
+treatment_data <- mf_richness %>%
   group_by(Site_base, Treatment) %>%
   summarise(Richness = mean(Richness), .groups = "drop")
 
 # Pivot to wide format to have richness for each treatment by site
 library(tidyr)
 
-richness_site <- richness_data %>%
+treatment_richness <- treatment_data %>%
   pivot_wider(
     names_from = Treatment,
     values_from = Richness
   )
 
 # Run t.test on paired richness data
-t.test(richness_site1$Planted,
-       richness_site1$Control,
+t.test(treatment_richness$Planted,
+       treatment_richness$Control,
        paired = TRUE)
 
 # Summary statistics for microforest sites, mean, median, min/max SR
 # Done on all sites, -1 and -2
 
 # Using mf_data which has a column for treatment = planted/control
-mf_summary <- mf_data %>%
+mf_summary <- mf_richness %>%
   group_by(Treatment) %>%
   summarise(
     mean_richness   = mean(Richness, na.rm = TRUE),
@@ -105,19 +88,40 @@ mf_summary <- mf_data %>%
 
 # Determining which species occur in planted sites, but not in control sites
 # Planted -> -1, Control -> -2
+# Create list of unique species split into planted and control
+
+microforest_sites <- c("VANI", "WILF", "ZOTI", "MARQ")
+
+microforest_tags <- tags %>%
+  mutate(Site_base = sub("-[12]$", "", Site))
+
+microforest_tags <- microforest_tags %>%
+  filter(Site_base %in% microforest_sites)
+
+microforest_tags <- microforest_tags %>%
+  select(Site, Species) %>%
+  distinct()
+
+planted <- microforest_tags %>%
+  filter(grepl("-1$", Site))
+
+control <- microforest_tags %>%
+  filter(grepl("-2$", Site))
+
+mf_bird_diff <- setdiff(planted$Species, control$Species)
 
 # Filter to micro forest sites with unique recorded species, no duplicates
-mf_bird_diff <- tags %>%
+mf_species_diff <- tags %>%
   mutate(Site_base = sub("-[12]$", "", Site)) %>%
-  filter(Site_base %in% mf_speciesdiff) %>%
+  filter(Site_base %in% microforest_sites) %>%
   select(Site, Site_base, Species) %>%
   distinct()
 
 # Separate into planted and control
-planted <- mf_bird_diff %>%
+planted <- mf_species_diff %>%
   filter(grepl("-1$", Site))
 
-control <- mf_bird_diff %>%
+control <- mf_species_diff %>%
   filter(grepl("-2$", Site))
 
 # Anti-join for site-specific difference. 
@@ -130,8 +134,18 @@ site_differences <- planted %>%
 site_differences <- site_differences %>%
   select(Site_base, Species)
 
-# Top 10 Bird species across all sites
+# Top 10 Bird species across all sites, with added site occurrence
 library(dplyr)
+names(mf_data)[names(mf_data) == "species_common_name"] <- "Species"
 
-top_species <- mf_difference %>%
-  count(Species, sort = TRUE)
+combined <- mf_data %>%
+  group_by(Species) %>%
+  summarise(
+    total_observations = n(),
+    sites_present = n_distinct(Site),
+    .groups = "drop"
+  ) %>%
+  arrange(desc(total_observations))
+
+
+

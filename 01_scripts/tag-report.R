@@ -130,10 +130,10 @@ write.csv(aru_info, "05_sharing-is-caring/details-sites.csv")
 
 # 3. Play with data with Jeremy -------------------------------------------
 
+# Ex: Get SR for one site
 tags_filtered %>% filter(location == "DOUG-1") %>% distinct(species_code) %>% nrow()
 
-# For loop
-
+# For loop to get SR for all sites
 empty_matrix <- matrix(, nrow=length(sites), ncol=2)
 
 for(i in 1:length(sites)) {
@@ -149,11 +149,23 @@ for(i in 1:length(sites)) {
 # Add column names
 
 sr.df <- as.data.frame(empty_matrix)
-
 colnames(sr.df) <- c("site.name", "SR")
+sr.df
 
-# Most common species
+write.csv(sr.df, "02_outdata/SR-by-site.csv") # Save df
 
-spp.per.site <- tags_filtered %>% distinct(location, species_common_name)
+# Jeremy Clouthier, April 17, 2026
+# Number of times a species was recorded, and occurrence per site
+top_tags <- read.csv("02_outdata/B_species-lists/tags_filtered.csv")
 
-spp.per.site %>% filter(species_common_name == "Ring-billed Gull") %>% count()
+top_species <- top_tags %>%
+  group_by(species_common_name) %>%
+  summarise(
+    total_observations = n(),
+    sites_present = n_distinct(location),
+    .groups = "drop"
+  ) %>%
+  arrange(desc(total_observations))
+
+
+
