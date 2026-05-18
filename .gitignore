@@ -55,6 +55,7 @@ rsconnect/
 02_outdata/A_shapefiles/
 03_field-logistics/
 04_pictures/
+05_reports/
 
 *.qmd
 
