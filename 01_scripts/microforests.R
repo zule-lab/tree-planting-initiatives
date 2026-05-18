@@ -154,7 +154,7 @@ filtered_tags <- read.csv("02_outdata/B_species-lists/tags_filtered.csv")
 microforest.location <- c("MARQ-1", "MARQ-2", "PELI-2", "WILF-1", "WILF-2", "ZOTI-1", "ZOTI-2", "VANI-1", "VANI-2")
 microforest.tags <- filtered_tags %>% filter(location %in% microforest.location)
 
-
+# Get SR of each microforest site (planted and control)
 empty_matrix <- matrix(nrow=length(microforest.location), ncol=2)
 
 for(i in 1:length(microforest.location)) {
@@ -176,6 +176,14 @@ colnames(microforest.df) <- c("site.name", "SR")
 library(tidyr)
 microforest.df2 <- microforest.df %>% tidyr::separate(site.name, c("Park", "Treatment.number"), sep = "-", remove = FALSE)
 microforest.df2$Treatment.name <- with(microforest.df2, ifelse(Treatment.number == "1", "Planted", "Control"))
+microforest.df2$SR <- as.numeric(microforest.df2$SR)
+microforest.df2
+
+# Calculate summary statistics --------------------------------------------
+
+microforest.df2.control <- microforest.df2 %>% filter(Treatment.name == "Control")
+microforest.df2.control
+mean(microforest.df2.control$SR)
 
 # Most Common Species -----------------------------------------------------
 
@@ -205,3 +213,31 @@ sites.per.spp.df.sorted <- sites.per.spp.df[order(-sites.per.spp.df$n.sites.fixe
 sites.per.spp.df.sorted
 
 
+# Most common species in planted sites only -------------------------------
+
+microforest.planted.sites <- c("MARQ-1", "WILF-1", "ZOTI-1",  "VANI-1")
+microforest.planted.tags <- filtered_tags %>% filter(location %in% microforest.planted.sites)
+
+mf.unique.species <- unique(microforest.planted.tags$species_code)
+
+mf.sites.per.spp <- matrix(nrow=length(mf.unique.species), ncol=2)
+
+for(i in 1:length(mf.unique.species)) {
+  species.name <- mf.unique.species[[i]]
+  species.tags <-microforest.planted.tags %>% filter(species_code == species.name) 
+  n.locations <- species.tags %>% distinct(location) %>% nrow()
+  mf.sites.per.spp[i, 1] <- species.name
+  mf.sites.per.spp[i, 2] <- n.locations
+  
+}
+
+mf.sites.per.spp.df <- as.data.frame(mf.sites.per.spp)
+
+
+colnames(mf.sites.per.spp.df) <- c("Species", "n.sites")
+mf.sites.per.spp.df
+
+mf.sites.per.spp.df$n.sites.fixed<- as.numeric(mf.sites.per.spp.df$n.sites)
+str(mf.sites.per.spp.df)
+mf.sites.per.spp.df.sorted <- mf.sites.per.spp.df[order(-mf.sites.per.spp.df$n.sites.fixed),]
+mf.sites.per.spp.df.sorted
