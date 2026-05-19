@@ -166,6 +166,3 @@ top_species <- top_tags %>%
     .groups = "drop"
   ) %>%
   arrange(desc(total_observations))
-
-
-

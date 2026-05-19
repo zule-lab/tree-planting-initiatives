@@ -241,3 +241,35 @@ mf.sites.per.spp.df$n.sites.fixed<- as.numeric(mf.sites.per.spp.df$n.sites)
 str(mf.sites.per.spp.df)
 mf.sites.per.spp.df.sorted <- mf.sites.per.spp.df[order(-mf.sites.per.spp.df$n.sites.fixed),]
 mf.sites.per.spp.df.sorted
+
+
+# Paired bar graph for the microforest report -----------------------------
+
+# Paired bar graph for microforest report ---------------------------------
+# Jeremy Clouthier May 19, 2026
+# Using microforest.df2
+
+# Paired Bar chart
+library(ggplot2)
+
+ggplot(microforest.df2,
+       aes(x = Park,
+           y = SR,
+           fill = Treatment.name)) +
+  geom_col(position = "dodge") +
+  geom_text(aes(label = SR),
+            position = position_dodge(width = 0.9),
+            vjust = -0.3) +
+  scale_fill_manual(values = c(
+    "Control" = "#648FFF",
+    "Planted" = "#FFB000"
+  )) +
+  theme_classic() +
+  theme(
+    legend.position = "none"
+  ) +
+  labs(
+    x = "Site",
+    y = "Richesse d'espèces",
+    fill = "Traitment"
+  )
