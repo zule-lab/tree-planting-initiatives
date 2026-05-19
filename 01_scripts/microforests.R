@@ -249,6 +249,36 @@ mf.sites.per.spp.df.sorted
 # Jeremy Clouthier May 19, 2026
 # Using microforest.df2
 
+# Make dataframe (including Peli-1 with 0 species)
+
+# Read data
+microforest.location.with.peli2 <- c("MARQ-1", "MARQ-2", "PELI-1", "PELI-2", "WILF-1", "WILF-2", "ZOTI-1", "ZOTI-2", "VANI-1", "VANI-2")
+microforest.tags.with.peli2 <- filtered_tags %>% filter(location %in% microforest.location.with.peli2)
+
+# Get SR of each microforest site (planted and control)
+empty_matrix <- matrix(nrow=length(microforest.location.with.peli2), ncol=2)
+
+for(i in 1:length(microforest.location.with.peli2)) {
+  
+  site.name <- microforest.location.with.peli2[[i]]
+  number.spp <-microforest.tags.with.peli2 %>% filter(location == site.name) %>% 
+    distinct(species_code) %>% nrow()
+  empty_matrix[i,1] <- site.name
+  empty_matrix[i, 2] <- number.spp
+  
+}
+
+# Rename empty data frame to sr.df and add column names
+microforest.df.with.peli2 <- as.data.frame(empty_matrix)
+colnames(microforest.df.with.peli2) <- c("site.name", "SR")
+
+
+microforest.df2.with.peli2 <- microforest.df.with.peli2 %>% tidyr::separate(site.name, c("Park", "Treatment.number"), sep = "-", remove = FALSE)
+microforest.df2.with.peli2$Treatment.name <- with(microforest.df2.with.peli2, ifelse(Treatment.number == "1", "Planted", "Control"))
+microforest.df2.with.peli2$SR <- as.numeric(microforest.df2.with.peli2$SR)
+microforest.df2.with.peli2
+
+
 # Paired Bar chart
 library(ggplot2)
 
